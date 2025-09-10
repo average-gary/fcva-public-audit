@@ -1,0 +1,2058 @@
+This conference will now be recorded.
+All right, so just in the last session we were in just to kind of do a quick recap.
+We focused on the administrative functions in peak.
+We created the new body for the planning commission.
+We created a new meeting type called work session.
+We did create our recurring meetings for the board of supervisors for 2019.
+We set up the user accounts for you all.
+And then we set up one workflow to currently be used.
+Essentially the draft will be submitting items for approval to Anne.
+Just a couple other follow-up things.
+You can either add the users into the system if you want to send me a list.
+I can do that or if you want to do that yourself, that's perfectly fine too.
+Let's see.
+So today what we're going to do, the first thing we're going to do is review the agenda template.
+So you want to take a look at that.
+And then we'll be working in within agendas and maybe mock meetings.
+We'll download and publish that mock meeting agenda out to the public so you can see what that looks like.
+As I mentioned here, if time permits, we'll go ahead and run through a live manager or a meeting or mock meeting using the live manager application.
+Essentially starting, time stamping and stopping the meeting.
+So we'll kind of go through that process as well.
+And then anything else that you want to cover, if you want me to go back over some things that we covered in the last session or just some things are a little hazy and you want me to reaffirm those, I'm happy to go through those as well.
+Thank you.
+All right. So, excuse me.
+So we said we wanted to start off by looking at what the template looks like.
+So I have my mock meeting here for today.
+And again, I'm just accessing this. Sorry, I'm accessing this from the dashboard.
+So you'll see a series of meeting cards.
+This particular meeting, I have just some dummy items put in here.
+And so just so we can see what that would actually look like.
+I'm going to click on to that meeting card.
+That will take me into the meeting of March 1st.
+It'll show me all of the agenda sections related to the meeting.
+So if you recall last time, we added the work session call to order in here on the regular meeting agendas.
+If we want to create that work session as a separate agenda, we kind of set that up to do that last time as well.
+But in this case, it's also going to show me any of the items that are related to this particular agenda.
+And so when I created those dummy items, I assigned them to a specific spot on the agenda.
+And then those items will move into those spots.
+You can see right now I've got one item in review.
+And I've got two items that are approved out of the total three.
+If I want to move or rotate items around on the agenda or which way I want within sections, I can do that.
+If I need to change a specific item and move it to another section, that's actually handled through the editing of the item.
+So within sections, you can use the drag drop function.
+If you're moving from one section to another.
+So for example, if I wanted to move this committee business.
+If I wanted to move this to consent, I would edit the item.
+And scroll down to where I want the section to be.
+So in this case, currently it's under committee business.
+If I wanted to put it under something else like discussion items or consent or committee business.
+Just depending on where I want to place this item.
+And once I hit save on that, now this will move that item directly from committee business to the consent agenda.
+And when I navigate back to the agenda, I should see that change listed here as well.
+So no longer I don't have any items under committee business, that item is now listed under consent.
+And then I still have my two public hearings underneath that as well.
+So if I want to take a look at what this looks like, I can go to the download function.
+When I click on download, it will ask me, do I want to download the agenda?
+And do I want to download that as a document or as a PDF?
+Or do I want to download the packet?
+So the packet will download the agenda plus any of the supporting materials as well.
+So you may have a two page, three page agenda, but you might have a 300 page packet.
+Okay. To take a look at the agenda first, we'll go ahead and download that.
+That's going to download to the desktop here.
+And then if I open that up, you can see it's a two page document.
+We've got the image or the in the header, we have the image or the logo.
+This is pulling from regular meeting, this is pulling from the, I believe it's pulling from the meeting type.
+This will be pulling from the date, we set up for the meeting in the time.
+And then this information here comes from the meeting body in peak.
+If we can just hop back over here, just real quick here and look in administration.
+If I go to meeting bodies and went to board a supervisor's here, you can see here's the default meeting location.
+So that is getting dynamically pulled into here.
+So if we change the location for the March 1st meeting to be, you know, 1, 2, 3 Main Street,
+that would adjust the header here as well.
+So where are we to make that change?
+Yeah, great question.
+So if I go into the meeting itself, so let me go back to my dashboard here.
+And let's actually test that and see, make sure that it's actually functioning properly.
+So we go to meeting details.
+Here's my meeting location.
+And I could say that this is a 445 Northwest 14th Street.
+And if I say that, it's just going to update this meeting.
+At least I should say it should just update this meeting.
+And let me just go back in and double check that.
+And then I'm going to download that agenda again.
+So I'm going to go back over to March 1st because I've made a change.
+And I click download.
+And hopefully this will update the...
+I'll make a liar out of me.
+Hopefully this will show the new address.
+Realize it's it.
+Yeah.
+So here's my 445 Northwest 14th Street.
+Then I'll have my agenda sections listed.
+And then here is the title.
+And then here is the suggested action.
+And the whole thing here, these three lines here are all the suggested action.
+And then following those are the attachments.
+So you can see I have...
+In this case, I have an Excel document.
+I have a...
+And this is a Word document.
+And then this is a JPEG.
+If I open them up into individual tabs,
+you will see that it will convert those to a PDF.
+So each one of those documents is converted to a PDF.
+As we scroll down, we get back into...
+Here's another title.
+Suggested action of that item.
+And then the attachment related to that item.
+And then item 2.
+That's the title.
+And the suggested action.
+And then the attachment.
+So for this agenda, I only had the three items.
+The one I moved to consent.
+And then the two I had under the public hearing non-planning issues or items.
+Does that make sense or does that look like what you would expect to see?
+Roughly.
+Okay, roughly.
+The suggested action is that of a canned place where we're plugging in action.
+I mean, can it be labeled something else or can it be used for something else?
+Yeah, we can label it something different.
+So the suggested action, here's where it's pulling from.
+This is usually what we call the suggested action or the suggested motion.
+Whatever the staff recommendation is, approve the item.
+We would use that space for a description of the public hearing
+or a description.
+That's what we would want showing on the front page rather than suggested action.
+Okay, would you.
+Okay, so would you want us to to put in the suggested action?
+You want us to actually put in description here or do you want to create a custom field and call that description?
+Either one, I just don't think there ought to be a field showing on the front page that says the suggested action.
+Okay, so having labeled that is not going to be helpful.
+All right, we want to make suggestions.
+They want to do it themselves.
+Gotcha.
+But the staff typically make sure that they're not.
+They're not to be included in the agenda.
+Okay, but a resolution is a staff recommendation.
+I mean, you know, a staff that drew it up.
+That's all I'm saying is.
+Yeah.
+Yeah, I don't want to change our process now.
+I mean, if you're going to say logically, only suggested no very few times to a support member.
+I should have a suggested action that comes from staff, you know, saying,
+this is the place we need to do.
+This is what we're done.
+I guess I'm thinking of public hearings.
+And I mean, you always place this on using those descriptive prayer paths on the front page or hearings or.
+Rezoning or.
+And yeah, there's a resolution very down in the package.
+And there will be a staff recommendation that it'll be farther down in the package.
+Okay.
+They won't be able to front page.
+So between the hearings and zoning, is that text just going to be,
+would you just categorize that as description?
+It's usually the public hearing ad or the description of the rezoning.
+And I take it literally out of the public hearing ad.
+And I drop it on the structure so that it's, you know,
+the legal leaves of what we're talking about.
+Okay.
+So if it says instead of suggested action since description,
+you probably don't use a label at all.
+But I would, yeah, I wouldn't want to label it all because if you're,
+if you've got the title above it, I mean, obviously you're describing what it is.
+Did you catch all that?
+I think so.
+So just a quick question though.
+So we know we don't want suggested action displaying on the agenda or the agenda report on the cover page.
+So the cover page that separates the, you know,
+the items from their attachments for the packet.
+Do you want that removed from there as well?
+I'm having a hard time picturing how this cover page is even going to work
+because we don't have anything like this.
+I think our original conversations were.
+We don't use a cover page.
+Oh, okay.
+So we're not going to use the cover page.
+Okay.
+I understand it from our original conversation.
+I can't picture how we would use that now.
+We don't, I mean, the items that come to me come as memos from department heads already,
+you know, on our letter heads and so forth.
+Yeah.
+And I mean, and I see why the cover page,
+because it's a distinction in the packet of right now this attachment is starting,
+but that's not something we use.
+Okay.
+So sometimes, and just so I can just, I want to make sure I'm clear too,
+is that sometimes when you're saying that department heads send you a cover memo
+or a agenda memo or something like that,
+that usually when we refer to a cover page,
+we're referring to the staff memo or the staff report that has all of that information
+like the background,
+financial implications, like those sort of things.
+That's what we usually refer to when we talk about a cover page.
+I don't know what a cover page is the right term anymore to use,
+but we can take all of the custom fields that your current agenda memo uses
+and we can implement those so that instead of the director sending you a cover memo
+like a Word document or a PDF,
+they can write all that information up in the actual agenda item.
+And then if you have a sample of what that cover memo or what you're currently using,
+we can try and mock that up so that it gives you the same look and feel of that memo.
+Does that memo eventually take the back?
+Every time, right?
+I don't see any standardization around here on that.
+It's different departments.
+Yeah, every department is different.
+I mean, I feel different.
+Oh, every department is different.
+Oh yeah.
+I can see down the road once you have everybody with access to this,
+but initially nobody else is going to have access to this.
+So they're going to be sending me what they've always sent me.
+And if I'm going to enter it in,
+I'm going to be re-entering it into your format to make a cover page that I don't need.
+So.
+Okay.
+You know, turn it off.
+I'm just right now and I don't see the need for this.
+I know we provided a couple of our agendas
+prior to this whole process.
+They're still in the one drop.
+Yeah, I, I, we definitely got the agendas.
+I think sometimes, and I'm, again, I'm, I'm not saying that this isn't the case,
+but I just sometimes when we use the term cover page,
+people don't understand what we're referring to when that comes to.
+And then usually later on down the line,
+I find out that they're like, well, no, we have this cover memo or staff report
+that we use that we attach to all of our items.
+And that can be a replacement.
+I'm just.
+We go straight to the items.
+I would say.
+I mean, some instances, I think that's what we're getting lost in semantics.
+I think a little bit.
+Um, so for us,
+the, a lot of times the memo is not really a cover page.
+The memo is the item.
+You know,
+Right.
+Exactly.
+It might not be another thing with that at all sometimes.
+Right.
+It's only the most.
+It is the item.
+Right.
+Right.
+Right.
+Right now our staff people are not going to have access to the system to use your software to set it up.
+So they're going to.
+Gotcha.
+When people hold this out,
+they're going to still be sending me what they've always sent me.
+Gotcha.
+Okay.
+Yeah, I think my answer is maybe in the future.
+Yeah.
+Everybody had access.
+Yeah.
+I don't want to have to rewrite what they're writing and sending to me.
+Right.
+Yeah.
+So it looks like we can just toggle it on and off.
+Right.
+So I just turned off the cover pages.
+So you won't get any cover pages with your, uh, with your, uh, packets or your item packets.
+So it's, yeah, it's just a simple turn on turn off.
+So the flexibility they're in the future if we wanted.
+That's fine.
+And I want to do.
+I do proceed because the master plan is.
+Right.
+Eventually no one sends you anything and email.
+They're going to go in here and do it.
+Um, and they're going to like it and they're going to ask us for another.
+Yeah.
+But y'all know we got to bring that.
+Are you new?
+That's what I'm saying.
+It's going to be a gradual process.
+But right.
+One thing to do is to find out this is actually going to save a couple of clicks.
+Yeah.
+I mean, the day.
+Yeah.
+But what's the virtual law?
+Yeah.
+So it's an all or nothing.
+We can't have it on for some departments and off for other families.
+No, that looked at.
+Yeah.
+Yeah.
+It's on or it's off, right?
+Yeah.
+Yeah.
+I mean, you can do.
+You can turn it on and turn it off for specific meeting bodies, but not.
+I mean, you can turn it on or turn it off for whatever meeting you want to run.
+But it wouldn't be based on department.
+Okay.
+Okay.
+So I've just making some notes here.
+We're not.
+We're not using cover pages.
+So no cover pages.
+We're going to.
+Suggested action.
+We're going to hide from the agenda.
+So that won't display there.
+And then did you want me to add a custom field called background so that you can input that information.
+So that'll display on the agenda.
+Or.
+Or did you want to use that.
+Or did you want to use that.
+It's easier than using the suggested action field and re labeling it.
+Whatever.
+Yeah.
+I think today, we don't use the label at all.
+Am I correct in that?
+And that what I would do under consent agenda.
+She would just have the information.
+It wasn't actually.
+It's not just consent agenda.
+We don't have any descriptor.
+Right.
+This is the an item.
+It's just simple stuff.
+Yeah.
+Yeah.
+So do you usually put the background in with the actual title of the item.
+It's farther down on the consent items because those are just typically one more on like minutes and simple resolutions and simple refunds.
+Got it.
+Okay.
+But the more detailed items where background is necessary, then I might have a descriptor.
+Okay.
+Well, I'll ask them, which is easier or better.
+Would the background.
+Where would you want that to display?
+Would you want the background to display?
+Where are these suggested action displays currently?
+Or.
+Not at all.
+It's an agenda down at the bottom, the way you have the other two items is where it looks logical today.
+Okay.
+So here would be the background of this item for public hearing.
+Anything that's going to be a public hearing or any kind of complicated issue is going to have a descriptor.
+Got it.
+Okay.
+So I'll ask our designers what's the best method, whether it's just renaming this field and call it description.
+And then you can plot that information in there.
+And it doesn't need to show.
+It doesn't need to say anything.
+Just take out the words suggested action.
+Oh, right.
+Okay.
+Yeah.
+Yeah.
+This would just have whatever the description is of the item.
+Yeah.
+Okay.
+Yeah.
+That was I'm just wondering whether, you know, if you actually put in the more, you know, the more background here, you know, into the actual title, I didn't know if that that made sense to do it that way rather than having anything in here as well.
+Well, I guess the title box is going to take that.
+I mean, if there was ever a kind of when you needed both, you would have both, right?
+Yeah.
+I mean, it'll take up to, it'll take up to 55,000 characters in that one section.
+So I may not even need a second box.
+And there is no differentiation of font size or type in that box, correct?
+Right now, currently, no, there isn't a text editor.
+I think they're working on that.
+So let me see where that is and let's see if that's a possibility.
+So basically what you want to be able to do, right, is like maybe bold this and underlying this, something like that.
+Yeah.
+Or smaller point size for the description, bigger for the title.
+So among all of these boxes right now, we're locked into whether it's the suggested action or the other, they're all going to be the same point size.
+That's right.
+Yep.
+But whatever that point size is, if that's if that's wrong.
+So here's here's just I just filled in that sample information.
+So here's like kind of the background if you wanted to call it that.
+Okay.
+So just here's the title and then here's all of that is in that same field.
+So up to you, whichever you'd like, I'll search all categories on that, how you want to do that.
+And yes, as you mentioned, your consent items are routine and whatnot.
+So you most likely wouldn't have something.
+It's a it's a it's a bill you're paying.
+It's a miniature approving.
+So really this would probably fall under some other, some other section here, which would make more sense.
+So I'll go ahead and pull that out of consent.
+And then so I'll ask about the text editor or the HTML editor about setting that up for you all.
+And so that you can control that font size and those sort of things.
+And then let's see if there's anything else here.
+Sorry, I'm not trying to call what I want to do here.
+I want to go to the agenda, sorry, download agenda.
+And then if we're not using cover pages, the packet, when you download the packet, it will just have the agenda and then it will just start to fall in line with the attachments related.
+So there won't be any cover pages in between.
+It'll just be the agenda and then your supporting documentation will follow that.
+Does that sound right?
+We're any automatic labeling on the attachments so that you know what item they go with.
+Or is that really what you guys use the cover page for?
+That's essentially, yeah, what the cover page is to separate the items based on where they are on the agenda.
+But again, we'll number the attachments in the packet for five six.
+But unless that attachment actually has the number written on it as far as what agenda item it's attached to, they'd really have to be able to see that from the agenda itself.
+And if you set up bookmarks, you can also do the bookmarks to jump to like I'm interested in this resolution or based on jumping to the specific attachments, I can do that from here as well.
+Can you go back to the very first page here in the packet?
+All right, so yes, we scroll down and we get to an attached item.
+You scroll down a little bit where you've got the links yet.
+So on the background when you click those, is that staying within the packet?
+So this will open up in a separate page or.
+Then just jump down.
+Oh no, it doesn't jump down to that spot in the packet.
+That's right.
+It will, you can open up those links separately or as you start to scroll down, then those links.
+So this is image one.
+This is attachment one. This is attachment two.
+Attachment three.
+And then when we get to the next.
+Here's attachment one.
+Attachment two.
+But those links are not jumping within the document, right?
+That's correct.
+You window.
+Correct.
+It's either opening it in the existing.
+So if I click on that link, it actually just jumps me.
+It doesn't jump me.
+It just, it opens up that link.
+Or if I want to, I can open it up in a new tab or what have you from here.
+Yeah.
+I just don't understand why it doesn't just take you to the item.
+Because this is the full agenda packet.
+It's not the agenda sheet.
+Do you know where I'm saying where I'm coming from?
+Yep.
+I mean, in that entire package, I don't get why it's not jumping down to that section in that packet.
+Yeah.
+The bookmarks, the bookmarks will take you to the spot in the packet.
+So if you just wanted to jump to those particular items.
+Yeah.
+Well, I just know at the PDF professional, you know, I can click, I can actually set that to jump down to an anchor further down.
+So that's just what I was asking.
+I understand.
+I can figure out how the board members are going to navigate that.
+They're going to click on it and they'll open up.
+And how are going to work?
+How much easier it's going to be?
+Then they click back.
+Yeah.
+If they're using, if they use I legislate, that was the plan, right?
+They're going to use I legislate.
+Yeah.
+So let me see if I can show you what that would look like on their side.
+Yeah.
+I just want to see if I, I don't remember if I put myself in as a user or not.
+I just think that it's going to be a different, it's a different product.
+It's actually easier.
+I think the PDF download as well.
+What, honestly?
+No.
+No, it's a complete app.
+It's all absorbed within the app.
+So it's more like a good reader that has all the different navigation stuff?
+Yeah.
+Well, it's better for this process than good reader unless buggy.
+So it allows?
+It allows them to actually sort by their notes as well.
+You really think any of them do that?
+Yeah.
+Yeah.
+They do.
+Our board?
+Yeah.
+I've seen a few notes on the agenda.
+Oh, sorry.
+They were like, not in good reader, they're not doing it because it's, it's, good read is not an easy process
+depending on the person using it.
+So if we had actually published this agenda, so we just kind of looked at the download.
+If we actually publish this and we say we want to publish it to iLegend to the website.
+And we want to publish the agenda and the packet or either or.
+And when we publish that.
+That will send the links to the meeting out to the public facing page here.
+So you'll see here's my March 1st meeting 7pm.
+There's my agenda and packet.
+And at the same time, and I legislate.
+And I legislate.
+Let me bring that over for you.
+So this is what I legislate would look like.
+So I've logged in as a supervisor.
+And when I click on to the meeting.
+There's my meeting listing here.
+There's my item.
+And you'll notice any item that has an attachment will have a paper clip to it.
+If I click on to that item.
+Then you'll see any of the attachments.
+Oh, by the way, I'll turn the cover page off for I legislate to.
+But here would be, you know, here's where I could click in to look at those particular attachments related to the item.
+You can make annotations right there.
+Save them out.
+Right.
+So you can go.
+Get back to the main agenda.
+Did you just hit your bread problem up top?
+I just hit the item details that takes you back to the last place of the item.
+And then if you want to go back another step, you can go to agenda.
+And you see how they make notes on each item there.
+You can also, and then they can actually click on the left side there on the notes.
+Which is nice.
+And they can actually roll in order of their little notes that they made.
+This is just.
+So if I made a note on this, I could actually track my notes.
+It would give me.
+It'll tell me that I made a note on the board of supervisors from March 1st.
+And if I want to jump right to that, it'll take me right to my note.
+If I've made annotations on the attachments.
+So for example, here on the resolution.
+If I wanted to draw something on here, I've got my annotation.
+In this case, this is the Windows version.
+I can highlight things if I want.
+I can create a note in here in the actual thing and put that note where I want.
+So regarding.
+In the next section to.
+Bring up.
+That the funding.
+Doesn't appear.
+To be allocated.
+So I can save my annotations on the document itself.
+And then I can just go back to my item details.
+If I want to make a note, here's a note on the item.
+You know, be sure to refer to page two.
+Page two of the resolution.
+For comments.
+Or I could put the comments in here.
+But that just will allow me to go.
+Okay.
+If I go to attachments, I go to the resolution.
+I go to page two in the.
+Page two.
+You can also draw two.
+So if you wanted to highlight something or.
+And then.
+Excuse me.
+And then you can also delete things too.
+From the.
+If you want to remove things that you've done.
+You can remove those things as well.
+You can.
+Clear your annotations.
+So if you want to clear everything out.
+That's why I don't think it's going to take more than 20 minutes with the board.
+I'm going over this.
+From.
+I was house again.
+Send it out.
+Forward the training so they can play a little bit too.
+And then.
+Go work with them.
+And then they'll have my cell number like they do today.
+They need help.
+We'll use everybody else.
+So I just wanted to give you an idea of what the.
+What the interface looks like from.
+From their side.
+So when they're seeing the attachments.
+This would be that suggested action.
+And then.
+With a cover page.
+Just going to see them then.
+And this one that on the front end.
+I don't see it.
+I don't think it will be to think it to.
+They get to all the detail.
+The attachments.
+Everything.
+Yeah.
+I just don't.
+Well, they're used to the big alphabet page now.
+It's different.
+I mean, those are kind of.
+So we kind of have a cover page.
+But it's the now big, big letter or the out of that.
+Yeah.
+But we're not going to be labeling attachments that way.
+But we're also making a lot easier.
+Yeah.
+And this for the Navi right now we give them a very manual process.
+Through their agendas and this good reader.
+This actually organizes it more.
+So if they're using this to run their meeting.
+I don't see where you need the cover page necessarily.
+So it's pretty laid out.
+It's.
+They're following the agenda.
+And here's the item.
+Click on it.
+And you've got all the attachments in detail.
+You get everyone.
+And I think here you have a good instinct.
+And let's keep it.
+And the way we got it.
+And then we can talk about turning some of those on.
+Yeah.
+A bit on the flip point.
+If we have a server page.
+I don't know when anybody is going to really care.
+That's an action page.
+I mean, it is a header page basically saying, hey,
+this is what's coming behind me.
+Or whatever.
+Yeah, I mean, I guess I'm going to have to keep the actions
+and people that are really.
+Yeah.
+Yeah.
+And where that where that cover page or that header page,
+as you were talking about, where that actually just comes from,
+is if you're, if there's certain fields that you'd like to put
+information in that aren't contained in the standard field that we have,
+you know, I legislate, it's always nice to have the cover page
+because this gives them, like you said, this is the item.
+It gives them all the pertinent information,
+the background, the funding source, the what-have-you.
+All of that's in there.
+And then if they want the backup material,
+they're going back in to look at any maps, graphs, and things like that.
+Okay, but rather than filling out a form to get there,
+is there a way to just drop what I have into that?
+I mean, yeah.
+So if you want to drop the staff memo as an attachment,
+then by all means that would just replace the cover page.
+So whatever document you put in,
+so if we go back to our agenda item here,
+and let's go back to our committee business here,
+if you wanted to take that staff memo or the report that you get from them,
+that word document, or what-have-you,
+just scroll down to the bottom here,
+and then you would just browse your computer,
+or whatever the email they sent you,
+and then just find the document you want,
+and open it up.
+So this is just a PDF document here.
+And then save it.
+And then I can drag that to where I want that to be.
+I want that to be first, you know.
+And then any sort of other sample documentation,
+if I want to remove something, I can remove it.
+Let's clear it up.
+I'm going to click on one hand asking.
+If the cover sheet option is turned on,
+then there's a certain amount of that,
+this boilerplate is coming just from that meeting info, correct?
+If the cover page is turned on,
+that's saying that you want granicus to create a cover page
+based on the information that's contained in the form.
+But a certain amount of that information on the form
+is boilerplate pulled from the meeting info, correct?
+It's a place and the time and the date of the meeting.
+All of that is pre-plugged in because you're pulling that from the form.
+Yeah, that's exactly-
+Yeah, so that's tied from the-
+that's the agenda template.
+What I was referring to is the actual item itself.
+So when you have an item,
+and this was the item we were going through,
+where we had the title,
+and then this could be the background here.
+That information follows and lying here.
+But what I would have a document that somebody's emailing you
+and you want to attach that to the item.
+Now, I don't want to attach that item.
+I just want the information that's in it.
+Can I drop that into the cover page form
+rather than having to redo it?
+Can you turn the cover page back on?
+And let's first go back and look at it.
+I don't think you can drop it in without having to type it in.
+You can cut and paste,
+because that's exactly what I did in the-
+sorry, in the-
+So I'll turn back on the cover pages here.
+And as I mentioned, we can turn off that on.
+I legislate, too, if we're not going to use the cover pages.
+But-
+So-
+The cover page is created from the section called the-
+Manit, the item template.
+So when you create an item template,
+there are, as you pointed out,
+boilerplate things that we set up.
+We want to have the title,
+we want to have the type,
+and we want to have the meeting body.
+Other fields that you might want required,
+we can put in.
+When these are just the standard fields,
+we could add additional fields like background,
+fiscal impact, those sort of things.
+And then that way,
+when you run the cover page,
+it has in addition to the title
+and the section that it resolves in
+and the meeting body it's for,
+and the department who submitted it,
+you can have those additional fields
+displaying to your voting members
+or to your constituents.
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So-
+So title suggested action, so here by turned on the cover page.
+So the date, the submitter, the department, the type, the agenda section, the subject
+or the title, and in this case, in the subject title, I also included the background which
+I cut and paste it in.
+And then suggested action, if there is one, and then attachments.
+Now if we add custom fields in, then those fields would display in the order in which you
+want.
+So if you want to have, we don't want to have suggested action display, we can turn that
+off.
+Yeah, we want to add...
+We've got a good handle on that thing, it didn't encourage me if I wrong when Ann was
+asking.
+All right, we understand you've got bullet plate up at the top, right?
+There's two things on the cover page, you're always going to come in, where it says born
+a supervisor, Jenna, item report, I think what she was asking is, she has, like, they send
+her the word document, could she just, where you have subject, background, all that, could
+she simply...
+Yeah, single field, where she just drops in the memo right there, you're probably good
+with the header up there.
+All this subject, background, all that, and I'm assuming the answer is no, she'd have
+to end up cutting and pasting the pieces on that.
+Oh, she could just drop it in the first field.
+Well, yeah, yeah, we sent a single field for the rest of that, the text could just be
+copied and pasted into.
+Which is what we're asking.
+Yeah, that's what it is.
+So, is the bullet plate set at the top, is that somewhat flexible as well, can we turn
+off some of those fields, because some of those things are enough?
+Yeah, so you're saying up here, if we don't want us to be submitted by our department,
+we can turn those off too.
+These are just by default.
+Okay.
+Yeah, so we can change those, this, however down here, all I simply did is in the item
+title area, I literally just cut and pasted from a document and dropped that stuff in
+here.
+Right.
+And what was the character limit on that?
+55,000 characters, about nine pages of text.
+Yeah, that's pretty good.
+Okay.
+So, the other side, it would be on departmental letterhead, because it wouldn't, it's got
+to be just a text drop, not a, it's not a pretty picture memo type thing, unless we
+want to attach it as a separate document.
+Okay.
+Right.
+So, that's the floor mine option, so I thought, yeah, that's for all the questions.
+Oh, nice, how we work through this process, but do you know the pros and cons from that
+one?
+By just dropping the text, and we standardize, because the department has a different way
+they do write ahead.
+Yeah, so if we could quit using the broad by font on gender, that would be helpful.
+Yeah.
+Yeah.
+So, there are pros and cons.
+Which I'm kind of going to look good with this process, we can suddenly start to
+make.
+And that's what I've done with the minutes.
+about everybody standardizing the committee.
+We're just what you've done with the agenda.
+There's so much work that I know, it's great.
+We're getting there, okay.
+Yeah.
+Yeah.
+And the other thing that I just wanted to point out
+was if the cover sheet, like this is the cup,
+this is our cover sheet.
+But if you wanted to just attach whatever they're sending you,
+you could do that too.
+This is what the cover sheet for the city of Plymouth,
+Minnesota looks like.
+There's, they're prepared by, reviewed by.
+There are a couple of custom fields that they've put in.
+And you can see their format looks a little bit different.
+They have action requested, that's a custom field.
+Or sorry, that's what they're calling their suggested action.
+Background, budget impact, and then their attachments.
+So that's what I was just saying is if you wanted to build,
+and like you said though, right now,
+they don't have access to the system.
+So they can't really put that information in.
+They're just sending you the memo.
+I was just saying, if you wanted to attach the memo
+that they send you, you can do it as a attachment.
+Or you can just cut and paste the stuff from that memo
+and drop it into the subject.
+Whichever is easy.
+The option turned on, and it's all or nothing.
+Then is there an option to delete this page
+out of the final agenda packet before it publishes?
+Yep, yep.
+So when you publish, or sorry, when you, yeah.
+So when you download, there's an option here
+to use cover pages or not.
+So if you don't want to use them on a one-off basis,
+you can turn them on or turn them off.
+And I just delete one or two that I want to.
+I think you'd have to do that through Adobe.
+I don't know how you would do it.
+But I could do that with the Adobe.
+Yep, you could.
+Yes, just via.
+OK, that's an option then.
+OK.
+With one more question on the cover pages,
+making modifications, doing kind of that wetter head format
+that we saw from the other locality is that something
+that we have flexibility to manipulate and set up.
+Or is that just working with you all to do that?
+Right.
+To get it back to that.
+So essentially what we do is we fill in an administration.
+We fill in the custom fields.
+Or you can fill in the custom fields that you want
+on your template.
+So if I said, for example, here, I wanted
+to put in a custom field, and I want to call it background.
+It's a text field.
+We'll call it background.
+I can fill that field in.
+And then we can add it to the template.
+So under the item template, if I want
+to add that custom field in, then I just
+go ahead and add in my background.
+And then that would be another field that somebody would fill in.
+So just like you saw here, this is their custom page.
+We just took the information that we have in our system
+and then put it in a pseudo format that
+matched up with the memo that they were already familiar with.
+Now, seeing you use their logo too,
+I'm assuming if we want to do something like that,
+we'd have to go through your development team.
+Yeah, it's the designers.
+So what you can do on your end is you
+can determine what fields you want, where you want those fields
+to reside.
+And then we just talk to our design team
+and they say, OK, how do you want it to look?
+Do you want the logo on the left hand side?
+Do you want it on the right hand side?
+How do you want this laid out?
+And we can create those, again, just
+based upon other clients.
+I'll give you another example here.
+Maybe I showed you this last time,
+but this is the Bainbridge Island one.
+So they're agenda packet, and they're
+going to have the first two pages,
+three pages is going to be their agenda summary.
+And then all of the supporting materials will follow that.
+So let me see if I can blow this up a little bit.
+So here's their agenda, and then their item.
+So this is their title, and then this is their attachment.
+And as I scroll down, and they get down
+to the end of their agenda, then this
+is what their cover page looks like.
+They call it the agenda bill.
+But it's pulling in the meeting date.
+They have a custom field called estimated time.
+This is the title of the item.
+They have a custom field called strategic priority.
+And then some of these other fields, fiscal impact,
+you can see none of these fields are filled out.
+They're not a required field for this particular one.
+Background attachments, fiscal details.
+So it's taking the information from the granticus,
+and it's putting it into the format or the design
+that this client wanted.
+And same thing for Plymouth.
+This is what their current report looks like.
+So when Joe Drafter is looking at it,
+it looks exactly or very similar to what they're currently
+doing in Word when they're filling their things out.
+You go.
+So I hope that helps.
+And again, if it's a down the road thing, that's fine.
+I just wanted to let you know that functionality is there
+if you want it.
+Thank you.
+Yep.
+OK.
+And again, so just depending on whatever custom fields
+you want, let us know, or put those in.
+Or you can put those in and then just let us know, hey,
+we want these fields to display on the agenda.
+Or we want these fields to display on the cover sheet.
+Or if you actually fill out fields and you don't care
+that they could be used strictly for internal purposes,
+and they don't show up on the cover sheet or the agenda,
+that's perfectly fine, too.
+I had a client that has the county managers' comments
+is a field that they created.
+And when it goes across the county managers desk,
+that county manager just types in comments related
+to the item.
+And those are just used internally.
+They don't show up on the agenda.
+They don't show up on the cover page.
+It's just something that he or she
+wants to have displayed on the item for historical purposes.
+Any other questions or comments?
+And I'll ask about the font and the HTML editor,
+as far as if that would be easier to turn things on.
+Do you think that would be something
+you would prefer to have the ability to do?
+Oh, yeah.
+OK, so you can bolt certain things
+and then rely on other things.
+OK, I'll double check on that.
+We'll make sure we'll see if it's ready for prime time.
+Yes.
+Thanks, clearly a mess, sir, but people like they're pretty.
+Well, we're talking about formats and fonts and stuff.
+If you go back to the SCVA view real quick,
+yeah.
+Go back over here.
+Yeah, yeah.
+This is the web portal piece that will be in our website.
+Do we have the ability to change font colors
+and what things of that nature, because we want to match it
+to our color scheme and our website?
+Yeah, absolutely.
+That was there.
+Absolutely.
+So they haven't changed their design team.
+Can do a lot for us when it comes to how our web page presents.
+If you go out and look at all the different granite
+as clients, everybody's a little different.
+And like we did a combined portal.
+It was two.
+We did the schools and the county together,
+actually, on the same portal.
+So there's a lot they can do on that.
+OK, I didn't know all that was back there.
+That's cool.
+Yeah, there's a template.
+What we call our template designer.
+So this is what we call a view page.
+And the view page tells you what content is going
+to be on that page.
+The template tells you how you want that displayed.
+And there's a series of even looks and feel.
+Like you can see as I click on the left hand side,
+this is available archives, tabs with collapsible panels.
+So if I want to see a little bit of a different look,
+I can just simply point and click save
+and going back over to my view page
+if I was to refresh this.
+We'd get a different look and feel for that.
+Also content.
+So if you want to edit the text in your instructional text,
+do you want to include a streaming video help link?
+And then even the column settings.
+So you can see here, like this is name, this is date,
+this is agenda.
+You could say this is a meeting name.
+So we could even change that.
+So now it says meeting name.
+So you can change a lot of these.
+It changed the format of the date format to be the full date.
+You want a 25-hour clock.
+Do you not want the time at all?
+All of those sort of things you can change through here
+pretty simply.
+The last thing is really around the design.
+So as you were talking about the colors,
+so here's where you can actually adjust the colors.
+Our team usually tries to match up the website
+with the color scheme associated with you.
+But if that changes and you know what those colors are,
+you can go in and put those in either
+by using that hexadecimal code or by using this little finder
+to try and help you find the color you want.
+Cool.
+So I'd like to ask a question here.
+Nano, the last portal I dealt with,
+we actually had the video player at the top of the page.
+So they could see the broadcast channel, live streaming.
+I don't know if they'll do.
+Do we get with the designers on that as well?
+Yeah, I think a lot of times what they'll do
+is they'll drop the publishing point to the player
+or the publishing point to, is that for the live streaming?
+Or is it for the live stream?
+Yeah, so if you're seeing,
+if you're showing us, well, if you go back to the SCBA view
+in your tab.
+Yep, let me up back over there, handle on six.
+So here?
+Yeah.
+So basically the top of that page would be our video viewers.
+So when they land on the portal,
+they can always watch our live broadcast at that point,
+maximize if they want.
+And then we had the, you know, our meetings down below
+that the archive, then you could click on a meeting
+and then the player would show up with the agenda,
+with it as well.
+So I just noticed that there wasn't a placeholder up there
+for the player.
+Well, when the meeting actually starts,
+so if we start this March 1st meeting,
+the date and time turns into an in progress link.
+And then you can click from there.
+There is a way in the, in the plet, excuse me,
+in the template here to put like a publishing point
+to the encoder in here.
+So I probably want to get with the designers real quick
+on that.
+But if I said, hey, I want to create a publishing,
+publishing point for the live stream here.
+Maybe I could get the HTML from here.
+And then I could go into that template
+and wear that information at the top is,
+let's see, content.
+So if I go into edit the text here,
+I could maybe do something like meetings are arranged
+by blah, blah, blah.
+And then I can also say, click here
+to view live stream, let's see how it works.
+So if I said here,
+oh, actually, I want to do click here, click here.
+I'm going to link that to see if this will work.
+So click here to view live stream.
+So if I go back over,
+I'm just talking about,
+we actually, there was actually a video player
+sitting at the top of this page that Granitas studied for us.
+Right, right on that page.
+And if you go to blosterva.info
+and go to their Granitas site,
+you'll see exactly what I'm talking about.
+Glosters, GLOUC, GLOU,
+C-E-S-T-E-R,
+B-A-H-M-F.
+Got info?
+So agenda's a minute.
+Oh, okay, yeah.
+So you've got an actual player up at the top, I see.
+Yes.
+And that was Granitas.
+That's something that the designers would do.
+That's a little out of my league.
+I'm assuming that's what we want as well.
+We want everybody to see this live stream.
+But you need to get that stuff out.
+We did it with the schools,
+so you can choose which channel you want.
+With the meeting, all below that.
+And then these are based upon the folders.
+So you can have that, you know,
+planning board of supervisors
+and then buy a year,
+and then looks like you had others out here.
+We need to figure out how to have an ornice on the website
+with, I think,
+we've got all the archive stuff,
+you know, in ways you're finished,
+and then you've kind of got the calendar
+for all the current and items and stuff.
+I don't think it's a good go.
+We need to go backwards with floating stuff
+into Granitas,
+because it looks like we just put a link in there
+for archive menace.
+Right, yeah.
+We have an app.
+It's really, we don't know.
+Okay, I'll play it for that.
+I'll talk to you.
+That's time.
+No, that's an intern thing.
+I don't play for that.
+No, any more questions?
+But I can put a ticket to that for the designers to do.
+But essentially, I would just have that custom player
+would sit up on that top page,
+and then you would just click on to it to watch, you know,
+this is what's going through the.
+Yeah, if you don't mind putting that in there,
+and that's how I will want it.
+Okay.
+Thank you.
+Yeah.
+I think we can move on to training now.
+No, that's all kind of the same thing.
+It's just a matter of, I try to figure out what you guys want,
+and if I can do it, I'll do it.
+Otherwise, a lot of times,
+I've just got to, it's above my pay grade.
+So I got to, I got to kick it over,
+kick the can down the road to somebody else,
+I can handle it.
+So that's kind of, so we're at the,
+at the hour mark here.
+Questions on peak.
+Again, I'll, I'm bringing up the,
+the notes I have is,
+we're not going to be running the cover pages for now.
+We're going to be hiding the suggested action on the agenda,
+and then I'm going to be checking on HTML editor.
+Well, we know each other on.
+Yep, let's see V.A.
+We'll definitely remember to come up with that format.
+Yeah, they want that we want to make your work on that.
+So we'll move on for now.
+I think you left on the cover pages, right?
+I did, but I can, I can turn them back off pretty quickly.
+Well, we're still on the fence.
+We really just can't picture how it's going to work yet.
+So, okay, okay.
+We know.
+Yep.
+Oh, I think we need to take an afternoon and get in there
+and try to create something.
+Could you send us,
+and now you gave us a link of a really nice one earlier.
+Is there any way you could send us a link to a two or three
+of the customers that are using the cover pages effectively
+that it might help us visualize it a little bit more?
+Sure.
+I know I'm more of a visual person as well.
+Yep.
+Yeah, I just, we just did one for,
+yeah, yeah, I'll send, I'll send you those in the recap today.
+So, I'll just put that note.
+Thank you.
+Send samples of clients using...
+Cool.
+Call me.
+What was that exactly?
+So, I think, I think, okay, so I think where we left off was,
+we get into our agenda and the,
+we download the agenda.
+So, we want to make sure that our agenda's correct.
+We want to make sure that our packets correct.
+So, whether we're using cover pages or not,
+you can turn them on or off even on the,
+on the, I'm running a cover page,
+I'm running cover pages for, for example,
+for the supervisors.
+However, when planning commission wants to run their meeting,
+we're not gonna use cover pages or vice versa.
+So, you can run those on a one-off basis.
+This box just simply is checked
+if over an administration you have that checked.
+So, that way it by default, it's turned on.
+You can have it by default turned off.
+Once you've downloaded the agenda and the packet
+and everything looks good,
+typically at that point,
+the person who's posting the agenda
+will usually lock the agenda
+and set the meeting from draft to final.
+And then we'll go to the publish option
+to publish the document.
+Okay, so here it even tells me, please save.
+So, if I said, yeah, go ahead and save the document.
+And then I want to publish this.
+Where do I want to publish it to?
+So, do I want to publish to I legislate or just the web?
+And do I want to publish the agenda in the packet or both?
+And then if I hit publish,
+that is going to push that out to that FCVA view,
+which will be that eventually I framed into your website
+so that people can access that.
+So, that is the package to the board before
+it gives both the assumption.
+That's what I legislate thing is nice
+because then it hits our iPad to the same level.
+Yeah, exactly.
+So, you could even send out and I've seen this
+where some clients send out draft agendas
+before the actual final final.
+So, what they'll do is they'll go to publish
+and they'll just do I legislate
+and they'll just publish it to I Ledge.
+So, that that way, if they're committee members
+or council members or commissioners
+want to take a look at that prior to
+and maybe get them signed off or feedback,
+they can do that prior to the timeline
+where you have to publish your meeting.
+I was at the draft.
+Can you call it a final?
+What's with that?
+Yeah.
+Switching the meeting status from draft to final,
+what does that actually do or is it just a label
+that's out there?
+It does do something.
+So, it is a label and that label will show up
+on the home page.
+Excuse me, on the home page.
+However, if you have an agenda that's in a final status,
+people that are drafters,
+people that are not approvers of the item
+will be able to or should be able to access the agenda
+at that point.
+Let me just take a quick look here.
+I want to go back to my people.
+I want to make sure I had my,
+so there's my buddy Joe Drafter.
+Joe Drafter is, and I believe he's just listed
+as a drafter.
+Let me just double check.
+Under my users.
+Yeah, so Joe Drafter is listed as a drafter.
+If I'm to log out of peak as the administrator
+and I log in as Joe,
+I'm just going to show you the difference.
+So, Joe Drafter,
+password, okay, maybe not.
+Let me see, I'll go back in and reset his password.
+Sorry.
+All right, so log back in as Joe,
+sorry about the layout here.
+So, typically when you log in as a drafter,
+I won't have access to get to the meetings
+because all I have access to are items that are mine.
+So, items I've created or I can view other items
+that other people have created in the system.
+When the meeting is made final in this case,
+I can click on to this and it will take me into the agenda.
+Now, again, I'm still,
+don't know why this was actually,
+why this is a functionality,
+but you ask the question and I'll just tell you
+once the meeting status is listed as final,
+your drafters could come in here and review the items.
+I don't know how that really helps them.
+Because they can't download,
+they can't add items,
+they can't do anything to it.
+Just review.
+So, as far as what that means,
+I think it's more,
+I would say from a functionality standpoint,
+it's pretty minimal.
+It's more of a labeling perspective
+so that if I'm in the,
+excuse me, if I'm in the clerk's office
+and I want to validate,
+I've already marked this item as final.
+You can see if even marked items that are final,
+I have three items scheduled and two approved.
+So, I'm still really waiting on one more approval.
+And once I got that approval,
+then what I would do,
+go in, mark the agenda as final,
+lock the agenda and then publish it.
+But to answer your question,
+the really only difference is,
+if I'm a drafter and the agenda is listed as final,
+it does give me the ability to go in and view the agenda.
+It doesn't give me the ability to view it as like a PDF
+or a Word document.
+So, again, I think the functionality there is pretty minimal,
+but that's the difference.
+So, if I go into the meeting on the 13th here,
+if I click onto that,
+it's gonna tell me permissions,
+you don't have permissions to perform that action.
+Thank you.
+Yeah, good question though.
+So, that's the publishing of the agenda.
+So, once we publish the agenda out to the public facing page,
+it'll also put out to the platform site.
+It also pushes out all that metadata
+into the platform of the media manager site.
+So, there's my one item there,
+and then I had my two public hearing items here.
+Okay.
+It'll also push out,
+ooh, I know I didn't do.
+I don't think I put in your local members.
+That's what I wanted to do.
+So, under peak in the,
+I thought I had added,
+under your board of supervisors,
+I thought I had added your members in,
+but it doesn't look like I had.
+So, if I went to,
+let's see, let's just see the.
+.us.
+.us, thanks.
+Oh, I like that.
+More to supervisors.
+More to supervisors.
+You'll see the contact.
+Contact us, button.
+That's passed.
+Yeah, thanks too.
+It looks really good.
+Gotcha.
+Okay.
+What's your like?
+So, let me just take a look.
+I thought I had added them in.
+I guess I didn't.
+I just added myself in.
+So, here we could take in
+members,
+and we could add those into your commissioner list.
+And this isn't something that we have to,
+excuse me,
+when we want to do the rollout for,
+I legislate,
+this is probably a little bit more important at that point.
+If I click on to his name,
+okay, so email Charles,
+I've got the email there too.
+Oh, I guess I did.
+That's an email before.
+Got it.
+Okay.
+We don't get those direct access.
+Okay.
+No problem.
+No problem.
+Um.
+Yeah.
+And then so we could use.
+Why are we doing this?
+We've been doing.
+The whole thing,
+the list is low.
+So, just depending on how you want to set them up,
+you can put them in the system.
+We can put them in so that they can get access to the
+I legislate application.
+And that's pretty simple to do.
+So same thing with like Gary,
+when we put those folks into the system.
+So I can just add those.
+Yep, whatever.
+Exactly.
+So whenever we're ready to kind of roll that out to them,
+like the demolish.
+So they can get it done.
+You know, in the next couple days.
+But there's why there are already in there.
+Okay.
+And I went on.
+I know we had talked about.
+AD access.
+For sure.
+You just set up.
+Follow up with that.
+Yeah.
+We'll get into that.
+Well, the board now,
+with that legislate.
+Well, the board members need to log in.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Well, the board members need to log in.
+They'll just need to log.
+Well, depending on what device they're using.
+iPad.
+iPad.
+iPad.
+It's a single sign on.
+So once they sign on,
+unless they delete the application,
+they won't have to sign on again.
+They'll just need to know the.
+The four digit or six digit.
+I don't know what it is now on iPad six digit code.
+To unlock the iPad.
+And then they just launched the application by just clicking on it.
+So you can click on the,
+on the desktop or the home screen.
+So then,
+when we're adding them,
+are we setting in passwords?
+It's just like,
+when we're adding members here,
+they'll get an email and have them log in.
+It's up to you.
+You can set them up either way.
+I typically sit for,
+for committee members are,
+um,
+I typically set the password for them first,
+and then allow them to change it if they want to.
+Okay, well it's up to you whichever way sometimes they'll get confused about if why I'm sending them an e-mail
+A lot of those e-mails go into the trash in the spam anyway, but
+Yeah, so that would be so
+So we'll definitely we'll set those guys up
+Into the system. I just started. I got Charles and Gary and but I can add those add those folks in
+Today as well
+Sure, I wanted to do that. I meant to do that before today, so sorry about that
+One of the other things let's see here so any questions on kind of the pre-meeting process so
+Items come in they get created in the system they get attached to an agenda date and if they get attached to an agenda section
+We go through approve those items
+And once they're approved and we lock the agenda
+You know download to make sure everything looks good and then publish the agenda
+Any questions on on that process
+Not until we go to do it right
+So uh to that point um, I will tell you I'm gonna create a cheat sheet that I create for most of my clients. It seems to be a little bit helpful
+um
+So I just did this one for
+For curvil texas. I just got off the phone with them
+Um, so I'll do one for you all as well
+Just basically goes through
+You know, this is workflows going to peak so for you guys. It's pretty simple draft or creates the item
+It goes to and for approval
+And then we go through the process of downloading and publishing and then from there
+Um, we'll go into the live manager application which is going to be
+Essentially what we're going to do next which is just go in and
+Show you how to load the meeting up and how to take a roll call and how to do all that and then after that will be the
+Excuse me post meeting process which will be our next session
+and uh minutes
+So post meeting process and then getting into how to do a set of minutes in granicus
+How to publish those minutes um, et cetera
+So I'll create one for you all and I'll I'll attach it today to the
+To the recap email so you can have that for you and then feel free to use that as a working copy
+So if you go through it you find that either there's a step or something that I missed or something that I skipped
+By all means it's your document to keep it's your cheat sheet so
+Make it make it worthwhile for you
+But I'm also happy to make any adjustments or changes to it
+So the next step would be after we publish our agenda what we want to do is that meeting date is going to come around
+So in this case our little mock meeting here is for today
+um
+And so what I'm going to want to do is use what we call the live manager application
+Now that's the application that ties directly into the encoder. It's only used during the live meeting
+So the laptop or desktop would connect directly to the encoder
+And do you do you all have access to where that is right now or do you won't
+Yeah, remote. Yeah. Okay. Do you want me to give then I
+Yeah, if you got it then I can
+Uh, I can turn my control over to you Scott and you can drive
+That work
+Actually, I haven't loaded on my desktop so I can everybody here can still see it on the projector
+So let me fire it off
+Yeah
+You know mine
+I'm just going to minimize you for a minute
+Okay
+Mimmon I should
+My coffee did not help
+Coffee
+All right
+I do all right
+Look you're good. So this application here is what we call our live manager application
+Uh, this is only used during the live meeting. It's used for bookmarking time stamping
+Um, your agenda items
+It's also used for recording your motions your votes and then any discussion or dialogue that comes in if you want to take that information down
+Uh across the top you're going to see a series of buttons most of which right now are grayed out except for the golden folder
+We offer left hand corner
+You'll also see a series of panels on the left hand side. There's the agenda panel
+Um on this in the center portion of the screen you'll see there's a selected items box
+There's a speakers box or speakers tab excuse me and an attendees tab
+And on the right hand side is going to be the minutes
+Column and that's for where your timestamped items will appear when you bookmark them
+And then the bottom center is what we call the quick-doubt area and that's where you can take down any notes of any discussion or items that are taken during the meeting
+To start the process we're going to go up to that golden folder where the meetings listed
+Excuse me for the meetings
+And then this is going to show you the list of the upcoming meetings that you have on your schedule
+So you can see there's the three one three thirteen three twenty seven
+So we're going to use the one the three one meeting for today. That's the test meeting
+And we go ahead and click load
+That will load in that agenda
+For time stamping and webcasting purposes
+um
+Now when you now once you once you've loaded that in you'll notice that the green start button is available to you
+Which is right next to the golden folder there and when you go ahead and
+Oh, yeah, sure
+So who's driving now
+Okay, great
+So in the upper left hand corner where they have the little green start button go ahead and hit that for me
+It may take about two two three seconds. Okay, there we go. So now
+You're going to see up at the top
+The it'll say the meeting is running
+And it'll tell you the time remaining
+So I'd set this meeting up for an hour and it'll pick backwards, you know, 59 58 etc
+Um on that task bar that toolbar with all the buttons
+You'll see there is a pause button
+Extend and stop
+So the pause button if you actually let's try let's do the extend first
+If you click on to the extend button
+You'll notice the time remaining at the top goes up by 30 minutes
+So if you're if you set your meeting to have a duration of two hours or three hours or four hours
+Or 12 hours and you find that you're going to be running out of time
+You can through this application simply extend the amount of time in your meeting
+You can extend it for as however long as you want it won't eliminate you from the ability of stopping it whenever you want
+Because that's what the big red stop button is for
+Okay
+um
+The idea of this is that it sets a
+duration
+And that's so that if you got up and walked away from the desk and never came back
+Uh, this meeting would record for another hour and 28 minutes and 35 seconds
+And then it would stop recording it would go ahead and go into an uploading status and push that information up to our granicist cloud
+Infrastructure
+And that's just so you don't have a 25 hour meeting kind of running in the background when you really don't need it to be
+Um, so that's just kind of a safety feature on the time remaining but again, you can extend it as as far out as you want
+Um, and then if you set it to run for 12 hours in the meeting only last for six minutes because you didn't have a quorum
+Uh, then that's how long that you can just start it and stop it after that six minutes and that'll be your
+Your archive for that day
+So would it would it be best just to set
+Set the time for you at five hours
+Yeah, we
+Yeah, that's a good that's a good point usually when we're setting up the meetings uh, we set up meetings with and
+Like however long your typical meeting is and then we add an hour to it
+So if your typical meetings four hours
+Uh, we'll say we'll gonna go ahead and set it for five you can set it for eight or for twelve
+um, whatever
+Whatever makes you happy um, but like you said, yeah, you can set it for longer and then you can always you never have to worry about extending it
+What happens if you're busy and you forget to extend it?
+Uh, well the meeting will stop it'll it'll prompt you a number of times to extend your meeting
+If it's still running and you're getting down to the 30-minute mark the 10-minute mark and the five-minute mark
+um
+But if you ignore all of those prompts, uh, it will stop
+And then what you would do is just load the meeting up again and start it again and it would produce two archives as opposed to one
+So it's not it's not the end of the world
+We can certainly mesh those two
+two clips together
+Um, so our our support team does that all the time
+Yeah, now can two people be in a meeting at the same time
+Yes, they can
+But it's important to kind of know what everybody's role is so you don't step on somebody else's toes
+Right um, yeah, but you can have you can have multiple people in this application
+On one laptop or another so you could have two people and on different laptops running the same application
+Yeah, cuz I'm just thinking about if it's a really
+Fast-moving meeting and the time needs to be extended and and
+You know taking care of things and somebody else just hits the extend button
+Yeah
+Yeah, and I have another client that that um the one of the one of the people does all the speakers
+So they add all the speakers in to the system from the speaker cards that are created
+And then the clerk of the board is doing the actual time stamping or bookmarking of the items
+So that that way she's not interrupted with the speaker cards as they keep coming in throughout the meeting
+So she doesn't have to she just stays focused on that and then she has another person on her staff that was actually just entering in the the names
+Um, so if you get speaker cards, that's a nice idea
+Or you know, I've been doing it on the fly too. I guess you could do it that way too
+um speaker cards or speaker lists or whatever
+If that's what they do, but I know everybody doesn't do it
+Have a meeting that's purposely divided like a closed session. We wouldn't record the entire like if they go into closed session
+You stop it you're stopping it. Yeah, we pause it
+Yeah, there's a pause button there
+What do you suggest when we pause for our closed sessions?
+As long as the closed session is not in the same room as
+Yeah, or
+It is not then pausing in five
+Yeah
+The only thing I worry about is if pausing because it doesn't pause it pauses the recording it doesn't pause the live broadcast
+Oh, we do that
+So okay don't broadcast for that time cameras audio is all
+I'll get that point right great
+um
+So let's see I think I might have an attendee can you go down to where it says attend add attendees in that center portion screen there
+I want to see if you click on oh, sorry click on to the drop-down. Is there anybody that shows up in there?
+No, okay
+um
+So let's just type in go ahead and just type in freeform type in mic mic Kelly
+And then hit add attendee
+So ideally what's going to happen is when we I get your voting members set up when you publish the agenda all of your voting members are going to come in here
+So all your board us all your supervisors will come in here
+Um if you want to add one more one more person just for fun
+Whoever whoever you want to put in is fine with me
+And then let's add one more so we can have a quorum we can have three people
+Awesome
+So here you're going to determine are they the voting are they voting members are non voting members because you can in your
+attendee list you can have
+Like the clerk of the board or the county administrator or you know the county attorney
+However, you want to do it
+But the one thing that distinguishes them from each other is that so you can have them all display in your minutes as in everybody was here
+However, who are the voting members?
+So if you can just check the box that says voting under mic Tom and Karen
+And can I have a quick question here they came up earlier? Yeah, so
+Today the way we're doing the board of genders with the iPads is we
+We have a folder. We drop these things into
+But we have some additional individuals who are not board members nor are they part of the actual meeting
+um
+Like our
+Resurer and our finance director that we're dropping those agendas and that folder for
+Would I legislate
+Can we give access to that for basically non board members or non participating folks as well?
+Yeah, no, there's a role for that
+Well, absolutely um, it's it's the same permission set. They just need to have access to the events
+Um, so they can get those agendas so they just need a username and a password
+And we can even put them in the same group as your commissioners or supervisors
+Um, that they would just log in. I legislate same way iPads
+Um, username password and then they'll be able to see all of the documents
+Um, that they know if we move to the vote cast system, however
+Um, isn't that run out the I legislate app as well
+What they can do is run their iPads
+It is and then the difference there would be again listed here. So these voting vote member boxes
+Um, that that determines who has the ability to motion an item second an item or vote on an item
+Um, if you were like you had said the treasurer
+They would be listed as a non voting member
+So they would have all the functionality of viewing the items
+Uh, and following along as they're taken
+Uh, but they would not have the ability to motion or second or uh, vote
+So brings me to another question um, now will this with our our actual
+Board members will this always be preloaded here?
+Yeah, so this is where we're going to actually when we put the the members in
+When you publish the agenda and that's why I said I was hoping that I had done that
+That one little step beforehand
+Um, all of the people will automatically populate so you're your entire Board of Supervisors will come in here
+If we did the same thing for planning your planning
+Board would come in here as well
+You would have to add extra people I'm talking about
+Well the extra people if you want them to be included in your minutes
+Then you can add them in here
+Otherwise they'll just receive the agenda via ilegislate
+Okay
+Yep, I just want to make sure
+All right, thank you. Yeah, this is yeah, and this is two twofold. This is one you're determining who's a voting member
+Um, you can also determine who the meeting chair is
+Uh, because if you're using the voting system the chair person has a couple of different
+Functions that the others don't
+Such as being able to call on speakers and things of that nature
+um
+So this is really just kind of around your roll call or your attendees for the meeting
+You could add additional people in here if you wanted them to be included in the minutes
+But if the treasurer or those other folks that you're talking about aren't going to be added into the minutes
+As long as they have a username and a password
+That's all you need to do for them
+Okay
+Okay, so on the left-hand side. Let's go ahead and timestamp your first item
+So if you single click on to the item
+Uh, let's do the 530 p.m
+And when you click on to that you'll notice in the center it brings the item into focus
+And then there is a record button in the bottom kind of center portion there and if you click that
+It will assign a timestamp and move it over to the right hand side
+So when the item gets called and they bang the gavel down on the desk
+You just go ahead and timestamp it now you can double click you don't have to single click and press record if you double click
+It does the exact same thing. So go ahead and double click on discussion items
+I'll see it move the move the item over to the right hand side with the timestamp of the item
+Um, now if you wanted to
+Uh, I don't know in work session if you would actually take public comment, but
+Uh, let's see where is oh citizen comments is down further we'll get to that when we get to it
+Um, but you would go right through so let's say for example here you did your work session you went through work session
+Um, maybe they're gonna take a break between work session and the actual regular session
+You could go ahead and click the pause button
+So like I have clients that will take the work session and then they'll take a break
+They'll actually have dinner or a snack and then they'll go into the regular session meeting
+And when they're ready to do that you just go ahead and hit the start button again
+And you can see over on the right it said went into recess and meeting where you convened
+Um
+Then it will give you a timestamp related to that
+And then right so here we've got our call to order
+And then let's say let's go ahead and do our invocation so
+Okay, and then down in the quick note box you could say you know invocation given by
+You know uh reverend reverend might kelly from the first Baptist church or what have you you could put
+Tom Jones
+Okay
+All right, it's not unusual. All right
+And then would that be the record?
+Record. Yep
+You can also use the tab enter will also the tab will move the cursor to the record button
+Then you can hit enter so if you needed to do
+You didn't want to take your hands off the keyboard and you want to do like a he said she said
+You could do he said tab enter she said tab enter and it would do the same thing we put the timestamps
+On your notes
+Um, so next we've got the pledge
+Uh, again, you could put down who did the pledge then we have adoption of the agenda
+And then so do you do a motion to approve the agenda or motion to adopt
+Yeah, yeah
+Okay, so up at the top there there's a little motion button or an M
+If you click on to the motion
+You'll see there's a drop down here and one that says mover seconder
+The action so you grab your mover you grab your seconder and in the action in this case
+Um, you would just go ahead and there's a you can use. Yep. There you go. So
+Uh, and an adoption of the agenda. So the motion text
+What the motion text comes in from
+Is if there is something in this suggested action it will populate there
+If not it will populate with the title of the item. So in this case adoption of the agenda was the title of the item
+So you can go ahead and press record
+Oh, I think it's a dog approved. I think it's the
+Yeah, I'll see a drop down there though
+If you go ahead and click on to the yeah, there you go and then just select there
+Yeah
+Yeah, if you if you click on to the X over on the right
+And then click it again
+Now I'll set that so that approve is the default action so you won't have to if that's or adopt
+Yep, yeah, absolutely. I'll show you where we'll do that too
+Uh, so go ahead and press the record button
+I did the tab thing there
+And now you'll see there's there's your list of your voting members
+And by default, I have them all set to yes
+We can leave them all blank if you'd prefer if we're doing the electronic voting
+They would all be blank and as they enter their votes
+You'd see the check marks start to pop up
+And then once all of the folks have been added you just go ahead and hit record
+And then that will record your adoption of the agenda
+Um
+Yeah, then we have citizen comments so if you go to citizen comments
+And if we double click on that then we can go to our speakers tab in the in the center top
+Where it's set the tab right next to the tab you're on it says speakers
+Oh, yeah, perfect
+Uh, down in the bottom portion of that you're going to see something that says add speaker
+And if you click on to that
+By default it will bring the speaker names that you already have input into the system
+Right, but you can reform type in somebody else in there like a member of the public
+Oh
+Person great
+Um, you can go ahead and click okay to add him
+If you need to add an additional speaker you can click the add speaker button again and you can add in a second person
+Great
+Fantastic so we got two people that want to comment or want to do our citizen comments
+Now when you call a person so you say okay, who do we have versus in comments? We're going to call mark person
+Then we call him
+Um, you'll notice it brings his name up into the top portion of the screen
+The default is three minutes, but we can change the default to be whatever we want
+I know
+Where we start
+Okay
+The buttons below the start and stop button that you can change some kind of presets
+So if two minutes is preferred or five minutes you can click on to those buttons and that will just preset or change the time
+The a lot of time to whatever that button says
+And then um, yeah, so if you want to add 30 seconds to it you can do that if you want to say no
+He gets five minutes. You just click the five minute button
+And so on and so forth
+When you're ready you just go ahead and hit the start button. So once
+Mark gets up to the podium
+He's got three minutes and 30 seconds to talk
+And if we do that whole vote the package that's both cast and all that
+That can be displayed on our spring
+So our that's right
+Exactly. Yep on the public display in the in the chambers
+And then whether you want that on your audio video feed or not
+It's kind of based on you as far as what you want to use from a switcher and import input output type stuff
+Yeah
+When you called mark to to speak down in the bottom portion where the note is
+It will automatically put in what we call a quick note
+It'll take the person's name and we'll just put that little the little blurb after it says was called to speak
+If you'd prefer to have that say something else
+um, you know
+Called to give testimony
+Spoke before the board we can put in you know, whatever as the standard text there
+If you'd prefer not to have any stay if you'd prefer not to have any text in there we can do that too. I'll show you where to do that too
+Um, can I when that's supposed to ask a question on
+uh, so
+So for like entering all these
+Where
+Where since we don't have the vocation well, that's not where where does this where does this fit into like you know the wide the live stream
+um, and people following along are they going to be seeing like
+These people's names pop up in the you know as they're watching on a on a computer
+Uh, or is this just purely for you know
+Uh
+We are not broadcasting that
+At this time we're not using that piece of the functionality yet, right? We didn't purchase that piece and the day and are you recording their names in the minutes?
+All right, so then yeah, we would love you
+And and
+It's also a function. We don't have to use during the meeting either. This someone can be done after
+Wanted it to um, or yeah, we can pretty you know, freeload it when you have a list
+Sure
+Yeah, the only thing the only thing the constituents are going to see is
+Uh, and maybe I can just pop let me just grab control just for one second here so I can show you
+um
+So this is what your constituents would see
+Uh, from the view page you'll see that there's an in progress link and then there's a view event link
+Uh, and when they open it up, they'll see whatever is coming through the feed
+Right the audio video and the current item on the floor
+So citizens comments it's not going to take down mark person or care and crazy or whoever
+Um, that information and then the agenda on the right hand side
+Um, as far as the information that you're taking down during the meeting, you know, mark person care and crazy
+Uh, that would be contained in the minutes
+So when we get into the minutes publishing, then that information can be available
+Okay, and county ideas that the clerk
+Kind of walks out of me like she already has the day with the minutes pretty much done
+Yeah
+Which you're pretty much there anyway
+So Scott, I didn't mean to take back control from you, but I just wanted to show
+That's the reason
+Yeah
+Um, and then when Mark's done talking, you can clear him out or you can just call the next person right after them
+Either by hitting the call button. Yep
+And again, it's going to put his name down in the quick note box and then you can start him up whenever you're ready
+You can freeform type what you want to give him. Yep, three minutes and ten seconds
+So you can even see there if it's when the person gets down to 30 seconds it turns yellow and when it gets down to five seconds it turns red
+Um, that's just if the person that's monitoring the speakers is the person who's doing the live manager application
+It just gives them a quick visual cue that this person's you know got 30 seconds they got five seconds
+And we can even change that to the you know 45 seconds and 20 seconds whatever you want the
+Visual cues to be
+And can you remind me I want to say the same
+Car this week that does the boat cast
+We could also see the timer for the speakers up on the screen if we wanted to
+Yeah, that's right exactly and that's that's actually controlled through this mechanism here
+You put the person in and the time and then the timer actually displays in the lower right hand corner of the display
+With the person's name and then the time allotted and then you can actually put a a buzzer or a
+Some sort of a sound if you want to have it beep when their time is up
+We can add that in as well
+That's thank you
+Yeah, um, so let's go ahead and record that note that uh Jake Johnson was called to speak
+Okay, what was that?
+Uh, just hit the record on the Jake Johnson. Yeah, great
+Um, and then let's go to our next item. We don't have anything on consent
+Um, border supervisors comments so when we get to that you could just do a freeform text as far as
+Who spoke what discussed what discussed where
+Exactly
+Um, and then you go into your items so you can again you can skip around also by the way if they decide to take items out of order
+You can just double click or timestamp the items in the order in which the board is taking the items
+So if you have a presentational item and that person isn't there to present because of uh
+Snowstorm or something
+You could go to another item and then you can come back to that when that person is available
+What if they add something off the cup
+Okay, so there's some buttons up at the top there once is there's a little plus agenda item
+And then there's a plus index item
+So if you want to add an agenda item off the cuff and it's like we're going to take this item right now
+Uh, you would just type in the name of the item you want to take
+Raises for all can't employ
+Yeah
+Oh, and then and then you can hit if you want to take this item now
+You would just hit record if you want to take it later you'd hit save
+so you can
+You know move that item and then there's my new item
+From mr. Dunne and then if there's a motion or something we need to take on that action or action
+We need to take on that you can go back up to your motion
+Um select your mover and seconder
+uh
+And then uh again, whatever
+The whatever action we want to have the approve amend
+Record and then it's going to bring up to our vote screen
+And then if we want to do a fail vote we can do two nays or three nays perfect
+So that had him record that and then uh, you don't actually have to mark it as failed
+It will automatically look for the majority
+However, if if you have instances so you go ahead and click record there should give you a red X
+As a failed vote
+If you have instances where you need a unanimous yay vote and you get a split vote
+You can force even though the split vote is a pass
+You can use that you can use that fail button to do that so
+Um, I know some some clients I have but it has to deal with their charter or
+Some specific ordinances they need either a super majority or all in favor of everybody there
+um
+So you could get a five to two pass but because of the specifics of the ordinance or the item
+You needed at least uh, you needed a seven zero
+Um, you can force a pass vote to be a fail
+If I create that new item and save it where does it go?
+Uh, it should go under the current item that you're on
+So it let's let's try that so let's go to uh agenda item again. So let's add
+Where it says agenda item that plus agenda item at the top center
+uh
+And then let's just type in some other name
+And then go ahead and hit save
+Uh, okay, so it looks like it put it under yeah, it looks like it put it there now you can grab that item
+Yeah
+You could grab the item and then you could drag that new item
+Let's say you want to put it under public hearings if you just drag and drop it on top of yeah, wherever you want to put it
+Perfect, so then now that item is test item one is now under the public hearings non
+Yeah
+Yeah, so that's if you want to that's if you want to create the item and then you want to take it later on in the meeting
+If you want to take it immediately, which is what we did previously
+That's
+That's what I was thinking about when we were
+Are we wanted to pull these two out of here?
+I wanted to get some idea
+So we're talking to this one and they still got it out of the way
+Okay
+Cool, so there's our items
+And then like you said you took the new item so once you take that you just double click on to it
+Then you can go back to any others other items previously on the
+So if you have an item on the right hand side you want to move that note down
+Yep, so you can move the items and actually I think if you want it right underneath committee business
+Drag and drop it right on top of to committee business. So take new item that's down below
+And then literally drag it there you go drop it. Oh, okay, I think I thought I would put it underneath the
+Underneath sample resolution there but I or before that
+Well, you know why because I dropped it on committee business that the new item under it. So if I didn't do item
+Dropped on sample resolution
+Oh, it's gonna be a sub item of that. So yeah, I thought it would put it as a
+I thought you could move it ahead of the sample resolution, but
+Unseen
+You know what I mean? I thought maybe you could drop it before there. Oh, there you go. Okay
+Cool
+Questions on excuse me questions on those
+Uh, yeah real quick so um
+Moving all that around
+Uh, how does that affect the indexing
+Uh, the time stamping is gonna be the same
+So you see how we was kind of drag it but the time stamps are the same
+What that's referring
+So your text will be different, but if you were to double click onto that it would take you to the reference point of that meeting
+Or the reference the reference point of that item during that meeting when you're looking at the recording
+And I'll show you how you can adjust that so if you time stamp an item and then you time stamp it wrong
+You can always go back after the fact and create
+Either remove a time stamp or adjust that time stamp to something else
+Because we we totally understand that you know, you got a bunch of things going on during the meeting
+You know people coming up
+Asking questions or doing asking for sidebars, you know, whatever might be going on during the meeting
+And you might miss a time stamp
+You know, you might miss a person who got up and spoke for three minutes because you were doing something else
+You can always add those people in after the fact
+Well, and too you might you might have time staffed because they decided to take it
+And in the minutes though, it shouldn't appear in that order. It should appear somewhere else in the minutes because minutes are different from the video time stamp
+So people click on the agenda item when they're back in the viewer
+It might have happened out of sequence and it'll certainly take them there
+And then when it comes to the next item what they're trying to apply then it'll jump back to where it needed to because
+Again, you might have done that new item up here in the minutes, right?
+But maybe in your minutes you've got the organized and
+Technically it'll show up somewhere different than the next
+Um
+Anyway, okay
+What we can adjust
+Yeah, anything you do during the meeting you can always fix after the meeting the only thing we can't fix is if there's no
+Audio or video related to the meeting then that's when we usually run into problems
+But as long as you have
+So the adjustments I would the adjustments I usually say during the meeting if you can fix it don't I mean if you can fix it without
+Too much of a struggle go ahead and do so, but for the most part I just say go ahead and move on to the next item and fix it later
+Because the last thing you want to do is try to go back and try and fix a problem and the boards already moved on to the next item
+And you're still trying to go back and reinvent the wheel on something
+You can always fix that later. That's that's my
+Monitor
+No, it'll actually be in it'll be in the platform that you'll fix it
+Okay, I'll yeah, and I'll show you where that works out too too
+Um, so you would again continue through your items take any motions and votes on any of the items that you need
+Um
+And those are those look like they're just the attachments so you can also hide the attachments from live manager displaying up at the top column there. It says hide attachments
+Um, that will also just hide the attachments from displaying there. So you're not time stamping an attachment although you can
+So long with that
+Um, and then ultimately when you get down to the end. Yeah, so you're just going through and then adjournment and then maybe there's a motion to adjourn
+So we'll go up to our motion
+Uh motion button in the top center
+We'll select our mover and our seconder and in this case the actual adjourn action is correct
+And so we'll just go ahead and click record
+And then the all in favor
+So yeah, so when you're done with this go ahead and hit the red stop button
+It's going to ask you do you want to finalize all meetings
+And you're going to want to say yes, I want to finalize if you hit cancel
+It will simply just keep the meeting running
+And we'll continue to run in this case for another 54 minutes
+But you're going to go ahead and click on finalize
+That's going to send the message to the encoder to stop
+And then is going to
+Uh over here on my screen
+Uh, let's see
+So here now that meeting is now finished
+So the hyperlink is no longer available on the view page
+And if I navigate back to the platform site
+You'll see that there is a meeting that is in uploading status for March 1st
+So this board of supervisors meeting which is the one we just did is in an uploading status
+So it's simply taking the information from the encoder and it's pushing it up to our data center
+um
+So that you can eventually make that available to the public
+If you want to see how long it's taking for meetings to upload
+Um, pretty simple to do you can just navigate to this admin tab and go to the log tab
+And it will start to show you
+Uh, so you can see some of even some of the messages like we we loaded the meeting
+We started the meeting we paused the meeting we recorded the meeting
+Uh, we finalized and stopped and then it starts the pre-processing
+And then from there it's going to start to give you a slow percentage of
+What the percentage of the upload is completed
+For a lot of people this is like watching paint dry. I don't necessarily recommend it
+But I just want to show you um
+When it starts the process of uploading
+You will start to get a percentage completed
+I'm hoping that this is going to do this here for me here in a second
+um
+And then just how long the expectation for the video to upload to our data center would be
+Um, we're not talking about a very long
+Meeting we did our entire meeting was oh 35 minutes that we ran
+Um, so you're probably looking at an upload of less than five minutes. I would assume
+Um
+Well, oh yes, this real quick, so
+I think it's pretty obvious to me now, but uh
+The actual video clip itself
+uh, it's simply bound by
+Clicking the start button to stop button in live
+Live manager
+So that's the that's the link to the video
+Uh, that's correct. Okay. Yep
+Um, and if I go to try and access the clip
+Um, it'll just send me this little message. So sorry the clip is unavailable for playback at this time because the files uploading
+Um, and you won't be able to change the status until that uploads complete
+Um, so it's just a matter of uh, I guess
+If you're patient or you know kind of
+If you if you're inpatient like me and you want to find out when that meeting is going to upload and be done
+Uh, I'm you know kind of always going back over here trying to figure out when that's going to finish
+Uh, so here we're at 3% uploaded 7% uploaded if I keep clicking on this log button
+10% 12% etc
+so um
+Once that
+Gets to 100% then the file will go from an archive status of uploading to a status of pending
+And at that point we're going to go back in and do some
+Uh, additional changes, but I think at this point kind of hit
+Uh, I'm going to leave this for our next session
+So we'll let this go ahead and finalize and then um
+We'll cover that in the next session
+There's our trimming
+Right. Yeah, we'll go next next session. We'll go in and we'll adjust timestamps
+Uh, we'll do the trimming
+And as you can see again, can't trim it now because it's still uploading
+Uh, we'll go through and trim out the dead air on the front and the dead air on the back
+And then uh, we'll go through the process of how do you make that available onto that public facing page
+Um, any other questions for me before I let you go. I'm sorry. I went a little bit over today
+That's all right. We
+Wanted to start out with that agenda, which I think was important. So
+Okay, um, I'll include a couple of these things in my recap
+That we're by default turning off cover pages for now
+Suggested action. We're going to hide that from on the agenda. We're going to see if we can turn on the HTML editor
+And then I'm going to send you over some samples of clients using the cover sheets currently
+And you are going to ask about the media player like the Gloucester. So
+Oh
+Yeah
+It's激. It's you
+GL. Oh you . Oh you
+C Shast modulus
+heating
+Pope by
+There was a Gloucester, Massachusetts, I don't know, I guess I never could spell it right
+when I lived in the wing when a long time ago, but I'll figure it out.
+Just so we had a great problem, we're with Frederick Ireland, we had that.
+So it looks like we're almost done here anyway on the upload, so probably in the next 10,
+20 seconds, that'll probably status.
+Yep, there it is.
+Now the status is impending, so next meeting we'll go in, we'll show you how to change the
+statuses, update any of the date and time information if you want, adjust time stamps, trimming,
+and then we'll start in on the minutes.
+So if we have time, next time, next session, we'll start in on the minutes, and then our
+next session after that will be really kind of getting into the minutes, you know, how
+to create a draft set that you're going to put onto an agenda, and then once those
+minutes have been approved by the board, then how do we publish those out to the public
+facing page?
+Any other questions for me before I let you all go?
+Yeah, I think we're as loaded up as we can today, we appreciate everything, thank you.
+All right, you're welcome, you guys have a great weekend, and I'll talk to you all next
+week.
+Thank you.
+Bye.
+All righty, bye-bye.
+Bye-bye.
+Bye-bye.

@@ -1,0 +1,1633 @@
+This conference will now be recorded.
+And there we go. All right.
+So what you all should be seeing on your screen right now is the platform site.
+And right now I'm highlighted on the archives tab.
+So if you recall last week, on the first,
+we published an agenda for a board of supervisors meeting.
+We went into live manager and we brought in that agenda.
+We added a couple of new members or board members on the fly from there.
+One thing I will point out to you is I did this week.
+I did go into peak.
+And I added your commissioners.
+So when I go to admin and then I go to the meeting bodies and the board of supervisors here,
+I added your members here. So we've got our different members.
+So now when I publish any meeting going forward,
+all of your voting members will come in automatically into the roll call.
+So if you recall on whatever it was Friday, yeah, on Friday, when we brought that in,
+when we brought the, excuse me, when we published the agenda,
+I had not put these people in here.
+So when we came into live manager, we didn't have any attendees.
+So we added a couple of fictitious people in there just to run through that.
+If you'd like today, we can go, we can basically, I can, we can republish this meeting and we can go out in the live manager
+and we can do another meeting if you'd like.
+Would you want to do that?
+I think we're probably fine with one that we have.
+Okay.
+Okay.
+You don't, they're actually a user accounts, correct?
+These are just the, the members that you've added in for that roll call voting importance.
+Right.
+Well, no, I've added them in.
+They're also currently there are people, they're people, but they're also commissioners.
+I know that sounds funny.
+They're commissioners in the, in the roll call.
+So they'll have access to, I legislate if you want to give it to them.
+Okay.
+And commissioners, it's just the, got administrators and commissioners commissioners.
+It's just the general group that, that any, any of these board members would be added to.
+Yeah, I just, I called it commissioners, but it could be called I legislate users and you can put anybody into the group.
+And maybe that's, maybe that's a more appropriate term to call it that.
+So if I go to my users and groups.
+And then what the commissioners.
+Now, I didn't have the emails for them.
+So I just set up some bogus emails, but if, if you want to put in their actual emails, we can do that.
+All I was doing was really just getting them into the system.
+But let's see here, properties, we can call this, I legislate users.
+That makes sense.
+And then that way, and the permission set is really all they get is read only access to the events and the archive, which means I'll be able, on my iPad, I'll be able to view the agendas of upcoming meetings.
+And then I'll be able to view the video of the past meetings.
+Okay.
+Okay, so we'll go back to the platform.
+And so when we publish, you know, meetings out in the future.
+I've just put together this, this, I just moved the date for the meeting we did on the first to the meeting we did could do on the eighth here.
+If I go to my roll call list, there's all my, all my people are in there.
+So now moving, moving forward, anytime you publish an agenda for the board of supervisors, all your members will come in.
+If you need to adjust those people as they're, you know, whether they're absent or, you know, excused or what have you during the meeting, that'll all be done during the live manager process.
+So today we're going to be focusing on the meeting we did on Friday.
+We're going to be going in and kind of trying to focus on doing a couple of what we call kind of the post meeting process or the post meeting cleanup.
+And so we're going to be dealing with the board of supervisors meeting that we did on Friday.
+You can see it's a 35 minute and 30 second video. It's currently in a status of pending and just to show you the difference between a pending video and a public video.
+I uploaded a public video.
+I should say uploaded a video and I marked the status as public.
+So if we were to navigate to the view page.
+We're going to see under the board of supervisors folder that there's my crazy cats video, the date and the time and then how long or the duration of the video and then the video here.
+So I can just click on to this and this will launch up into my video, which just says a bunch of crazy cats.
+So that's the difference just right off the bat. That's the difference between a status of public and a status of pending.
+Just means that anything that's listed as pending is not quite is not available to the public, but you'll have access to it behind the scenes through the media manager through the platform site.
+And with uploading just, you know, individual video files that might not be related to board supervisor meetings or commission meetings.
+Are we going to cover covering how to do that?
+Yeah, it's pretty simple.
+If you up here in the upper right hand corner, there's a new video button.
+And so I'll go through each one of these buttons up here as well.
+But new video.
+And when you click on new video, it tells you what the file specs are.
+So it has to be a H264.
+Really, it has to be an MP4 or MP4 format.
+The maximum file size is actually 12 gigs now.
+So this can be used for anything. If you have file, you know, you have other community events that you want to upload.
+You know, people do stories on the county or you have a film crew out doing something that's not related to Granicus.
+As long as you can get it into that H264 MP4 format, you just go ahead and choose the file.
+So I've got a couple of.
+A couple of small videos here.
+And then I just cook open this one.
+I mean, it's so super short. That's why I usually use it as an option.
+It is only about a minute long, minute 35 seconds long.
+And then you just upload it.
+And then it's going to put the name of the file.
+The date you upload it and then the time you upload it.
+So, you know, if you want to change this to be a different day.
+And you want this to be a different time.
+And even a different name.
+And then just depending on what status you want it to be, what folder you want it to reside in.
+If you change those properties, now when we go back out onto that view page,
+you're going to see the crazy got those.
+And you're going to see the crazy cats as well.
+Okay.
+Now, one question on the folder.
+Right now, they're all just going under four to supervisors.
+If we create, can you create another folder?
+We have no idea how.
+Okay.
+Okay.
+Yeah.
+So, we've got four supervisors planning training.
+So, all of the video trainings that I do.
+The first two peak sessions.
+Today's session.
+I drop these all in here.
+Now, one of the things I do, you'll notice this is marked as public.
+However, when you're talking about the folders, the folders usually need to be assigned to a view page.
+Okay.
+I gotcha.
+And for training, I never do.
+So, I always leave that in the background.
+And then when I send you the direct link.
+And I'll explain how to create publishing points to today when we're going through the post meeting process as well.
+Okay.
+So, if we create another folder, we just need to assign it to the actual view that we're using.
+Yeah, exactly.
+So, for example, here in planning, I don't have any contents.
+But let's say I went back to my board of supervisors here and I said,
+I want to take this video and I want to put it in the planning folder.
+It happens sometimes too.
+You just don't have the right folder setting when you create your meeting.
+And so, it goes into the wrong folder.
+In Granicus, when you want to change folders, you actually go into the archive itself.
+So, you edit the archive.
+There's your date, your time, the status.
+And in the folder, all I do is change the folder from the BOS to planning and then save it.
+And that will actually move the file from one folder to the other.
+Gotcha.
+And now, if I look on the view page, if I refresh this, I should see two folders, one for BOS and one for planning.
+And then, as I open those up, you'll again see your video content in there.
+So, as the way the view page is structured, the more folders you add.
+So, if I added, let's say, Parks and Rick.
+And so, you create the name, description if you want to.
+And then, views available or views assigned if you want this page to be, or this, the contents from this folder to be available on the website.
+You just assign the view page and then create the folder.
+Okay. From that perspective, then what you need to have is you need to have an archive in here for the folder to show up.
+So, if you see here, we've only got the two folders, board of supervisors and planning showing up right now.
+However, if I add an archive into Parks and Rick, I'll just add the crazy cats back again.
+Pretty simple to do.
+I upload the file up into the folder.
+And then, I can change the status from pending to public.
+It's in the Parks and Rick's folder.
+And when I save that, now when I navigate over to my view page, I should have three folders here listed.
+So, there's board of supervisors, Parks and Rick, and planning.
+That makes sense?
+Makes sense? All right. Cool.
+So, and if you want to take something down, you just mark the thing as pending, and it will pull it down from that particular view page as well.
+So, usually most of the stuff in there that says not public, what's the difference between pending?
+Oh, they're really, yeah, there really isn't a difference.
+On the homepage, it used to show, here it shows your most recent archives, and you can also look at pending archives.
+Yeah, there's really no delineation between them. They're both in a non-public status.
+It used to mean something further in the past, but it kind of just changed. It basically means the same.
+Either way, either way, pending or not public, we'll just not display on your view page.
+Okay. So, if we're going to navigate to archives, we go to board of supervisors, and now we're going to go into the meeting that, excuse me, meeting that we worked on on Friday.
+So, we showed you the video, the new video option. That's when you want to upload a new video.
+The edit function, we'll get into in just a second, the copy function.
+So, if I want to copy this video and its entirety with everything, all the metadata and everything associated with it, I just go ahead and click on copy.
+And it will create exactly that, an exact copy of that file that we're using. It just calls it with the name copy.
+The clients I work with will copy the original before they get in and work into it.
+You don't have to, but it's just a matter of, you know, just a matter of comfort level, I think.
+But you could come into the meeting that we want to work in now.
+Delete is kind of self-explanatory. If you want to delete a file, like this copy, I can go ahead and delete it.
+When you delete something, it will go over to the recycle bin folder.
+And it will sit there for 14 days, and then it will delete.
+So, if you need to get something back, it's 14 days after the deletion.
+So, if you went into a meeting from 2015 and you deleted it today, you'd have 14 days to go back and retrieve it.
+So, after the 14 days, you have to call us to get it back.
+Can we adjust that time for all 14 days?
+I don't think so, but I can check on that 14th time duration.
+And it may be longer than 14 days. I just, that was what I was told at some point.
+Let me ask that question here.
+14 days.
+I'll ask that question.
+Let's see. So, board Supervisors.
+So, we're going to click on to our item.
+If we double click on it, that launches the most things that you do in Granicus.
+If you double click on something, like double clicking on a view page, or double clicking on a video, that's what you end up getting.
+So, we have our video playing here, and then we have our jump two points.
+And in the bottom portion of the screen.
+But if we want to go in and edit this video, we're going to click on to it.
+So, it turns yellow, and then we're going to click the edit button.
+When we get to the edit button, or when we click into the edit, it's going to take you first to the basic tab.
+So, the one all the way to the left, the basic file properties of this meeting, and date, time, status, folder.
+If we move down the line here, you'll see agenda.
+Now, the agenda is going to have the link to the PDF created in peak.
+If I want to view what that agenda looks like, I can simply click on to that.
+And that should take me to the agenda here.
+Looks like they're right.
+Let me just check this URL. Maybe I got the one.
+This should be the PDF for peak, let's see.
+Okay, so that's what I was looking for.
+So, there's our agenda.
+And then down in the bottom portion of the screen is all of the agenda sections from peak with all of our items and all of our notes.
+So, if you remember, we paused the meeting, and then we started it again.
+Those are two notes that get put into what we call this area down here, essentially the metadata.
+So, it's all of your agenda items with all of the timestamps related to those items.
+Plus your motions, your votes, your citizen comments.
+So, these were the speakers we had called to speak.
+All right, we had to see what else do we have.
+Just some comments here.
+So, we had a pretty short agenda, new item.
+So, we added a new item on the fly, if you remember.
+That motion failed.
+Then we had some public hearing items for the A's on reports.
+So, you can see, as we kind of go down, then we had an adjournment at the end, where we had a motion to adjourn and a vote.
+So, all of these things, you can always go back and check after the fact, because you have the video up here in the upper right.
+And when you click onto an item in the bottom portion of the screen, it will bring that item into focus at the top part of the screen.
+So, there's the top portion of the screen, and then there's this little window shade here.
+You can kind of move this up and down, depending on what real estate you want to display.
+Basically, I leave it right around here, so I can get to the go-to box.
+The go-to box will allow you to jump specifically to a specific point in the meeting.
+So, if I want to jump in its hours, minutes, seconds, if I want to jump to the two-minute mark,
+I just type in two minutes, and it will jump me right to the two-minute spot.
+In this case, what I would typically do is, if we were actually feeding an actual meeting here,
+I would go to the item, the first item on the agenda, and I would double-click it.
+And when you double-click it from down here, you can see I've got a timestamp of 11 minutes and 45 seconds.
+You can see it jumps me right to that spot in the video.
+And it also brings that item into focus at the top.
+Now, let's say, for example, I was a little off on the time for the call to order.
+I can tell by when I'm listening and watching the video how far off I am, essentially.
+So, I can scroll back to the 11-minute mark, and I can listen and watch.
+And then, when I see them hit the gavel and call the meeting to order,
+over here in the upper left hand corner, you'll see there's a little box that says, get from player.
+When I click it, it takes the reference point from the player at that time.
+So, if I was to say, okay, here's where the gavel happens.
+And I paused that at 11-22.
+If I come back over here to get from player, it will populate that 11-22 spot.
+Gotcha.
+Okay. And that's how you thought this.
+Sorry.
+No, that's a mistake.
+To adjust the time point, click the item.
+You can pause the video where the time point should be.
+Then, click get the time from button.
+We've got enough there.
+I'm going to save your changes.
+Yep.
+And so, you don't have to pause the video.
+I was just, you can, if you get, as you get better at this and as you get used to doing this,
+what you're going to end up doing is, and as you get better using the Live Manager application as well,
+you're simply going to be double-clicking these items,
+listening and watching and seeing if you got it in the ballpark,
+and then you're going to move to the next item.
+So, as you get better, your time stamping is going to be better.
+You're going to be intuitive as to when items are being called.
+So, you're almost going to be waiting for that item to be called,
+and you're clicking kind of staying ahead of it.
+So, eventually, all you'll be doing is just going through
+and validating that your time stamps are accurate.
+But, if they're not, again, you can use two things.
+If you go, oh, I just missed that by like a second or two.
+I can go in, I can literally type in 12 minutes and three seconds and save my changes,
+and that will adjust the time stamp.
+And then I can just double-click it again and validate that I got the time stamp right.
+So, you can use, again, couple of different methods.
+You can double-click on the item.
+You can use the scroll bar to scroll forward or backwards in the meaning,
+as to where you want it to be.
+You can use the jump to or the go to option.
+So, you can be really precise as to where you want to go.
+This is also helpful when you have maybe a low-talker
+or somebody that didn't turn their microphone on
+or trying to get the mover in the second or right.
+You can keep hitting the enter key and it'll keep going back to that spot.
+So, you're watching and listening and watching and listening.
+Yeah, I don't know which guy said they moved the item and which guy seconded.
+So, if they don't repeat who moved and who seconded,
+sometimes it could be a little hard to pick them up.
+But that go to box here is very helpful for going back
+and re-listing to the same spot of a video reference point.
+So, I can, again, and I can use the get from player.
+And if I keep clicking it as this is playing,
+I don't have to pause it.
+I just wait to hear what I want to hear.
+And then once I hear it, I just click that get from player,
+hit save changes, and then same thing, meaning reconvened.
+If you don't want these notes in here,
+like when the meeting went into recess and when it came out,
+you can delete items in here so you can delete notes.
+You can delete motions and votes.
+You can also add things that weren't in there before.
+So, I could come in here and I could put in a note,
+and then I could say meeting came out of recess at 030pm.
+And I could even take a reference point to that actually happening.
+And save it.
+So, then we have our regular session, double click on that.
+If that's when the gavel's coming down for the regular session
+or when they're calling it.
+And then all I'm doing is just jumping through here.
+I expect at this point, if I'm on the invocation,
+everybody's standing up.
+I can listen to Tom Jones.
+I forgot about that one.
+Tom Jones saying the prayer.
+Your pledge.
+And then here's your adoption of your agenda.
+So, I go to here and then I have a mover,
+but a motion.
+And so, I should be, if I double click on this,
+it takes me to that spot in the video.
+And I should have a mover and a seconder.
+Now, if I got the mover and seconder wrong,
+I can put in Karen Crazy was the person who moved it.
+And then I remember that Mike Kelly did it,
+but I thought Mike was the mover.
+So, afterwards, I can watch the video.
+I can listen.
+I can get the reference point from the player.
+And then I can save my changes.
+Then I can continue to play.
+And there might be some discussion in between here and there.
+So, let's say I want to put in a note here.
+So, I can just say discussion.
+And then the vote results.
+So, were the vote results?
+Did they happen at 1622 or 1620?
+And when I hear the vote results, yes, no, yes.
+Whether it's raising your hand or an all in favor of those opposed.
+Or if you have to do a roll call vote.
+It does not matter just as long as you can get the results
+that you're looking for here.
+And again, you can change the votes as you see.
+So, if you don't get it right during the meeting,
+don't worry, you'll get it right after the meeting
+with the video reference.
+And then this is going to start to produce your minutes.
+So, everything you have in here,
+emotions, your votes, all of your notes, etc.
+are all going to drop into your minutes eventually.
+So, the way I usually teach this,
+or what's worked for me, I should say,
+is that I just blow through the agenda.
+I grab each item that I have.
+And I just validate that I'm in the ballpark.
+And by in the ballpark, I'm talking plus or minus five seconds
+for the item being called.
+Just if you actually listen to the video and watch the video,
+if you know what item they're on or what they're discussing,
+then that's the ballpark.
+We just don't want it to be where the person that's watching the video
+is confused as to what item.
+You know, I clicked on consent agenda,
+and they're talking about some public hearing item
+that is weighed out on the agenda.
+That's what we just want to avoid.
+But ballpark is pretty good.
+So, plus or minus five, ten seconds is probably okay.
+So, I continue to go through just double clicking,
+listening, if things are good,
+I just move on to the next one.
+If this needs to be adjusted,
+you can use your scrub bar here to go back and forth
+into the video, or you can use your jump too,
+to jump exactly to where you want.
+24.50,
+get from player,
+save changes,
+and then just keep moving on down the line.
+When you get all the way down to the end,
+you can validate your adjournment.
+So, 34.36.
+That's almost to the end where we stopped the meeting.
+34.58, we had to vote to approve the adjourning,
+or vote to adjourn.
+And you'll see it plays for about another few seconds here,
+another five, ten seconds.
+So, all of that after the vote to adjourn is going to be dead air.
+Likewise, if we've done our time stamp management correctly,
+or we've looked at our time stamps,
+anything before the 1122 mark is going to be dead air as well.
+Because we know we double-check that,
+when we double-click this,
+we got the gavel, we heard the gavel come down,
+we saw them call the meeting to order.
+So, we know anything before 1122 is dead,
+and anything after 35,
+sorry, 34.58 is dead air.
+So, what we're going to do next is do what we call our trimming.
+So, we're going to skip over the minutes for right now,
+and we're going to go down to the trimming tab.
+Now, the trimming tab will always start with the start time of zeros,
+and the end time will be the end time of when the video was shut down,
+whether it's automatic,
+or whether it's through the live manager application,
+hitting that red stop button,
+at that point,
+that sets the end time of the video,
+and then it starts to upload that up to our data center.
+So, if we want to trim 1122 off the front,
+we're going to say that that's the starting point.
+So, instead, we'd have 11 minutes and 22 seconds of dead air,
+so because we don't want that,
+what we can do is say,
+well, one thing we can do is we can type in 11 minutes,
+22 seconds,
+as being the start point,
+and then the end point is 34.58.
+So, we can either use the end point,
+there's three ways, you can freeform, type it in,
+you can double click on the item,
+and then you can take the reference time from the player,
+like maybe I want 35 minutes on the dot,
+or you can use the get from selection option.
+So, if I said here,
+get from selection,
+it will populate 1122.
+If I said this was the start of the meeting,
+and I get from selection,
+it will populate that as the start of the meeting,
+and then all of these,
+if I did that,
+and said that's the start of the meeting,
+that would essentially trim off all of this information before me,
+or before.
+But in this case, we know the start of the meetings at 1122,
+so we're going to use that as our selection for your start,
+and our end time is at 34.58,
+and we're going to use that as our stop time.
+And then I'm going to go ahead and hit trim file.
+So when I hit trim file, that is going to send a message to the cloud
+to trim off 11 minutes and 22 seconds off the front,
+and I don't know maybe about 10 or 12 seconds off the back.
+It'll tell you your clip is trimming.
+Usually, I do this.
+I would probably do this at the end of the day.
+And if your meetings are during the day,
+I would do it after the meeting is over.
+And I just go through and do the validation of the timestamps,
+and then I do the trim.
+And then what I do at that point is I'll make the video public.
+And then I'll start working on my minutes.
+Because really what you're doing at that point is you're just allowing
+your constituents to be able to get out there and see if they weren't able to attend the meeting,
+and there's something that they're very much interested in finding out how that went.
+But you're giving them the earliest opportunity to view that video.
+It will not have any of the motions and votes and notes related to it.
+The only thing it will have is the timestamps,
+the timestamps, the video, and the agenda.
+So here, this is the Board of Supervisors meeting,
+23 minutes and 36 seconds.
+And at this point, what I would do is edit this,
+and then make it available to the public.
+So I click on public and save properties.
+That will again push that video out to whatever folder it's associated with.
+And so there's my Board of Supervisors meeting from March 1st, 23 minutes long.
+There's my agenda, there's my video, and then there's my packet.
+So when I click on to the video,
+this is weird because, okay, good.
+I didn't see this before, but good.
+We have the video here on the left.
+We have our index points, our timestamps on the lower left.
+And then we have our agenda over here on the right.
+That's pretty cool to see that.
+And then depending on how your browser is set up,
+if you click on the attachments, I'm using IE right now,
+but if you're using some other mine opens in a new window,
+which is kind of stupid, but I'd rather have it open in a new tab.
+But I just never, I don't use IE all that much,
+except for doing minutes in Granicus.
+So that's the only reason I use it.
+So I never bother going back and looking at the settings in my browser.
+So now you're, you know, you're kind of,
+you're not going to have to field any phone calls or anything like that
+because if people want to find out what happened at the meeting,
+they just point them to the page and say, yeah,
+just go click on the video, go to the item you're interested in,
+you know, and then select whatever the item,
+the sample resolution.
+So if you're interested in that, just go ahead and jump to that spot.
+It'll take you right to that spot in the video.
+And you can sit there and listen and watch for what the results were on that.
+Did it pass? Did it fail? What have you?
+Well, we have a question on the, on the,
+which you just did with the trimming and the upload process for,
+for recorded videos on here.
+So say we say we trim a file to, you know,
+15 minutes, you know, start 15 minutes in,
+and the 30 minutes in that we save it and hit the upload button.
+And then we found out that we actually need to start that video at,
+you know, five minutes instead of 15 minutes.
+Sure.
+One minute.
+Is that clipping process and the file upload is that,
+is that destructive to the original file?
+Or does it, does it retain the original file on the player
+and we can go back and edit that?
+Yeah, great question. So when you, when you trim a file,
+so this one is the trimmed, trimmed version,
+23 minutes, 36 seconds.
+And when you trim a file, the system automatically takes the original
+and throws it into the recycle bin.
+So this is the original.
+Okay.
+Auto-generated trim backup.
+Now if you need, and you can see I also made a copy of it earlier,
+which means I could,
+and that just says, it depends how, how, how safety conscious you are or paranoid you are.
+But you can always, you can always retrieve the original.
+So when we do this, I would, so let's say in your example,
+we trimmed off too much time.
+What we could do is we would just click on to the recycle bin,
+find the file we want, and click on delete.
+Now that will bring that file back into the Board of Supervisors folder.
+We deleted it from.
+It's going to be in a not public status because we assume you're going to be doing something with this,
+but it's not, you don't want this to be public right away.
+And it's going to have that tag of auto-generated trim backup.
+So if I looked in the Board of Supervisors folder now,
+I have my trimmed file and I have my original.
+And so if I did the trimming correctly, the way I would do it is I would delete the trim file here.
+Send that to the recycle bin.
+Then I go back to my original, click edit.
+I'm going to change the name of this.
+I'm going to take off the tag, auto-trim backup.
+I'm not going to make it public yet, but I'm going to go to my trimming.
+And then I'm going to find where the start point should be.
+So I had it set at 11.22.
+Maybe I want it to be at 11.
+Maybe I want it to be at 11.
+So I want those 22 seconds in between 11 and 22 in there.
+And then for the adjournment, my adjournment time is still correct.
+And then I go ahead and hit trim file.
+Now once you'll see it says check progress here.
+And when I click on the big here, it'll just take me back to the folder here.
+And you'll see it says that this file is not public and it's currently trimming.
+And I can keep refreshing until the file trim is completed.
+Which should take, in this case should take about five to ten seconds, I would think,
+based on the time of the file.
+And then once that trim is complete, at that point, then I can go into that file.
+And you'll see that on the agenda tab now, where that was at 11.22,
+I trimmed 11 minutes off the front, and now that starting point is at 22 seconds into the video.
+And you could come back and retrim it if you didn't trim enough off.
+Or you'd have to wait for the video to finish trimming.
+But then you could go back in and do it at that point.
+So once we have our archives, once that video completes its trim,
+then you can go back in and if you need to trim more off it, you can.
+I'm also going to show you how you can trim a clip out of the middle of the meeting as a separate clip.
+So sometimes you might want to use, okay, here we go.
+So there's our Board of Supervisors newly trimmed meeting currently in a non-public status.
+So because of that, it's not going to be showing up on the Board of Supervisors page.
+But if I want to go ahead and make that public,
+again, click on edit and then check the status from not public to public,
+and then hit save properties.
+And now out on the view page, that BOS meeting should be there now.
+Okay.
+With my agenda, packet, and video.
+Now, if I wanted to pull something out of the middle of the meeting.
+So let's say,
+I don't know, let's say you wanted to pull out the citizen comments into a separate video.
+Maybe someone who was a complete jerk there at the meeting and you wanted to,
+I don't know, you wanted to send this to the county attorney or something
+and you didn't want them to have to sit through the whole video.
+What you could do is you could say,
+well, we know Jack Johnson was called to speak at 1129.
+And we know the consent agenda was the next item, which was at 1324.
+So what we can do is we can say,
+this is going to be the start point when Jack Johnson was called to speak.
+And the end point is when the consent calendar was taken.
+And so we could call this,
+you know, something like Jack Johnson's an idiot.
+And then if we trim the file, I'm not saying you would do that.
+But if you trim the file, what that's going to do is that is going to produce a file of its own
+for just the duration in which Jack Johnson spoke for.
+So now we have a minute, 55 second with Jack Johnson.
+It's in a pending status.
+Now, we don't necessarily want Jack Johnson as an idiot to, you know,
+to be on the public face facing view page, but maybe we want to hold on to that.
+So what I can do is I can edit Jack Johnson's an idiot.
+I can move it to the training folder, which is not public facing.
+I can go ahead and mark this as a public video.
+And then I can go next to the trimming tab.
+There's a publishing tab.
+Now what the publishing tab allows you to do is create a direct link to that video.
+So to do that, we call it creating a publishing point.
+So you say click on new.
+Jack Johnson is an idiot. It's the title or the name of it.
+Where do we want, if we have a different player, we can use it.
+Where do we want the index to start at the beginning of the video.
+And if I save it, this is the exact process I do when I do the recap email.
+What I'll do is I'll say, let's see, Jack Johnson's an idiot.
+And then I would open up my email.
+And I would put in, you know, Jack Johnson's an idiot.
+And then here, I could get the HTML for the direct link of this video.
+And then I would just replace that here.
+I would say link.
+Let's see, maybe I need to guess because this is where I copied it.
+It was weird, but I could do Jack Johnson.
+I'm going to do it.
+And then use the link or web link.
+And then I just drop that publishing point link into there.
+And then now that's my video link.
+And so when I click onto it, or I email it to somebody,
+and then they click onto it,
+this will take them right to the spot where Jack's talking.
+And it'll go, and then they can skim back and forth through that minute and a half file.
+So if they want to see, oh, and at minute 21, he was a real idiot, you know, or whatever.
+And you could actually even do that, like, you can go into the file, which is also kind of funny.
+You could go into the training folder, Jack Johnson's an idiot.
+And then you could even hear.
+So you can see there's the consent calendar.
+You could even start to make other notes in here and say, I could make another note in here is like.
+So, and we could even say that that actually happened in this clip at the one minute mark.
+So I can even say, Jack, that's where Jack really goes off the rails, is at the one minute mark.
+And see that.
+So I can have all of those sort of things Jack Johnson called to speak here.
+This is where he goes off the rails, and then consent agenda is when it ended.
+So, and that said, what's the publishing point that you just did?
+I think the way that I'm seeing that being used and correct me if I'm wrong, but we could use that to basically set up, you know,
+just just an HTML.
+I frame snippet so that we can embed specific videos in our website.
+You know, probably separate videos that we wanted to upload and stuff.
+I mean, those are the folders we were talking about.
+We have to create separate publishing points for any of those videos that we wanted to specifically embed in a single web page in our website.
+Yeah, the within the publishing point, it gives you a couple of different options there in the publishing.
+If I click down get HTML, you'll see I use the direct clip, which is just a direct clip to the video link.
+But you could use the JavaScript or no JavaScript here to embed a particular video into your website just by using the HTML code in here.
+So, if you had a page of, you know, I mean, every year we used to do the, we called it the, we called it the grannies.
+It was like the, it was like our Grammys award.
+And it was usually, it was usually silly as, silly as public comment that we could find across the country.
+And we'd have, you know, three or four people.
+And so, what we would, you know, if people would submit their best guys and your best people that would come in and talk.
+And then at, at our user conference, we'd have everybody vote on what they thought was the best.
+But what we would do is take publishing points from each of those municipalities or those videos.
+We'd create a publishing point and then we'd drop them into one page.
+And then everybody that was at the conference could click on the videos and watch them all on a single page from our website.
+And then they could, they could vote on what they thought was best.
+We want Ted a gentleman take his teeth out while he was speaking.
+That's awesome.
+There was a guy that dressed up like Borat.
+I don't know if you guys are familiar with that movie.
+It's a while back.
+But yeah, he dressed up as Borat and went to the San Jose City Council meeting.
+It was pretty unnerving, but, but pretty funny nonetheless.
+But yeah, the mayor took it all in stride.
+I was pretty impressed.
+He didn't get riled up or he didn't freak out.
+He just took it all in stride.
+The other point, I was going to say one other use of this work with Long Beach Fire.
+And they used to, they used to upload videos for, and I may have told you guys this already, but they may, they used to upload videos.
+Like how to change a fire plug or how to properly hook up a fire plug.
+How to properly raise a, you know, two story ladder.
+How to properly run red lights.
+I like that one particularly.
+But all these videos were probably, you know, five to ten minutes long.
+And the fire chief would create a folder.
+And within that folder, he would put all of these videos.
+And he would lock down the permissions on these videos.
+And he would send out these publishing points.
+Now the nice thing about the publishing point is when the time was up, what he used to do is he would go into that publishing point.
+So like Jack Johnson's an idiot.
+He would go into the publishing point and he would delete it.
+And when you delete the publishing point, now that HTML or that reference point, so where's my.
+So Jack Johnson's an idiot.
+If I click onto this, now you see it says resource not found.
+So what I did is I enabled people to watch that video until I didn't want them to watch it anymore.
+And then I brought down that publishing point or deleted it, but I did not delete the video.
+The video is still mine. It still sits in a folder of my choosing.
+I can create a publishing point to it again if I want to.
+But if you, you know, if you were to send something out via email.
+And you know, you sent it to the, you know, the county attorney.
+And after the county attorney is done with it, you know, perhaps you don't want to have a record of that floating around out there in the ether.
+So you can just go ahead and kill the publishing point.
+And they won't be able to reference that even if that email has been forwarded 10, 20 times.
+Is there, is there any limit to the number of publishing points that we can have?
+I don't think so.
+You mean to a specific archive or just in general?
+When you say archive, you mean single single video file correct?
+Yeah. I don't believe there's, and I don't even know if there's a limit on that.
+You could create a publishing point to one spot in the video.
+So as well, instead of, so what we did there is we trimmed out a piece of video.
+And we created a publishing point to that entire video.
+If you wanted to, what you could do is, and sometimes this is used to,
+is if we went into the Board of Supervisors meeting,
+and I went to the item, what I could do is I could create a publishing point
+for the Board of Supervisors comments.
+So if I went to publishing, I said new.
+I'll call this BLS comments.
+And you can set where you want the starting point of the video publishing point to start at.
+So here, instead of trimming out a piece, all I'm doing is pointing them to where I want them to actually view the video from.
+And then again, I click on get HTML.
+I take my link.
+And then I launch the link.
+And this should take me right to Board of Supervisors comments.
+So if you want to point to a, you know, it's a three hour video or something,
+and you just want them to look at that one piece.
+You can create a publishing point directly to that one piece,
+and it'll jump them right to that spot in the video.
+And then you don't have to do any trimming or anything like that.
+You're just saying, hey, there was something interesting that happened during the Board of Supervisors comments.
+Maybe you want to take a look at this.
+Or maybe they asked you for follow up on something like, hey, something happened in that meeting yesterday.
+Can you send me that, you know, whatever?
+You can do it that way too.
+Also, if you have, this is also kind of nice for.
+So if you ever do, I don't know if you do city and county meetings together ever.
+Do you guys ever do that?
+No, not that would be.
+Okay, well, again, I have a client that does like their water board and the city together.
+But the water board is a total separate entity from the city.
+But in some cases, they have the meetings at the city location.
+So what the city would do is they'll take a publishing point of the meeting that we did with the water board.
+And they'll send it to the water board and then they can publish that on their website.
+Same thing is, I mentioned the city of San Jose.
+There's also a group called the.
+Come on, Santa Cruz.
+There we go, predatory bird research group.
+So in Santa Cruz, which is just over the hill from San Jose.
+You can see there's a hawk here or falcon, I should say.
+Within city hall.
+So you see the baby chicks here.
+At the top of city hall in San Jose, a falcon decided to lay her nest.
+And so they put some cameras up there to get all that information.
+And so what the city did is they went up there.
+They put up a couple of cameras and they tied it into their.
+They tied it into their granite his feed.
+And they ran a 24 seven feed on these birds.
+And it was probably the biggest hit that they've ever had.
+So they have these nest cams.
+And if you actually PG&E building in San Francisco and city hall in San Jose.
+If you actually click on to them, you'll notice here at sanose.granicus.com,
+media's play, media player, publish ID 91.
+So this is literally just a streaming picture, like a surf cam or a traffic cam.
+But this is the falcon cam.
+So anyway, I always found that really kind of a cool way to kind of leverage granicus.
+And then they basically give that feed over to the predatory bird research group.
+And I guess they put up a nest in the PG&E building in San Francisco too,
+which I wasn't aware of.
+Anyway, always interesting, but that's another way to use publishing points
+is that you can actually give them somebody that's not using the product.
+You can give them access to it if you want.
+Gotcha. Very cool.
+So yeah, the main way that I'm seeing that being used for us is right now we've got our YouTube channel.
+You know, you've got a nearly a video cycling videos, public safety videos.
+So far, what pages have had those videos I've been on?
+I can see that being called being a good option for a place for that.
+Cool. Yeah, and if you get into a spot where you're trying to figure out what you need to do
+for getting those things up and available, let me know.
+I worked with a number, like I said, I worked with that Long Beach Fire Group quite extensively.
+I'm getting there a few pages kind of dialed in with their content.
+And San Jose, I mean, they used to call me all the time about the Falcon Kim.
+They were having problems initially when they set it up, they had problems with it.
+And I remember the guy, he was, he was the audio video coordinator there.
+He would just be like those, he's like, those damn birds.
+I'm going to go up there and choke him.
+Is there like the pain of his existence?
+And you know, everyone's like, hey, the Falcon Kim's down.
+And he'd have to crawl up there under the roof and like fix the camera and stuff.
+And he hated it.
+But I think they got it all dialed in now.
+So it's pretty automatic where it wasn't initially.
+Cool.
+So questions on, and then by the way, just to kind of fill it out here.
+So we looked at the agenda tab that has all of your agenda items and your timestamps.
+The minutes we're going to come back to in just a second.
+If you all ever end up deciding that you want to do closed captions, the closed captioning files all reside here.
+If you ever do e-comments, which is electronic comments, where people can comment on the agenda prior to the meeting.
+We did like that.
+Okay.
+Trimming, trimming we went over, publishing we went over.
+Download is just gives you a download of the raw video file.
+So it's just an MP4 of the video.
+If you ever somebody came in and said, came in to you with a public records request and said,
+I need a copy of the video and you say, well, it's available online.
+And then they say, well, I don't actually have the internet or I have a, I have a DVD player at home.
+And I'd like to watch it on that.
+You could just download the video and then you could burn it to whatever medium they want.
+If, you know, if that's something that you do, I'm, again, I don't know.
+There was some, you know, some clients I worked with, that's a, I was a lucrative business for them to download their media and put it on to either a CD or a DVD or something like that for people to watch.
+But anyway, it just gives them a copy of the raw MP4 file.
+And then finish just means if you're finished, it'll just bring you back to where you started, which is whatever folder you're working in.
+So if you're in the training folder and you're in an archive and training and then you hit finished, it will keep you in the training folder so you can go back.
+You had like 50 folders, which I have clients that have a lot of folders, LA County, LA City, they have hundreds because they do all their television shows in English and Spanish.
+So they have all folders related to all of the television programs they do.
+So there's probably close to 100 folders.
+So if you're working in a folder, it does help to stick in it if you're, so you don't have to scroll back through the whole list such.
+Okay, how are we doing? We're at about a little over an hour ready to hop into minutes.
+Okay, so now we've gone in, we've done our post meeting processing, we've adjusted our timestamps, we got those dialed in, we did our trim, got that dialed in.
+And now what we're going to do is start our minutes progress or minutes process.
+So we're going to navigate to the minutes tab.
+And then we're going to go to the new option because we're going to be creating a new set of minutes.
+I'll go through each of these, you'll see these buttons pretty prevalently, you know, new edit, copy, and delete.
+Those are usually pretty self explanatory.
+The publish and the default buttons I'll get into in just a little bit.
+So we want to create a new set of minutes.
+To do that, I'm going to go ahead and click on new.
+And by the way, I have a cheat sheet for you for all of this, so don't worry about taking drastic notes.
+I'll walk you through the process on the cheat sheet, and I'll send that out today with the recap from today's session.
+And then if you have any questions on that, we can cover that in our next session.
+Okay, cool. First thing we're going to see here is you'll see there's a document name.
+So we want to name our minutes document.
+So maybe we want to call it test minutes or minutes for March 1st.
+And then one second here.
+Oh, did you guys not purchase the minutes piece?
+Okay, it doesn't look like you did.
+I was just wondering because I'm like, oh, snap.
+How do I do this?
+Because the option I was looking for isn't here.
+However, okay.
+Okay, forget that moment.
+So actually minutes.
+All right.
+So there's an option.
+Yeah.
+What is this extra package?
+Yeah, I'll let me let me go ahead and open up my sandbox here.
+So I'll show you.
+Just give us this.
+I have a feeling it's probably not something we thought we were going to need.
+Well, it's up to you.
+I'll kind of go through it and then you guys let me know.
+So if I go into the archives tab on a meeting I have,
+again, same thing we just did.
+Trim that moved all my items, all that sort of stuff.
+If I go into minutes.
+Let me just delete this so we can.
+Excuse me, start scratch.
+If I hit new and then I put in minutes.
+And I select this word integrated.
+This is what we call our minutes maker program.
+What this does when I hit create document.
+Is this will launch.
+Microsoft word.
+Let me try that one more time.
+Here we go.
+I'm going to do Michael.
+Kelly.
+Sorry.
+I'm going to kiss calm.
+And sign in.
+When I go to my archives tab.
+I go to city council.
+I find my meeting I want to create a set of minutes for.
+And I navigate to the minutes tab.
+I'm going to click on new.
+The name my minutes.
+I'm going to select this word integrated option.
+And I'm going to hit create document.
+Now when I do that, that's going to go ahead and go out and launch
+Microsoft word.
+And it's going to compile and pull all of the data and the information
+from my meeting into that into a document.
+So we have a template that will create with a header and a footer.
+There we go.
+Sorry.
+Just taking a minute to launch up.
+And it's in my other window here.
+So let me move that over for you.
+Okay.
+Running at the speed of technology here.
+All right.
+Here we go.
+So here's my.
+Here's my minutes template.
+So you'll see here.
+This is a header.
+I just got the Granicus logo proceedings from.
+And again, you can put in whatever you want here.
+You know, wherever the location is, the time, the meeting date,
+you know, the 6 p.m.
+So I'm in Microsoft Word.
+So everything you see here, home, insert, design, all of these things are all
+Microsoft functions.
+The only difference between this and the minutes maker program,
+or the Microsoft Word add-in, we call it, is that it has this little Granicus tab.
+And the Granicus tab will allow you to publish a set of minutes,
+or remove hyperlinks related to a set of minutes.
+Now, some people just want to have, hey, these are hyperlinks to the jump two points
+of the video in the minutes.
+But a lot of clients we have just say, we don't need those.
+If they want the jump two points, they just go to the player to watch the video and use that.
+I just want to set a minute that doesn't have any hyperlinks in it.
+But this pulls in your time stamp agenda.
+Any notes that you made.
+I mean, of course, you can remove those as you see fit.
+Any attachments.
+If you don't want your attachments in your minutes, you can remove them.
+Then you're moving, you're seconding.
+So here's your motions in your second, seconded by Sidvicious.
+And that was to approve the consent agenda at motion carried four to one
+with my eyes of Johnny Cash, Sidvicious Taylor Swift and Katie Perry voting in the affirmative.
+And they're Johnny Rotten voting in the negative.
+This would be my roll call of who's present and who's absent.
+So I can even, you can run those roll calls multiple times.
+And then here are all my notes.
+My Kelly showed up at 1.39 due to car trouble.
+Day of roll was called to speak.
+Dave spoke about this and that.
+So I can go in and fix the things that I did in live manager.
+After the fact, just in word.
+So I can change if I know somebody's, I can add their names to dictionaries.
+So six packs should probably be six pack.
+I can remove lines of text.
+I can add in all sorts of other things.
+spoke about this and that.
+Again, I can go through and pull out anything that I don't want in here.
+Like my attachments.
+Motion carried.
+These are more attachments.
+So I can kind of play around with my document, my minutes document.
+This one's a failed vote.
+And then there's my footer here with the signature signature line.
+So when I'm all said and done with this, I can save this.
+We'll open up a dialog box and will tell me briefly describe the changes you made to this document.
+And I'm just going to call this draft one.
+And I could even say what I did.
+I removed document document links.
+And you could do some other additional things.
+Now, once that's saved.
+If I close out of the document.
+And go back to here.
+Now I have a working copy that I can come in and work on over and over.
+So that was like my first pass at it.
+If I wanted to come back in and edit that document, I'm going to come in here.
+And this time I'm going to open it and word.
+And then I'm going to go in and make any additional changes that I want to do.
+And again, assuming that this is a dot.
+Excuse me.
+Assuming this is a document that I'm going to want to use in the future.
+So I'll come in here.
+Maybe again, I'll make some adjustments.
+Pack again.
+See if there's anything else that looks.
+Everything else looks pretty kosher to me.
+Maybe I want to, you know, tighten up some spacing.
+You know, whatever I want to do here.
+I'll go ahead and again, save.
+And I'll call this, this will be the, I'll call this a final draft.
+So this is something I'm going to actually.
+I'm going to present this to council or to the commission the next session.
+So what I'm going to do here is I am going to, sorry, open in word.
+And I meant to do a save as to.
+So there's me one more second here.
+So once, once, once we'll see this, can you show us the process that we have currently?
+Yeah, absolutely.
+So I'm just going to do a file.
+See which one's going to work better for us.
+Yeah, absolutely.
+So I'll say minutes.
+This is minutes of March 1st.
+And I'll just save that down to my downloads folder.
+And you could save it anywhere, obviously, on your share drive or what have you.
+And then what I would do with that document is I would go out into peak.
+And I would create an item for my next agenda with my set of minutes.
+So create new agenda item.
+The title of the item would be minutes for minutes for March 1.
+You know, approve the minutes.
+Item type is minutes department.
+Again, you get the just here.
+We put all these.
+And then I just browse.
+And then I take my document that I created.
+And then I attach that.
+And then create it.
+Okay. Well, yeah, I have all my required fields.
+But that would again go on to the next agenda for the next meeting date.
+So the council.
+Whatever the meeting gate I wanted to put that on for.
+And then once that meeting was done, what I could do is come back to the platform.
+And if those minutes were approved, I can come back into my archive.
+And now I can publish those.
+So if I go back over to minutes here.
+And it open in word.
+And then I can publish it.
+So sorry, just a little bit longer than I wanted.
+So I just go to the Granicus tab and I click publish.
+And what that will do is that will publish my.
+Publish my document out to the public facing page.
+And so now if I navigate over to my view page.
+Under city council.
+Now you see there's the city council meeting from the 15th.
+And then there's my set of minutes.
+So when I click on minutes, that opens up a PDF version of the document I was just working in.
+But if we don't have a minute package, we can just upload a PDF as we've always done.
+That is correct.
+Yep. So what you do.
+So perfect.
+So going back to that.
+We go to the archives tab.
+We go to the meeting that we were working in and click edit.
+And then at this point, you navigate to minutes.
+You create new.
+And then you name the document minutes.
+0301 2019.
+And then you upload a PDF.
+So you use uploaded file.
+Click browse.
+And then you find your PDF.
+So wherever.
+If you want to have a PDF in here.
+That's right.
+Give me a PDF somewhere.
+Yeah, the PDF in here somewhere.
+There we go.
+There's some PDFs.
+Okay.
+So I'll just grab.
+Okay, here's a set of minutes.
+And I'll hit create document.
+And then if I want to publish this.
+I just click on here and hit publish.
+And then now if I navigate over to your view page.
+And go to board of supervisors.
+There you see there's the link minutes.
+0301 2019.
+And then that brings up the minutes document.
+The other thing you can do here is.
+As well related to that file is you can market as the default document.
+So to do that, you just click to highlight and hit default.
+Now what that will do is when you go over to the view page and you.
+Click on the video link.
+So when I click on the video link where I have the minutes are published.
+And I marked them as default.
+When I open up the video.
+I should see it over here on the right.
+That's interesting.
+Try that one more time set.
+Set properly.
+Minutes.
+Yeah, let's try that one more time here.
+So I should see both the minutes and agenda.
+And I'm not seeing it.
+So I should have.
+I should have two tabs here.
+One says minutes and one says agenda.
+So I'll check and find out why that's not showing up in the player.
+Let me check one other thing.
+Views.
+I just wanted to see what the.
+So this is what we call the template designer.
+So this is the view page designer.
+And you can go in and.
+You can change the layout of how you want the view page to look.
+So do you want.
+Tabs with collapsible panels or collapsible panels with tabs.
+That just changes the look and feel of your view page.
+So if I said I want to just tabs.
+And I hit save template.
+If I navigate back to the view page and refresh this.
+Instead of having the folder structure, you just have a tab with the years.
+So this has all of your folders together.
+So what we were using was collapsible panels with tabs.
+As our option.
+You can also change the content.
+So do you want to display the streaming video help link.
+Do you want to edit the text at the top of the page?
+You want to put in additional.
+I think I showed you this.
+I tried to put in that link to the live stream here.
+And then the tile settings or the column settings.
+So what do you actually want to call these things?
+So we want this one to be called date.
+Okay.
+agenda.
+So as we kind of fill these in, I don't know what's going on with my Internet Explorer here.
+Moving at the speed of nothingness.
+Events.
+We could call this packet.
+Wow.
+That's really slow.
+Never seen anything like that.
+But again, I can save my changes here.
+Wow.
+Okay.
+Save my template settings.
+And I just wanted to see if there was something else that I was missing.
+Minutes is there.
+So.
+Candle.
+Barely just one more minute here.
+I just want to make sure I.
+I'm going to do a couple of questions for you about this.
+Certainly.
+Yeah.
+Hit me.
+Yeah.
+You can go ahead.
+I'm just kind of watching this thing.
+Do it.
+Do it.
+I was in your.
+Playing around with this yesterday and changing the color scheme and everything.
+Yeah.
+On that table, the upcoming events, because of the headers going across.
+Is there any way to make those larger?
+Text on this is really, really small.
+Let me take a look.
+Does that just give you the colors?
+Yeah.
+It just gave the colors.
+There are a couple of spots for font sizes.
+But that does.
+It's just an actual paragraph text and not the actual table table.
+Oh, guys.
+Probably that's all because other columns could be added.
+Yeah.
+Let me ask about that.
+I'm not sure.
+We definitely would want to make those a little bit bigger.
+I see that.
+So columns.
+Column headings.
+I'm going to check one other thing on the player.
+I've got two more questions.
+Oh, yeah.
+Yeah.
+Our website.
+I was trying to match our table styles as much as possible.
+And for the headers on that table, all of our tables on our website,
+we have like a blue background color.
+Just on that that header row.
+Is that possible at all?
+I didn't see any options to do that on the other design.
+the other designer, but would it be possible just to have a background tour on just the
+header row for that table?
+Yeah, so the designer is kind of the wizzy wig.
+If you're dangerous, if you like being dangerous, there's the template editor, which, oh,
+well, I don't know.
+I thought this had all the HTML behind here.
+There used to be a way where you could go into the actual HTML and create your own, create
+your own, whatever you wanted to do.
+This just kind of had some sample templates that people could just point and click.
+But what I can do, let me check to see if I can get you something else, where you could
+do something more custom, HTML, code for you.
+That would, if we could get access to that in any way, that would help my last question
+where we have the click here to view live stream, since it's just a link and I didn't have
+any way to, like, edit the HTML, when I put it in an iframe, the link itself just opens
+in the same window, so it tries to open that content within the iframe itself instead
+of a separate window or a separate tab.
+But I didn't have any way to change that, because it's sort of a plain text editor there.
+Yeah.
+Where it can't talk about how the link operates.
+Yeah.
+Yeah, I don't, I mean, I guess what I'd have to do is somehow have the link using some
+sort of HTML code to open in a new window or open in a new tab.
+And I think you'd be able to do that through the editor that you wouldn't be able to do here.
+But let me just see if I can get that info for you.
+We can even remove this too, because I know what you eventually wanted to have happened
+is actually have the player, a player, a player at the top, as opposed to just the link to the web page.
+You weren't actually having the video player there, right?
+Well, if that was an option, we would really want to see if that's possible.
+I'm not sure if I'm curious how that would work on mobile devices and responsiveness and stuff,
+since it will be an iframe in our website.
+So if that's a viable option and we can make it work well, I definitely would definitely like to have that.
+Okay, so I'll see if I can get the code for the view page.
+And then so you can get in there and play around.
+So if you've got HTML experience, great, because I knew just enough to get myself in the trouble.
+But that should be also on the editor, so we can just create a set for you.
+And then kind of a standard template, and then you can go in and play around with all the columns,
+and headings, and colors, and fonts, and stuff.
+It definitely gives you a lot more flexibility.
+And that's where most of our stuff was done originally.
+But when we kind of found that we could leverage, you know, 80% of our customers were like,
+yeah, we don't really care. We just want to get the colors right and just writer that.
+But we can definitely do that for you.
+Yeah, no problem.
+And then one other thing I'm just going to check the player template as well.
+And again, going back to the designer.
+This is where you set logos.
+This is where you can set the player size.
+This is where you can enable certain features on the player.
+So if you want to allow your constituents to download the video directly from the player.
+And maybe this is the default minutes. There we go.
+Okay, so that little checkbox was unchecked. Now I think I think if I go back to my video player now,
+and click on video.
+Yeah, that's what I was looking for.
+So here I have my player, my jump two points.
+Now I have the minutes document showing up as the default doc.
+And then I can toggle between the minutes and the agenda if I want to.
+Yeah, if we use just the plain PDF, the minutes won't be timestamped.
+It's just this jump points at the bottom that we have the timestamps.
+That's exactly right.
+So yeah, so this was just a random PDF that I uploaded.
+Let me try opening this.
+This is another explorer just drives me bananas.
+I can't stand it.
+Why are you using it?
+Well, for that minutes program that I was talking about, which you don't ever have to worry about because you don't have it,
+that is where that actually comes into play.
+So yeah, so you won't have to worry about it because you don't have it.
+And I never use it except only in that program.
+So let's take a look here and I can do this one more time video.
+Yeah, always works better in Chrome.
+So this is that static PDF that I uploaded.
+And then the agenda tab should bring me.
+It should bring me back to the peak agenda.
+Why is it not.
+Taking me back to the.
+Oh, there it is.
+Third time to charm.
+So anyway, that's that's what that minutes and the default.
+So when you're in the actual archive, there are two buttons to familiarize yourself with.
+And that is on the minutes tab, there is the publish button and the default button.
+So to unpublish a set of minutes, meaning you want to pull them down from the, from the page, from the view page,
+you just click on to your button here and click publish.
+And then publish will say, oh, sorry, default.
+That says default no.
+And then click on it again and click publish.
+And now publish says no.
+So in this case, now if I navigate back out to my view page and refresh this,
+my minutes link will go away.
+And my agenda will only, only my agenda will display in the video.
+Okay.
+So that's upload your document and then publish your document when you're ready and then default.
+And then that will put the link out to the public facing page of whatever you called it.
+And then the video link, if you signed it as the default document, the minutes document will display in the player as well.
+So questions on that.
+Is that, do you think that'll work out better for you than the whole minutes maker thing?
+It's definitely a lot more to it, but it's, I don't know how you currently do your minutes now.
+Very old school.
+But does that work for you?
+Are you able to get them out?
+Yeah.
+Yeah.
+Actually, that works.
+I pretty much have my minutes done before the meeting starts.
+I just go, sorry.
+I hear that a lot, by the way.
+So, yeah.
+So I don't, I don't, I don't propose that you guys move on with this minutes maker stuff.
+I would sit tight with where you're at, to be honest.
+Well, I think so.
+And I think for us, it has, it was a funding issue as well because the way we're paying for this,
+somethings were allowed to be spent and some were not.
+Oh, okay.
+But I think that's probably why we didn't.
+But also, that wasn't really, it wasn't a weak link there.
+But, yeah.
+It does seem like you have the full package if you're able to put your minutes up there next to it as well.
+Yeah.
+You asked the fact how interested somebody going to be in the agenda if you already got seven minutes adopted.
+Sorry.
+We'll have to figure that out.
+That's a good question.
+Yeah, that's a good question too.
+Yeah, I don't know.
+Yeah.
+And the big thing with that minutes, where the package has to help.
+And then we want to do in the system versus.
+Right.
+Yeah.
+Use that over which, you know, it's just, I see that more as all the different folks and stuff, you know, that will populate in the minutes.
+That was the word.
+But the only time you should record a vote by the person is on a roll call.
+You shouldn't be recording a sweet vote, but it's not by division and you can't tell for sure if voting for what.
+So, I don't, I wouldn't even use that after that, because Rod's opinion is we don't use that if it's not a roll call vote.
+But the roll call vote, you've got it.
+You've got it.
+Either on the video or the recording, either.
+Yeah.
+So, it's a neat idea, something to think about.
+Sure.
+Okay.
+Cool.
+We need to be.
+Okay.
+So that's kind of the soup to nuts in the post meeting process.
+And then uploading your minutes and publishing your minutes.
+Let me just looking at the calendar here real quick.
+Don't need that publishing point.
+Let's see.
+So session four, three, six.
+And then so I think what we need to do or the next step is.
+Probably do a review for kind of everything.
+If that makes sense, kind of soup to nuts will go right through the peak process.
+You know, creating, creating a meeting, going through that kind of approval or creating items, assigning those to a meeting.
+Or you're kind of thoughts on timelines and then from a draft draft or a prover perspective training.
+How did you want to work that again and apologize if you've already told me this and then I didn't write it.
+But we have to session the other day.
+So assuming that this is that one.
+So were we not going for one more?
+No, we got one more.
+So that's usually what we're going to do is go through the entire process and kind of answer any questions you have on anything related to.
+Peak or the webcasting stuff.
+So we can literally go through the entire process.
+Use, you know, we can use a sample meeting date.
+We can create some items.
+We can put those through the approval process.
+Then we can open up that live manager application again.
+Bring that in.
+Time stamp and bookmark our items.
+And then go into the post meeting process.
+And do our post meeting cleanup.
+And then we can publish a set of a, excuse me, put together a set of minutes and upload a set of minutes and publish that out to the public facing page.
+And then usually at that point, then we want to try to schedule depending on everyone's schedule and how you want to work it.
+The training for your drafters and approvers.
+Right.
+So I think we had discussed the training with the drafters and approvers you're planning on.
+I think we had kind of discussed just doing that ourselves.
+Right.
+Instead of...
+If you're going to do an overall review, what we could do is take an actual agenda with actual items.
+Yes.
+And do that ourselves.
+That's the next one.
+Okay.
+Yeah.
+So...
+Right.
+Yeah.
+Right.
+Even this group.
+Yeah, yeah.
+I mean, even this group.
+Rather than the other group.
+Correct.
+Yeah.
+So we have talked about modifying the cover page template to our, with our letterhead and stuff.
+So it would have been appropriate for me to get that to you at this point before we have the next session.
+Yeah.
+That would be great.
+And then that way I can get the...
+I can get our design team working on that.
+Okay.
+All right.
+And then...
+And before...
+Well, I'm thinking about it.
+Is there any modification to how the agenda items are numbered?
+I mean, are you using a basic outline style or are we going to have some control over that?
+Or is it strictly just start one and go to whatever?
+Well, it is up to you kind of what we looked for was what you guys were currently using.
+And it didn't look like you were numbering your items.
+But I think your system is going to require numbering, isn't it?
+It doesn't require numbering.
+In my opinion, I think it looks better with the numbering, but it does not require it.
+So here again is kind of a sample of an agenda.
+We just open this up here for you.
+I mean, I'm trying to modify what I'm doing now on our agenda based on what I saw...
+What I thought your template was going to require.
+And I was looking at how some of these numbers...
+You were using numbers within letters.
+Yeah.
+So what we can do...
+So the way this was...
+These are currently not being numbered.
+So this is the title.
+Again, if you wanted to put your background in the title, but I think we decided we were going to create that as a separate field.
+Or are we going to include the background in the title?
+We're going to include it in the title.
+So are you not starting at the top of the agenda with the very first item being number one?
+Or are you only numbering things that have attachment?
+So the sections can be numbered and then the items numbered as well.
+So I'll go back through that here because we've got some time.
+If we go over to the administration and go into the meeting types...
+So we had our regular meeting here.
+And now here are your various sections.
+And within your sections, you can come up with a numbering scheme.
+So if you want it to be 1.1, 1.2, 1.3, or 1a, 1b, 1c, and you want those uppercase or lowercase.
+Okay.
+All right.
+Now, within that, you can also do this where you say, I want these numbers, these items numbered.
+And maybe you don't want this number, this item numbered, and you want just the discussion items numbered.
+Uh-huh.
+Okay.
+So you have some flexibility here.
+And you can see even, you know, here is adoption of the agenda.
+So that's a one.
+That's a two.
+Your invocation and pledge of allegiance, maybe you don't number those.
+But then when you get into like citizen comments, um, consent agenda, we can start to number all of these, all these sections.
+Right.
+Or the supervisor's comments.
+So I'll stop there just for now.
+I'll go ahead and hit save.
+Um, and then now when I go back to my, my meeting or meetings.
+And let me, let me finalize this.
+And let me just pull it.
+I think I moved on my items also add item.
+So here's my sample resolution.
+I want this under consent.
+Here's test item one and two.
+Let's put that under consent as well.
+And then this one here.
+I'll put this under.
+Under what do we put this under?
+Or to supervisor's comments.
+So now when we run this, this agenda, you can see.
+Oh, come on.
+I run in too fast for you here.
+Let's see here.
+Now you can see some of the items are numbered.
+And then if I go ahead and download the agenda here.
+The look is going to look a little bit different.
+So we're going to see.
+So there's our numbered items.
+There's a numbers.
+Where's my items?
+Where can my items go?
+All right.
+One fact here.
+Let's see.
+I've got my items.
+Back to my items.
+Now I'm confused.
+Can't solve.
+They're going to hit save.
+Why is it going to be this error?
+I don't know what this is coming from.
+Let me put my items back in there.
+I don't know why it wasn't.
+Didn't seem to like whatever I was doing.
+Consent.
+Consent.
+And.
+So now let's try this again.
+There we go.
+Download.
+So here this is your sections.
+And then the numbered sections.
+If you have items under that, it will start to number it in the convention.
+You know, for a, for b, or four dot one, four dot two.
+And then again, if you're, if you're putting items under a non numbered section,
+it won't number the, it won't sub number the section.
+So if we numbered all of these sections, this would be six.
+This would be seven.
+This would be eight.
+And then this would be eight point one or eight B or Roman numeral eight dash one.
+So there is a number of in that administration under meeting types.
+Right.
+There's a number of numbering schemes you can go with.
+You know, so you want Roman numerals.
+You know, again, as long as you save that changes and then come back over to your meeting again and run it again.
+It should re-number or re-letter what have you the agenda accordingly.
+Okay.
+Why is helpful?
+That'll give me some things to think about.
+So I'm going to send you over just kind of a skeleton that I think we could use as a cover memo, cover page template then.
+Okay.
+Great.
+That work.
+Yeah.
+So I'll get that going.
+And then let me know if there's things or changes you don't want in, you know, how you want to do the,
+just how you want to set this up from a numbering lettering perspective.
+Just so we can make sure that if we need to make any tweaks on the design side, you know,
+whether it has to do with spacing or things like that.
+Now, I've also asked about turning on, I haven't, they haven't gotten back to me on turning on the editor.
+So there is an HTML editor option.
+I just, I, there's a, there's a setting in admin.
+I didn't want to touch it because I was afraid I was going to screw something up.
+But there's, you know, don't hit the shiny red button.
+Red and Stimpy.
+So use HTML reporting.
+And so I don't know if this is what that will, will do.
+If that will turn on the formatting enable HTML formatting for the agenda sections.
+I think if I turn that on, let's do, we'll do it.
+We'll see what I'll beg for forgiveness if I blew it up.
+Let's see here.
+Let me go back to my meetings.
+Oh, I know what I want to do.
+I want to go to meeting types.
+And let's see what happens here.
+Yeah, okay.
+All right.
+So I didn't blow it up.
+So now you'll have the capabilities to bold certain things.
+Oh, and it's so happy she loves her bold.
+So yeah.
+So if you want to go in and work on this and kind of get it to what you want,
+or send it to me and I can try to go through it.
+And then we can review it.
+That would work too.
+So however you want to do it.
+Again, if you, you know, whatever numbering scheme you want,
+or if you want to number all your items,
+it's again, entirely up to you.
+But now we've turned on that HTML editor.
+You should be able to go into each of your sections.
+And bold italicize, change the font size, whatever you want.
+Moving forward.
+All right.
+So should that have been?
+I had realized.
+I think we're in the box.
+Sorry, run that by me one more time.
+Should that HTML editor fly pretty much any text box in the system?
+It should.
+It should.
+So if we go to our.
+Let me see.
+I'm just going to save my changes here.
+I should be able to go to.
+My meeting.
+Let's see.
+Yeah.
+So it it'll actually.
+So I can come in here and say I want this.
+This bold did.
+And.
+I don't know.
+This italicize maybe.
+Different.
+Yeah.
+Yeah.
+So it looks like you've got some flexibility there.
+Let me just see what happens when I download it to see what it looks like.
+Yeah.
+So here.
+That's the.
+I italicize 7 p.m.
+And I bolded that part.
+Yeah.
+So you got a lot more flexibility now as to what you want to do.
+Definitely.
+And I believe if I'm creating a new agenda item.
+It looks like just.
+It looks like just the title.
+So you.
+So.
+So your title you can for the agenda items that you're creating.
+It looks like that you have the flexibility.
+It doesn't look like the other.
+The other fields don't have it.
+That's fine.
+That's all we would need.
+And.
+Okay.
+Yeah.
+Cool.
+Very good.
+Well, good.
+That was easier than I knew.
+I thought it was going to be some crazy tragic thing.
+I was going to have to go through and.
+And cry to people.
+It's fun.
+Isn't it?
+Yeah.
+Yeah.
+You hit the big shiny red button.
+And now that's what happens.
+Well, cool.
+So I'll go ahead and recap today.
+But a couple of the big items.
+I'm working day recycle bin column headings on the view page.
+Just the font size HTML code for the view page.
+This will probably solve the problem before it.
+If we can get the HTML editor on.
+We're going to do the draft or approve or train the trainer model.
+I'll send you over some helpful videos as far as that goes.
+But I'll walk through that process with you as to how to train the
+approvers and how to train the approvers.
+And then we also turned on.
+HTML editor HTML.
+Option for agenda sections today.
+Anything else I'm missing off that list.
+From today.
+No, I was watching the video yesterday.
+I haven't tried it again this morning.
+But after I closed it out, I was not able to get back in and restart it.
+So I have not tried my walk in yet.
+Either I'm going to try that later today.
+Now that I know it or possibly in the next few days.
+I've got something to try.
+But my schedule is going to be really tight the next few days.
+I'm not going to be able to devote much on this.
+Probably until next week.
+Sure.
+Did when did you think you wanted to reschedule or schedule out the follow-up session?
+Did you want to do it the end of next week or the beginning of the week for that?
+I guess we're going to have to get back in touch with you.
+And I don't know whether we want to wait till Scott's available again.
+Probably.
+So with his being out with Flue and our meeting scheduled the next week or so.
+This is going to be really tough.
+But we might have to put some dates together and get in touch with you after we.
+Decide something.
+Thank you.
+Okay.
+I mean, that sounds good to me.
+I am.
+Let's see.
+I'm here the week of the 18th.
+But my schedule is pretty tight that week except for Thursday.
+That would be the 21st.
+And then the week after that, I'm actually traveling to Michigan.
+So I'll be in Michigan on Tuesday, Wednesday, and Thursday.
+But I'm open on Monday and Friday of that week, which would be the 25th and the 29th.
+Okay.
+I'll include those dates in the recap email today.
+And if any of those dates work great, if they don't, then we can try and come up with some other dates that might work out better for your team.
+Okay.
+That's good.
+This is probably the worst possible month.
+Gotcha.
+Okay.
+Well, we'll try and get through it.
+And again, you know, if this pushes out in the April, again, it's just really comfort level for you guys to be comfortable and getting the staff train.
+So that they're going to be using it and making it easy on you.
+So we wouldn't want to be in the in the next training to do since you mentioned it, just go over all.
+One group of the process would have been good for us.
+Yeah, we can share our screen with you and we can draft up an agenda using our agenda items.
+Yeah, that's run a short, short, you know, broadcast medium here.
+Yeah.
+Yeah, kind of.
+Yeah, that sounds great.
+So we'll run from your screen.
+Again, we don't have to create anything super crazy to three items.
+And then put them in and then, you know, and the index piece is pretty easy.
+Whether you got 20 items or three items, it's the same process, double clicking.
+So that should be pretty straightforward.
+But we'll plan on just running that from your screen.
+I'll just turn control over to you and then you'll record from there.
+Sounds good.
+All right.
+And so I'll send out some other dates as well for the next session.
+And then after that, what we want to, you know, I mean, if you need my help in prepping, I'll send you some information regarding the draft or approver stuff.
+But if you need my help getting, like, meaning when I say getting an agenda together, meaning these are the steps on how to train your drafters.
+And these are the steps on how to train your approvers.
+It's not super hard.
+Literally, you could do it in about 15 minutes for each.
+But I usually dedicate an hour, 30, 20 minutes for drafting, 20 minutes for approving, and 20 minutes for questions.
+That seems to work out pretty well.
+Okay.
+So I'll send you that info as well.
+And then, yeah, any other questions?
+And then if you could shoot me over that cover page or the cover sheet, then I can, I'll send that over to design and we'll get rolling on that.
+Okay.
+All right.
+Cool.
+Thanks everybody for your time.
+Thank you.
+Appreciate it.
+Have a good one.
+All right.
+Thank you.
+Have a great rest of your week.
+You too.
+Thanks.
+Bye.
+Bye.

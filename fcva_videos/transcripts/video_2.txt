@@ -1,0 +1,1538 @@
+This conference will now be recorded.
+And then we're off to the races here.
+So I guess real quick, if you guys want to just go around the virtual room there,
+or the actual room, virtually for me, and just kind of introduce yourself,
+and then just a little bit kind of about what your role is going to be on the project,
+whether it's the peak project or the webcasting piece.
+I'll start.
+My name is Andrew Fair, I'm the program coordinator for IT.
+So I'm just kind of helping in all aspects of this project,
+but primarily with the broadcast and overall integration piece.
+Got it.
+And.
+I'm Anne Phillips, I'm the deputy clerk to the board.
+I will do the agenda preparation and the sistering the meetings.
+I'm Karen Vacchia, and I'm the public information officer for the county,
+and I'm doing whatever anybody tells me to do.
+So Karen and I share similar roles in that.
+I'm Scott, as we've, you know, thought back and forth many times,
+I'm the director of IT and MIS.
+And I've been with Granicus for a while in the previous locality,
+but not peak.
+Peaks knew we were using the original, basically, agenda portion with Granicus,
+where I was before.
+So my role is going to be Andrew and I both.
+Andrew also is our IT supervisor for the internet,
+and intranet pieces that we have here,
+so he'll have involved in getting, you know, everything into the eye frame.
+But we will be at all the trainings so that we can support this product moving forward
+with all of our assets.
+And one thing today, Mike, as we're talking about agenda,
+I was waiting until the day to get a really good feel for when you think
+we need to bring in a couple of other departments.
+Or if it's going to be better for us than to turn around and do the trainer model.
+We have our planning department who, for ANS, regular board of supervisors agenda,
+they're going to be a heavy part of loading that data into peak.
+And, of course, they have their own planning position meetings.
+But our goal here was to almost do a soft opening.
+We start with the board of supervisors, get that rolling.
+And then as we, you know, bringing the other factions, I guess,
+kind of show this up and running as we ease the rest of the county into it.
+But I wasn't sure.
+Well, sure, sure, the technical expert on the training part.
+And I know you've dealt with that before.
+Wouldn't it be a good time to start bringing those other entities in?
+So, so typically the way I've run it that's worked pretty well,
+is we go through the administration of peak first.
+So that's essentially the next two sessions.
+That'll be kind of going over the backbone of peak,
+you know, going into looking at the meeting body, the meeting types,
+kind of configuring it, making sure we've configured some of the things
+and make sure there's some additional things we want to tweak to show you guys how to do that.
+That's usually, and then the second session is usually primarily around the actual agendas.
+So the meetings, creating items to go on to the meetings,
+and then shuffling them around on agendas, you know,
+positioning them in certain places or moving items off agendas
+and moving them on to other agendas or other dates.
+Once you get a foundation of that, usually I'll bring in,
+we'll go into the webcasting piece at that point,
+so you can get familiar with essentially this is how you set up peak,
+this is how you publish an agenda,
+and then we're going to run a mock meeting with that agenda
+using the live manager application.
+That's typically in session three.
+And then session four is typically your post meeting process,
+which would be, you know, taking that data from your first meeting,
+your mock meeting, and then creating a set of minutes from it.
+So that's kind of the process.
+And what we typically do at that point is I do what we call a draft or a prover training,
+and that we would want to bring in,
+I would say your heavy hitters, at least,
+but you can bring in as many people as you want.
+This will get them exposed to the system from the drafting perspective,
+so they'll be entering items into the system,
+pushing them through an approval process.
+So we teach the drafters and the approvers in a couple of sessions.
+Usually I lead them, but I'm happy to teach you all,
+and then you guys can do the train, the trainer,
+or if you want to run more sessions than, you know,
+what I've allocated or what have you,
+we could certainly do that too.
+But we try to get them involved in it from the drafting side first.
+This is how you create an item.
+This is how you push it through an approval process.
+And then ultimately, this is where it shows up on your agenda.
+If those groups like planning are going to be doing their own,
+you know, they're going to be handling their own agendas for their own meetings,
+we might want to bring in, you know,
+whoever handles the planning stuff,
+if you want to bring them in for the next session,
+you know, you could certainly invite them to that,
+because we are going to be talking about agendas
+and how you publish the agendas and download them and that sort of stuff.
+But I'm also happy to do a refresher course
+when you want to bring on those additional meeting bodies.
+Right.
+That makes sense.
+Okay.
+So usually I do it at the end, but we can do it any which way
+that works with your schedules.
+Okay.
+So now I know I picked up one thing you mentioned.
+When they are actually up and rolling with Grantedness
+for their full agendas for the planning meetings,
+now we'll be able to,
+so some of those items I was just thinking of,
+some of the items from the planning commission
+will end up on the board meeting.
+So would she be able to take an item from their meeting agenda
+and move it on to her agenda,
+or that I'll look at every meeting or sit over.
+Yeah.
+So there's two ways to handle that.
+One, you can duplicate an item.
+So if I have an item that's on the planning commission,
+and it's also going to be on the board for the same day, same week,
+I can take that item and I can duplicate it,
+and put it onto, so it appears on both items,
+excuse me, both agendas.
+The other thing you can do is once the item has been taken by planning
+and is referred to the board,
+you could essentially assign or what we call
+create a second version of that item.
+So the item may have been referred to the board
+from the planning commission with a, you know, affirmative,
+you know, like they approve whatever the item is,
+and they just have to submit it to the board for approval.
+And I'll show you how you can create a second version
+of that item that existed on the planning commission agenda,
+and then actually that second version would show up
+on the board as supervisors meeting.
+So it's, or can you guys maybe help me out on what would be
+the typical situation?
+Would they be on simultaneous meetings at the same time,
+or would they be something like where the planning commission
+would take something and then refer it to the board?
+Typically about a two week window or two 30 day window
+between planning commission and board.
+But it would never appear as an actual duplicate.
+The information would be duplicated
+with an additional report from the planning department
+as to what action the planning commission took.
+So some of the items would be, you know,
+would be just a pure duplicate of an item.
+It would be pulling that information and adding to it
+for the board agenda.
+Got it. Okay.
+So we'd be doing what we call versioning.
+So we'd have the first item,
+the item would actually be collected on to the planning commission meeting first.
+And then whatever the ruling or what have you that came out of planning
+would be essentially reversion or re, you know,
+essentially updated.
+And then that you said,
+maybe an additional report is put on there as well.
+And we would create a second version.
+And that second version would go on to the board of supervisors meeting.
+Right.
+And so.
+Yep. Sorry. Go ahead.
+And most of the time that the 30 day window can be a two week window
+or a one week window.
+I'm sorry.
+Usually a two week window can be a one week window depending on how the meetings are scheduled.
+And when agents published.
+Okay.
+That should be, I mean, that should be fine.
+I'm just worried whether,
+I'm just wondering whether they would actually be on the, you know, the same week.
+Not, not physically at all.
+Not that.
+Okay.
+Great.
+We'll definitely, we'll definitely walk you through that whole,
+that whole process as well.
+Probably get into that more tomorrow,
+just as far as how to create items and then how to version them, etc.
+So where they end up on agendas.
+Very good.
+Any other questions?
+So far.
+Okay. Very good.
+So first thing I'm going to do.
+Actually, you all didn't get a log in.
+So what I wanted to do is give you all a log in.
+I guess just to be consistent.
+Did, maybe I'll ask that question.
+Did, did anybody receive a log in to the fcva.granicus.com site?
+No.
+No.
+No. Okay.
+So I'm going to make it simple here.
+I'm going to make everybody's password today.
+One, two, three, four.
+So in, Anne's case, it's your, it's the first part of your email.
+So in Anne's case, it's Anne.phillips.
+And then one, two, three, four when you log in.
+I'm going to go back to all my users here.
+And then so for Andrew.
+Same thing.
+First part of your email address.
+And I'll show you where you can change your password here in just a moment.
+And you all are listed right now currently as administrators of the system.
+That means essentially you're going to have access to all parts of the system.
+If you decide later on that you want to add or remove people from that.
+I'll show you how you can add users.
+And then where the permissions kind of lie.
+For who and how you want to set people up.
+I think I do see the single sign on option up there.
+Is that a possibility as well?
+It is.
+I am not super familiar with it.
+But if you want to send me the information related to what you guys use for your single sign on provider.
+Yeah.
+I use a provider or if you're using LDAP or whatever.
+But we can, yeah.
+That stuff is just beyond me from a technical perspective.
+So there's some way to enable it.
+So if you can send Maggie and me and Maggie and myself the information that you have.
+We can see if we can support it.
+I know in some cases.
+Yeah.
+I just don't know all the all the intricacies of that single sign on stuff.
+Cool.
+Yeah.
+But that's that would be ideal obviously because everybody would just log in with their network credentials.
+And then that would be that.
+But to log into the system, I'm going to go ahead and log back out here.
+We're going to be navigating to the website.
+So this, this portion, what we're going to be talking about peak.
+It's all web-based.
+So there's nothing you can do this from home if needed.
+All you need is your username and your password.
+We're going to be navigating to the SCVA.Granicus.com site.
+And you'll be presented with a login.
+If you did forget your password, you can click on forgot password, but you have to remember your username.
+So and in your case, it's first name, that last name looks like everybody else has a first initial last name.
+And then if you submit that, that will send you a link from Granicus to reset your password.
+In my case, I'm going to go ahead and log in.
+And then once you've logged in, up in the upper right hand corner, you're going to see your name.
+And if you click on your name and then select my account, there is an option to change your password.
+So I recommend everybody that has their password when they log in today.
+You just put in your current password of 1, 2, 3, 4.
+And then put in the new password and confirm that with something that you'll remember.
+Currently, right now, there's no real restrictions.
+That's going to be changing probably in the next month or two, as far as the, you know, what the passwords are.
+You have eight to ten characters with special characters.
+You guys kind of know the drill for that.
+But as of right now, it's basically a four character, anything over four characters, and you're good to go.
+Like I said, that'll probably be changing in the next month or two.
+But for now, just find yourself a password that you're going to remember.
+And then you'll be able to log in to the site.
+Mike, can I ask a quick question?
+Sure.
+Do you think it all, would it be all, at all beneficial if I had everyone in the room on a laptop going through this with you?
+Or is this better just to have you roll through it?
+I think it'll be okay for today just to roll through it.
+Typically, what I'd like to see is everybody to get in later and just kind of play around a little bit in there.
+Ideally, I think we would probably like to have had you all play around with it a little bit earlier than this.
+But, hey, that's the way it goes.
+We've got a second session set up on Friday.
+So, you'll have plenty of time in between now and then to kind of play around a little bit in the system.
+So, I think you'll be fine.
+When you log into this, oh, sorry, go ahead.
+I was telling them at the next session.
+I had already actually that laptop over there.
+It's going to be the live manager laptop that'll be in your seat.
+I already started configuring with live manager today.
+So, I can have one for everybody here at the next one.
+Sometimes it's held to tickle the keys.
+Yeah, that's all I'll check.
+Yeah, and that totally works.
+A lot of times in conference rooms and such people don't have individual laptops.
+So, I either tell people that you can join from your desk or you can join altogether in a conference room.
+Usually, when you get to the conference room, there's one laptop or one thing that hooks into the projector and then that's pretty much it.
+But I'm happy to also turn over if you guys want to, if you have a computer in there and you want to tickle the ivories,
+I'm happy to turn over control to Warner, a few of you to go ahead and do that.
+But I think if you want to do that for the next session, that'd be great because what we are going to be doing next session is actually creating some items
+and pushing those through like an approval process, or at least a sample approval process.
+So, that might be good for people to have their own laptops if that's feasible.
+That'd be great.
+All right, I'll put it in a roughing now.
+Fantastic.
+No, no.
+Just hit me up with anything that comes up.
+So, that's good to know.
+It will be helpful actually in the next session as well.
+When you log into the system, it takes you to the platform site.
+So, under right next to your name here, there's an apps menu.
+And you'll see there's Granicus Platform, Peak Agenda, and then Users and Groups.
+So, we already kind of looked at the Users and Groups a little bit.
+But we'll get back into that in a little bit more detail when we get into the webcasting and that sort of thing.
+So, the platform, or what people call sometimes the Media Manager site,
+because this does manage your media, your videos, content, things of that nature.
+From the home screen, just to kind of give you a quick overview here.
+You have your encoder.
+That's the local server that sits on your network that does the recording and the broadcasting of the meetings.
+It also hooks into your audio video equipment so that that way, when you're broadcasting,
+you get the good audio and video signals.
+When the meeting is done recording, that local machine will transfer that information up to the Granicus Cloud servers.
+And those reside here.
+We have a streaming server for live, and we have an archive server for recorded media, so past meetings.
+You'll also see a list of your upcoming events or upcoming meetings,
+and then a list of your recently added archives.
+So you can see Maggie and Maggie done a couple of test meetings.
+I think just trying to test some of that audio video stuff.
+And so that's where those would reside.
+Just kind of moving left to right here across the top.
+You have your events, and it will give you the list of your events or meetings out over the next 30 days.
+And you can use these arrows to kind of click back and forth.
+I'll show you how we're going to set up all of your meetings for the schedule, at least for the calendar year.
+Your archives, those will be broken out into separate folders.
+So for example, we have a board of supervisors.
+I created one called Parks and Rec.
+We could also create one called planning, because that looks like probably what we're more like to go with next.
+And these folders are essentially where your content resides, given a specific folder structure.
+So when we create meetings, we want them to fall into these folders, and then these folders will appear on your view page.
+So your view page, Scott mentioned earlier about the eye frame.
+Just to give you an idea of what an eye frame is, if you're not familiar.
+I like to call it a window within a website.
+So a website within a website.
+This is a client of, more recent client of mine, City of Bainbridge Island.
+So this is their website, and they've created a page off their website.
+The best way I can put this is probably, this is probably the 1100th page that they've created on their website, and they call it City Council Agendas.
+So the top navigation is theirs, the left-hand navigation is theirs.
+But this window right here in the center, kind of center, right, is all Granicus content.
+So think of this page here as your view page here.
+So this page here will drop into a page on your website, so that when people navigate from your home page of the website, they want to go view video content, etc.,
+they'll get pushed to a view something similar to this.
+And that's where you'll display your agenda, your agenda packet, and then for your past meetings, you know, your agenda,
+they call their minute summaries, and then video, and then their agenda packets as well.
+Questions on that so far?
+Okay, cool.
+We're going to come back to some of this stuff when we get into the webcasting, just a quick overview of reports.
+This gives you kind of analytics on where your users are coming from, what devices they're using to get to view your content.
+You will be able to kind of drill down as to what pages your citizens are visiting, you know, so where, and what meetings they're coming to view the most.
+So you can see how many people are getting, how many hits you're getting on live events versus recorded media.
+So the last board of supervisors, you know, we had 20 people who watched it live, and we had, you know, 30 people that watched it on demand.
+Also, some of the things we'll talk a little bit about as well is how you can disperse your content over social media.
+So if you have a Twitter account or a Facebook account and you want to post your meetings, your videos, maybe just specific ones, but if you want to post those to your Facebook or Twitter account.
+If you have Facebook followers and are watching the content, the, you know, the granic is content from your Facebook page, it will basically show you where your citizens are watching from.
+So is it social media? Is it direct links from the website itself? Or what is it that they're actually doing?
+And then ultimately where your citizens live, I should say where your citizens are watching.
+So most likely most of the citizens will be in the county, but you may have a scattering of people outside of the county that would be watching specific meetings.
+So if they live there or they only live there part time or what have you, you may get some people from Florida watching or what have you.
+So that's just a quick overview of the reports module. You can also set up your analytics based on time frames, et cetera.
+And we move on over here to the apps menu and we're going to select peak agenda, which is what we're going to focus on today.
+When you get into peak, you're going to see another dish dashboard. This will show you items created by you items awaiting your approval.
+And then you'll have a series of meeting cards or excuse me, upcoming meetings that have been created in the system.
+So we've just created a test meeting, one just so we could kind of take a look and see what the items look like on the agenda and kind of what the printout version of what that would look like.
+And we're going to go through that as well. So if there's tweaks and things that you see on that agenda and you'd like to make some changes or modifications to that.
+That's also what we expect during the training. So I think Maggie probably sent you a sample of what an agenda would look like.
+But sometimes it's kind of hard to just kind of take a sample and say, yeah, that's, that looks fine or yeah, it's okay.
+But when you get down into it, you start to see maybe some of the things that you, you know, you'd like to change just let me know and we can send that over to our design team to make any modifications we can do.
+Kind of going left to right on the dashboard. You have the meetings tab and that will give you your calendar list of meetings.
+You can filter your meetings by meeting type. Okay, so we've set up the board of supervisors as the original one we can go in and create one for planning as well.
+And then moving to the right of that we have our items tab.
+Now the items will break down the items in the system. So think of these as agenda items or items created by drafted for approval.
+You can see really using super intricate name or titles for these. So test item one and test item two.
+That's all items and then items created by you or items submitted by you. It will break those down as well.
+So if you want to see items that are created in the system, you can see all items and then you can also drill down by departments.
+So you can say, you know, how many items were created by public works.
+You can also use item types, so ordinances or resolutions that you're looking for.
+So you can drill down a number of things on the search functions if you're looking for a specific item.
+And as I mentioned, it also breaks them down into your items that you've created.
+And you can see it also breaks them down into a series of buckets.
+And those buckets are what we call draft items. So that's when you create an item in the system.
+Perhaps you're still compiling some information to get it ready for prime time.
+And then once you create it, once you have all that information, typically you'll send that through some type of a review process or an approval process.
+And that goes into a status of what we call in review.
+So whether it has to go to one person or five, it'll stay in that review status until the final person approved the item.
+And then it will go into a status of what we call approved.
+Now Mike, it did a time and correct me wrong.
+We probably won't be using the approval process.
+Does that could change with some time in the future?
+Okay.
+Right now the GAN is pretty much the approver, right?
+Okay.
+So is that the way things happen now?
+Somebody creates an item and sends it to Anne and then Anne reviews it and then puts it on to the agenda.
+It's everything's kosher.
+Yes.
+Pretty much.
+Okay.
+Okay.
+So that's a many administrator, but.
+Okay.
+Yeah.
+So we can, that's a very simple workflow.
+We can just basically say if somebody creates an item, the next thing they do is just send it to Anne for approval.
+And if you want the county administrator in there as an FYI on the items or.
+I have, you know, clients that were the county administrator essentially doesn't review each individual agenda item.
+They're just sent the agenda once the, you know, once the final or once the draft agenda is kind of.
+The draft agenda right before publishing that, yeah, we, we meet as a team and.
+Prove it together.
+Got it.
+So kind of a pre pre board a supervisor meeting meeting.
+Right.
+Got it.
+Okay.
+Yeah.
+So that approval process would be very basic.
+If you decide later on, you want to.
+You know, make it so that it goes to the department head and then to the.
+County attorney and then it's so on and so forth.
+You certainly can do that through the system.
+And, but as a easy, as an easy peasy way to set it up, that's probably the easiest way to go at least the simplest way to go to start out for sure.
+Okay.
+So items and over here we've got our create new.
+We'll walk back through this here in just a few minutes or probably towards the end of our session today.
+How you can create a new item and then how you can create a meeting.
+So when you're creating items.
+Your drafters typically will just have the ability to create items.
+They won't have the ability to create meetings.
+If down the line, you want to have your person who's handling the planning commission meetings or agendas.
+If you want to bring them on board, what we do is assign them what we call an agenda coordinator role, which gives them the ability to create meetings.
+Or we can create the calendar of meetings for them and then they can just kind of monitor and kind of quarterback the planning commission agendas if desired.
+This is the basic template that we set up for drafters to create items from.
+It just asks for item title item type and the meeting body.
+Those are the quote, granicus mandatory fields and any field that's mandatory will have the little red asterisk next to it.
+So you won't be able to create an item without those particular fields filled in.
+We'll just throw you an error.
+And then you can go back in and fill in your items.
+So a sample item.
+I'll just put in a sample resolution.
+So 19 dash 12345.
+The suggested action or the suggested motion.
+So it might be like approve the resolution with the following provisions.
+You know, one, two, three, etc.
+The item type.
+So in this case, this is a resolution.
+This submitting department.
+So who's submitting the item?
+Okay.
+Who the drafter is or who the person is that's creating the item.
+That by default, when you log in, I'm logged in as a super admin.
+So it doesn't put in the drafter for me.
+But for example, I could assign a person as the drafter.
+So I can say, hey, and you're going to be the person in charge of this item.
+And then the meeting body, board of supervisors, and then the meeting date.
+The only one we have available right now is the February 28th mock meeting.
+And then what section would this fall in under?
+Is it a consent item?
+Is it a, is it committee business?
+Planning commission business, public hearings.
+So it could be planning other business.
+So this was submitted by planning.
+It's a simple resolution.
+And then here is where I'm going to add any of my documents or attachments.
+Supporting documentation.
+So I have an attachments folder here.
+I've got, looks like I've got an Excel file.
+I've got a Word document.
+So I can just go ahead and select whatever I want to add in to my item.
+I can also rename the item if I want.
+If I want this to be resolution-12345, you can call it that.
+I can add in any file type that I want.
+So we recommend that you use that when you're loading in your documents,
+that you use the native format of the document.
+Word, Excel.
+Because when, when and if somebody is going to make edits to that or changes to that,
+you want to have them to have the ability to get into the file and actually edit it,
+change it, and replace it if needed.
+So I'm just going to go ahead and create my item.
+And that will put the item in this case.
+It'll put it into a draft status.
+And then what I would do is go through an approval process when I'm all set and done.
+And that will be through this approval status tab here where we'll select a workflow.
+And that workflow would simply just be the one workflow that we're all talking about,
+which is send this to Anne for approval.
+On these items, there's also the item history area that we'll discuss and tell you who did what to this item and when.
+So my little guy here is known as unknown.
+That's me in the super user category.
+But as you'll see, when I log in as different people and touch different items and make adjustments and changes,
+you'll see in the item history kind of the breadcrumbs that get laid from people making modifications and changes to that.
+You'll also be able to communicate back and forth with the drafters.
+And if you receive this item and you want the drafter to make some modifications or you've made some modifications and want to let the drafter know that you've done that,
+you can communicate back to the drafter in this item discussion area.
+And that sends information to the drafter.
+So we need to communicate back and forth with something that basically sends them an email with a link to the item with the comment that you made in there as well.
+So just a nice communication method.
+Also, this is also used for a few other things which I'll get into in the future.
+Kind of like if you wanted to, this item gets approved by by the board of supervisors or by the planning commission, you can put in, you know,
+approved item,
+five to two and referred to to BOS.
+So you can, this all this information here in the item discussion also comes into the item history.
+So if somebody wants to go back and find what happened to this item, you know, how, what was taken on this item and how, you know, what, what was the final final ruling on this item, they could always go to the minutes.
+But you could also come to the item and also put that information in as well.
+Creating meetings will come back to that, but basically you can create one time meetings.
+So if you have a special or a workshop, or you can create your recurring meetings, which are more your regular meetings that occur on a regular basis.
+So for example, here we have our board of supervisors, you know, regular meeting.
+And do you meet, weekly or do you meet by every other week?
+Twice a month.
+Okay. So it's what first and third or second and fourth?
+Second and fourth Wednesday.
+Second and fourth Wednesday.
+So when we go in and create our meetings here, second and fourth Wednesday occurs every month, start date.
+And I usually run them through to the end of the year because a lot of times the board has to approve the calendar for the following year.
+And then the typical start time of your meetings.
+Seven p.m.
+Right.
+So seven p.m.
+And then they'll run two, three hours for sure.
+Hopefully, no more than two.
+Okay. Very good.
+So we'll set it for, we'll set it for three.
+If we go into our advanced settings, this kind of goes into the webcasting piece.
+So do you want to automatically start your recordings?
+Do you want to broadcast your meetings? Do you want to record your meetings, et cetera?
+We create player templates for you.
+And that player template essentially is what the viewer watches when they click on the meeting as it's going on or the recording of that meeting.
+What folder we want it to go into at the end of the meeting?
+What the status of the archive or the video we want?
+Most clients will say it's pending so they can go in and review the video before they post it to the public.
+And then what view page that you'd want this to actually display on.
+And as of right now, we only have the one view page.
+But if you decided later on that you wanted to create multiple view pages so that your board of supervisors meetings were separated from your planning commission.
+What you're separated from additional meeting bodies that you want to bring on later.
+We can certainly do that for you too.
+So if I go ahead and create my meeting now, I just created my kind of my process for my meetings.
+So one on the 27th.
+Tomorrow. Is that accurate? You guys have a meeting tomorrow?
+Yes.
+And then the 13th is 27th and so on.
+Now what you'll be able to do if you run into smags where you might maybe not Wednesdays so much.
+But if you do get into a spot where you want to change a date or a lot of times around the holidays.
+A lot of the clients I work with they'll do like one meeting in November and one in December as opposed to two or three.
+So you can see here you guys have a meeting on Christmas. That's probably not going to fly.
+But I don't know.
+So what you could do is you could go into that meeting.
+And so now I'm into the meeting and you'll see all of these sections and we'll get into this in depth today.
+But you can go into that specific meeting details and you can change it.
+So if you run you can delete that meeting.
+And if I click on delete it will ask me do I want to delete the meeting or delete the series.
+And right now I don't want to do either.
+But if I wanted to delete it I could delete it.
+If I wanted to change the date like hey we're not going to have it on.
+You know this you know this week instead of having it on Wednesday we're going to have it on Monday.
+So I can change it to the 23rd and it simply just moves the calendar for me.
+So you can update the series or you can update specific occurrences within the series.
+And it won't throw off the rest of your items.
+Questions on that. We'll come back to that in more depth.
+I just wanted to give you kind of a quick overview of kind of all of the tabs here on the left.
+It's kind of your meetings, your items, your creating of their meetings and items in the system.
+And now we're.
+This in Granicus. This calendar is not integrated with the website calendar in any fashion.
+So we're going to basically be duplicating that on our website calendar.
+That's correct. Yeah.
+That is.
+I want to do on the website calendar is nothing different than you're doing the day.
+Actually I would think all you're going to do is put the link to the meeting page to the agenda.
+So that is.
+Right. But the date, the meeting dates, what we just want to get creative,
+we're going to have to duplicate that in both places.
+I know I know they have mentioned that they are working on further integrations,
+but I think that I'm aware of right now.
+Yeah. And there has been some discussions or some thoughts on actually integrating this calendar into the website.
+That's just at this point, it's not, it's not there at this point, but this is more of just an internal calendar for you to view through, through peak.
+But there has been discussion about actually moving that into a more of a view page look as opposed to the, you know, the actual view page.
+Actually moving the calendar out.
+And then from the calendar being able to view, you know, agendas and packets and minutes and such.
+So right now we're going to any questions before I move on over to administration.
+I did have one more question about the, when you mentioned the adding the file attachments as their native file types, be a dog, etc.
+And users are actually viewing that, you know, through the interface, you know, they'll be offering it to the website.
+Are there those going to be converted to PDF at all or is it just going to like, you know, use your clicks on it,
+just going to download that, you know.
+Well, it's going to be on your cell first.
+You can just look at our page.
+Right, but the actual attachments that get added to.
+Right.
+Yeah, no, that's a good question.
+And actually I should have mentioned that before.
+Yeah, we keep them in the native format so that the internal users that are within peak can edit those items.
+But when you do publish the agenda and or the agenda packet, it will automatically convert.
+In this case, I've got a word doc here and I got an Excel doc here.
+This is what we call, this is what we call an item packet.
+So think of it as instead of a agenda packet that has all of the agenda items with all of the backup material, you can do it for one specific item at a time.
+So when I create the packet, what it does is it takes the cover page or the cover sheet.
+So you can see for the supervisor's agenda item report, the date of the meeting, the person who submitted it, which I assigned and for.
+The planning department is the department it came from.
+It's a resolution.
+It's showing under the section called planning commission business, other business, the name, the suggested action and then the attachments.
+Now, if I was to open these attachments in new tabs.
+You'll see that they are PDFs.
+And then also if I scroll down, so essentially the cover page has been followed by the attachments in the order in which they were loaded into the system.
+So you can move those items around.
+So if you want to have the resolution first and then your Excel document next.
+You can do it that way or if you wanted to have the Excel doc first, you can just shuffle the items around or the attachments into the order you want.
+And then they'll follow in the order that you've kind of laid them out.
+So that was a good question.
+I apologize I breezed over that, but it will convert those documents to PDF.
+Another question that comes up sometimes related to documents and we can kind of get into this a little bit later as well is the way that they're uploaded is the way they're going to display in the system.
+So if you upload a document as landscape or portrait, that's the way it's going to come into the viewing.
+So just depending on what you upload this Excel document here that I uploaded, it has three tabs.
+So there was like a possible users group, a workflow group, and then the third tab was peak admin users.
+So it it distinguished the tabs and puts them into separate pages as well.
+So that's just just kind of an FYI on documents.
+Could we can I value to show you the initial excel sheet that you uploaded?
+The initial I'm sorry.
+Excel format.
+Oh, sure.
+So the Excel document, if I open this guy up.
+Moving super fast.
+Yep.
+So here.
+So here I had the different tabs. So I'd staff users workflow departments and then peak admin with the three tabs.
+But the staff users, you know, and then workflow departments and then peak admin.
+So it just kind of separated each of those into pages.
+So I had all the staff users page one, and then this was like page two through six, and then this was like page seven.
+Can I jump in?
+Sure.
+Planing department right now typically provides everything already in a PDF because it's a package.
+And I don't do any impulating of that.
+I just take what they have.
+Is that an issue or do they have to go back to the newer format?
+No, if they want, if they're just submitting the packet, the PDF as a whole PDFs are perfectly fine to attach.
+Any format will work.
+I just if you were going to be making or you were going to be making edits to it.
+Well, I think you need something like something better than Adobe reader.
+You need like the pro, which you probably have.
+So you could put in an image, you can put in whatever you want in the system.
+PDFs work just great.
+So there's no conversion there. It's what you see is what you get in that case.
+I guess if you are talking about creating the actual items from that.
+Yeah, they send me an item that, I mean, it's the whole package.
+It's everything.
+They send me individual items as PDFs.
+Well, and in the future, they'll have that original format as always just to make their attendance.
+Yeah.
+Create the PDF for them.
+I think what you do is just.
+And into the items themselves.
+Yeah, I mean, I'm going to take this, this item and drop it in right here.
+And then what they're also doing now is sending me alongside that the word version of just the resolution
+because I have to, I do have to go in and manipulate that.
+But that's the only piece that I get this in word.
+I got you.
+So that I can add the vote to the bottom and get Chris to find it.
+So they may have, you know, hundreds of some pages in an item.
+True.
+With maps.
+Oh, maps.
+And the resetting applications and all that.
+Sorry.
+Thank you.
+No good questions.
+Again, yeah.
+If they send you a PDF, that's perfectly fine.
+What it usually came down to from the discussions I would have with clients is that when they get the PDF,
+then they have to, if they have to edit that, they have to either send it back for them to edit it,
+or they have to have that, you know, Adobe Pro or something that actually allows you to edit PDFs.
+But if, again, whatever they attach for that, if they put in a PDF, and that looks good, then by all means,
+you can just approve it and it will go ahead and appear onto that agenda.
+Okay.
+Any other questions before I roll on over to Admin?
+We're at a good spot here.
+So we're at about an hour in.
+And so we got about an hour left and where I think we can jam through administration and that hour for sure.
+Okay.
+Cool.
+The admin section over here.
+And one other thing I wanted to point out here, you know, we looked at the apps menu.
+Right next to the apps menu is the help center.
+This is where all, if you, if you all are more, you like to learn by reading.
+This has all of our user guides in here.
+And they're broken out by essentially application, I guess would be.
+So in this case, we're working in peak agenda to peak agenda.
+It will walk you through kind of some of the different sections.
+So getting started, a peak administration, you know, working with meetings, working with agenda items, approval workflows.
+But we're probably not going to spend too much time on that.
+And then if you wanted to, you do the minutes and peak.
+Sounds like you guys are going to be doing it through the work piece.
+But that always is an option for you as well.
+Just another resource for you to have.
+You can always contact our support team from here as well, if you're having a problem.
+But during the deployment process, feel free to reach out to me and to Maggie on any questions that you have related to the system.
+Whether it's related to how things look or, you know, if you're having, if you're getting stuck on something trying to perform a certain function.
+By all means, let us know.
+For me, just an FYI best way to get in hold of me is probably email, because I'm on a lot of these calls throughout the day.
+And or text.
+So I typically don't answer the phone from, from numbers.
+I don't recognize because I just assume they're telemarketers.
+But if you text me to my cell phone and tell me who you are, I will, I will get back to you as soon as I can.
+And usually, as long as I'm not in the car, I will text you right back and give you an ETA as to when I can get back to you.
+So that's just a little bit of a segment there just before we pop into admin.
+And you can also use our online chat to reach to our customer, customer care team as well.
+And that's just up here in the upper right hand corner next to the admin.
+Okay. So when I click on to admin, a series of tabs will open over here on the left hand side.
+But then you'll see bodies, people.
+Sometimes I feel like Alex should back when I'm going through this body.
+People meeting types, agenda items, and then peak configuration.
+And when I click into each one of these, there'll be some sub tabs that come up underneath it.
+And so we're going to go through each of these. I'll try and explain what these things mean.
+And we're going to show you how you can come in and make any adjustments that you might need to the system.
+First thing we're going to start with is meeting bodies.
+So we've created a meeting body called Board of Supervisors.
+If you want to create another meeting body. So for example, we want to create a meeting body and we want to call it planning commission.
+And it will try to help you with the spelling if you make a mistake.
+Again, required fields are only the fields that have the red asterisk.
+So I don't need to fill in anything else here.
+If you fill in the member size, is it five or seven members for planning or is it more?
+Nine. I think it's nine.
+Nine? Okay.
+And then you can even select a color so that when you create meetings, the specific color that you use for a specific meeting body will display on your meetings page.
+I selected the purple for Board of Supervisors. If you don't like purple, by all means you can feel free to change it.
+So for example, here we have Board of Supervisors.
+You're going to see pretty, pretty prevalent throughout the application.
+Kind of like a green create or create new button. Edit to review or change and then the trash can to delete.
+So if we go into Board of Supervisors, you'll see here I've got the name, the meeting type, which we'll get into in a little bit as far as what the types mean regular special workshop, things like that.
+The meeting location.
+So this is the default meeting location. However, you can change the location of specific meetings on a one off basis.
+The default meeting time you had told me is seven. We had that originally set for six. So I'm going to come back in and change that.
+The contact person. This is an internal, you know, just internal field.
+The member size. And then again, you know, I chose the purple color. Maybe you like the other purple. Maybe you like blue or orange.
+By any stretch, you can feel free to pick whatever color you like and then save your changes.
+We're also going to be adding in your Board of Supervisors members. I'm not sure if you're familiar with the I-legislate application.
+Anybody talk to you about that?
+Yes. I am.
+Okay. Okay. So as you're familiar, the I-legislate application is what we call our paperless agenda.
+It's typically designed for your voting members. So your Board of Supervisors, your planning commission. However, anybody, you can give anyone access to it.
+It just allows them to receive the agenda electronically on their iPad, Android, or Windows tablets.
+Yeah, the nine-term plan for that, just for the folks in the room, is that is what we'll be changing to for their meetings over our old, very buggy way of doing it today.
+I will plan at a planning one of their work sessions for me to do a quick training session about a couple of minutes worth.
+I-legislate shouldn't take more than 20 minutes. It's pretty.
+Here's your meeting. Go make some notes. Have a good day.
+But I'll give you all that Mike. I'd like to work with you probably on a good agenda when I train.
+Sure. I've got a couple of sample agendas for that that I can send you to.
+And I'm also happy if you want. I'm also happy to to help with that training as well.
+We're going to use that one of our real ones when it's time. We're going to do like a whole soft launch of this.
+And when we go to do the training, we'll use one of our live agendas for it.
+Okay. Sounds good.
+So we'll add your members in. Essentially what we'll be doing is adding their names, their role, their membership status, if they're a voting member or not.
+And where this comes into play is when you publish the agenda from peak.
+It brings your voting members into the platform, which ultimately is used in live manager.
+So you can do your motions, your votes, your role call, attendance, things like that.
+So you can attach people who you do your minutes with as members.
+So if you want to include yourself in the role or you want to have the county attorney or the county administrator in the role,
+but is not a voting member, we simply just add their name in and then just uncheck the voting member box.
+But from a very easily standpoint is we'll set up your seven board members in here.
+So that when they do when we do roll out that I legislate for them, they will be able to receive that agenda and information directly on to the iPads or whatever device they're using.
+You'll already be in there just to be up for you.
+Aaron, Ellen, so all these people.
+Well, question.
+Why would we do that because they have no vote. They don't run.
+They're not voting, but they can clearly agenda on their iPads.
+We have both.
+We'll think of the website.
+We'll talk more about that later, but they're not part of being money.
+No, they're not.
+Yeah.
+Even Sharon.
+Sharon.
+Right.
+Okay.
+That's right.
+They don't do what I do is go out to the website once you've published it.
+We get it dropped.
+All of those people get it dropped.
+I don't want the one.
+Okay.
+Any other questions on meeting bodies?
+You can create a meeting body.
+It's just a body that meets.
+That's the kind of the definition of meeting body.
+It's a body that you're wanting to vote.
+The public agenda is for.
+What do I hope is comparable organization of the system is what I'm seeing, right?
+Well, like ITBOS will go in here eventually, at least for me, for my part, my committee.
+You know, this is a place where the committee should be because it checks out the mark for publishing it.
+Right.
+It does.
+Our minutes have to be published.
+This is the one stop portal.
+Of course, we got to move that cheese a little bit of time for everybody, but that's why we want us to be an example of this.
+You know, we got an upcoming ITBOS committee meeting.
+We won't have a video associated, but that's irregardless.
+It doesn't have to be a video, but this is your one stop shop for all county and a board appointed committees.
+But anyway, we can move on.
+Yeah.
+As you choose to bring on additional, like you said, moving the cheese, you plan on bringing on additional meeting bodies.
+This is where you start to create them.
+In addition to the bodies, we have what we call departments.
+Now, departments are typically assigned to a person.
+And that's so if somebody is submitting an item, the department field is an optional item in the drop down that you can select.
+So it allows you to sort items by department.
+But in addition, I know right now we're not going to be setting up the workflows, but you can set workflows by department as well.
+And that's where the department really comes in handy.
+We just put in a couple of kind of sample ones, finance, parks, and rack public safety, public works.
+I know there's a ton more because I just looked over on your website.
+So are these, are there anything in here in this list that would not be submitting items to to the board supervisors?
+There's a lot of duplication, for instance, landfill is actually under public works, but this is designed to get people quicker to what they're looking for.
+Even though land falls under public work.
+So there's some overlap there.
+So zoning might be attached to planning and development as well.
+So what we can do is just go in and fill in what we what we want or what we know.
+So let's see here if I go back here, let's see.
+Well, we can do that list for you.
+Okay, yeah, if you want to.
+So how do you do that or where you do that is just under the managing departments.
+And then here you just go to create and pretty simple.
+The only thing you need to do is put in the name.
+So let's see if we have one here, parks and rack public safety.
+If you want to do information technology.
+Okay, great.
+So here we create that and we can actually select if we want the contact person here.
+And now you have that list.
+So all this is simply doing is in two spaces under the items.
+You'll see there is a department category.
+And now you'll see information technology is an option.
+And when we get into people.
+So managing people in the system, we can attach people to a specific department.
+So I can say that, that, I don't know why this says Andrea.
+Let's see.
+And true.
+Thank you.
+When we put in people's names, we can attach them to a specific department as well.
+Okay.
+So that's the two kind of two two pronged approach for departments as to why they're there.
+And what we use them for.
+But again, feel free to go in and create those departments in there.
+And you'll know better as far as what the overlap is.
+And that'll give you some familiarity with just kind of playing around in the system.
+So any questions on departments or meeting bodies at this point?
+Nope.
+Okay.
+Moving on.
+People.
+So people in the system are typically your drafters, your people that approve items, your people that manage agendas,
+your college and the coordinators, and then your administrators.
+So we have your people records.
+And then we also have your user record.
+So think of your person record as just a, you know, just your name.
+It's your, your name, your department, your email address, your phone number.
+And then that person can be tied to a user profile or a role.
+So in this case, I listed y'all as admins within the system.
+And you all have a people record as well.
+So where you have, we were looking at Andrews here.
+First name, last name, department, the user associated, and the email address.
+You can always fill in some additional information.
+By the way, I found this out.
+You can actually upload a picture here if you want to.
+So you can have your smiling face here in your listing.
+So pretty funny.
+But you can actually go ahead and do that.
+I've listed a couple of sample people in here for me.
+One is I call my buddy here Joe drafter.
+I use him to display what it's like to be a drafter.
+The permissions, the way that that person can perceive and see what's going on in the system.
+And when you create a user, you're going to ask to give them a login.
+So for example, here I can assign them a give a login to Joe.
+And I can say, I want Joe to be a drafter.
+Or do I want Joe to be an agenda coordinator, which is somebody that works with the genders.
+So like the person that's going to be handling the planning, commission meetings in the future.
+So as that person would probably be an agenda coordinator.
+And then you all right now are what we call peak administrators.
+So you'll have access.
+The difference between drafter and agenda coordinator is the agenda coordinator has all of the abilities of a drafter.
+But also has the ability to create meetings and work with the genders.
+The difference between an agenda coordinator and a peak administrator is simply one thing.
+Access to the admin tab in peak.
+So anybody that is not a peak admin will never see this tab.
+So they'll never be able to get in and make any modifications or changes.
+So if you want to add additional people, this is where you add them in.
+And then you assign the role to them and then generate the login.
+So this is going to send, I'm going to send you a list.
+If you want to send me a list of the people you want to enter into the system as drafters.
+Or you can enter them in yourself.
+It's up to you.
+It's a pretty tedious task.
+So I try not to subject you to that.
+But certainly you can.
+So to create a person, I'm just going to delete myself here.
+And I'm going to show you how to add a person.
+So we go over here to click add person.
+I'm going to put in.
+First day in last name and email address are the three required fields.
+And why is he going over these roles?
+Well, I want to think about Teresa and what role she would need to be at.
+I don't think it's the admin piece, but maybe the coordinator.
+And so once I've created my.
+Who's what role.
+Diane Walsh is who I'm thinking of.
+Thank you.
+Can I ask a question on the.
+Difference between people and users.
+And I think you can kind of touch on this, but.
+We hear with your Joe drafter there.
+You know, it's not a peak user, but you just gave the log in.
+Why would we have.
+Why would we have users on this list.
+That we didn't want to give a log into.
+Um.
+Hmm.
+Why would you have users on this list that we didn't want to give a log into?
+We wouldn't use that.
+I'm curious why that functionality is there.
+Uh, most likely you wouldn't have people on here that were not peak users.
+Um, but you can have.
+Let me try to think.
+Well, is that because you hadn't generated a log in yet for him?
+So you were showing up with the non peak user.
+Right.
+So the idea is what we want to do.
+Ideally is we want the.
+The user.
+To create their own password.
+So what we do when we send them when we say make this person a user.
+Um, it generates an email to them.
+And then they set their password directly from the email.
+So when you're ready to train your drafters.
+What we typically will do is we'll send out the day before or maybe two days before.
+Hey, you're going to be receiving.
+You're going to be receiving an email.
+It's going to be coming from no reply at granicus.com.
+And it's going to have your username.
+So first name got last name.
+It looks like I messed that up because it looks like I put an extra space in my name there.
+Yeah, that's what I did.
+So, um, first name got last name and then.
+Create a user for them.
+And then all they're simply doing is from that email address.
+Excuse me from that email.
+My email go.
+Here from the email.
+They'll have first name got last name.
+And then they'll be able to set their password.
+So when they click on set my password.
+It should take them.
+Sorry, let's sign out of here.
+It's holding on to my cookies, I guess.
+And set my password.
+So it says, hi, Michael.
+Please set your password below.
+And so I go ahead and type in my password and then confirm my password.
+And then submit it.
+And that's really just what that email is all about is assigning.
+Giving those people the ability to create their own password.
+And typically the login again is going to be first name got last name.
+And then I could log in.
+And you'll see the difference when I log in as a drafter.
+Versus an administrator.
+Well, if I can.
+Oh, I know why.
+Because I had an extra space in my name.
+Space dot Kelly.
+And then this was.
+Hopefully I won't make that mistake when I'm inputting names.
+It's easier when I cut and paste.
+I'm going to be here.
+I don't have access to admin.
+I have the ability to create agenda items, but not meetings.
+So just based upon that permission set.
+Again, I can.
+I can view items that are not mine.
+So the so eyeball here I can view an item that was not created by me.
+But you'll notice I only have read capabilities.
+I do not have.
+Editing capabilities on this item.
+Okay.
+So that's kind of one of the things that.
+Under the apps list.
+Under the apps.
+I mean.
+Okay.
+Cool.
+Yep.
+So I only have access to peak.
+As you guys are going to be dealing with the webcasting and all of that stuff.
+You'll have access to the platform as well.
+Now they will have access to the help center.
+And that's by design.
+So that that way if they they get stuck and they want to.
+Read up on how peak works.
+They can certainly do that too.
+They also have access to contact our support.
+They have access to our webinars.
+So they can.
+Take any classes with us that are free.
+As well.
+So all of those things they'll have access to.
+As the draft.
+And the draft are different from an agenda coordinator.
+How.
+So a draft or can draft items.
+But a draft or can not create meetings or manage meetings.
+The agenda coordinator will have the ability to manage meetings.
+So typically, whoever the person is that manages a particular meeting bodies agendas,
+whether it's planning commission, parks and rec, whatever it might be.
+That person would be what we call an agenda coordinator.
+Because in the in the addition to having the ability to create an item.
+They also have the ability to.
+They also have the ability to manipulate the agenda.
+Publish.
+Download that sort of thing that your typical drafters would not have the ability to do.
+So somebody backing up my position could just be an agenda coordinator and manage the meeting.
+Start to finish without me.
+Yep.
+That's correct.
+Okay.
+And if you found that that wasn't enough for them, like if they are actually going to be adding users and.
+They are going to be.
+They are going to be.
+They are going to be.
+They are going to be interesting things from that perspective, from the administrative side.
+We would just need.
+It's pretty easy to change people's permissions in here.
+And you can.
+Just the same way as you can bump people's permissions up.
+You can also bump people's permissions down.
+Under.
+Peak.
+As I mentioned, if we go back to admin and people.
+If we go back here and my Kelly are both listed as drafters.
+If we wanted to change their role, let's say to agenda coordinator.
+So I can change Michael Kelly to agenda coordinator.
+I can sign out and then sign in as Michael again.
+And we should be able to see.
+The updated changes are permissions.
+So again, I only have access to peak.
+But under the create new, now you see I have the ability to create a meeting.
+And an agenda item.
+So I have two options here.
+I can also view agendas.
+For meetings as well.
+So as an agenda coordinator, you'll have that ability.
+Whereas as a draft or you vote.
+Questions so far.
+Okay.
+Again, I'll send you an excel sheet.
+And if you want to fill in just, you know, the users or the people that are going to be drafting items in the system.
+All I need is first name, last name and email.
+If you have department, I'm happy to fill that into.
+Also, if you'd prefer to do it, that's you certainly can.
+It is, it's, I mean, it's not a bad task.
+If you're sitting there kind of watching TV and just kind of mindlessly going through and adding people, cutting and pasting.
+That's, you know, not bad to do.
+It's not going to be very many, frankly.
+Okay.
+Again, as we use into this, because really,
+forehand has been the whole kit and the caboodle.
+So I'm going to start calling the caboodle.
+I mean, we're at many hats.
+So, but I can see, you know, as we move forward, you know, we're giving the enterprise an option.
+You know, the approval flows, having other people be part of it.
+It's definitely something getting it really organized, but we're going to have to do that in a, in a paste kind of way.
+Okay.
+Yeah.
+However, it works out for you all.
+We're, we're happy to kind of make that happen.
+So,
+and again, normally what, what I typically will do is I'll put all the users into the system.
+And then when you're ready to do,
+when you're ready to do your draft or approver training,
+then I send out those emails, you know, the night before or the day before, et cetera.
+Thank you.
+Yeah, no problem.
+So I'll send that list over if you want to send it back to me, or if you want to add them in, again, pretty simple.
+Just hit add person, first name, last name, and email address, and then save.
+And then we can send them a notification later.
+So that's our people meeting types.
+Let's go into meeting types.
+Meeting types.
+So manage meeting types.
+So the meeting type, this page shows the meeting types in the system.
+Think of the meeting type as a template for a specific kind of meeting.
+So what we did is we took your order supervisors meeting, and we created what we call the agenda sections.
+Of that meeting.
+So here you have your 7 p.m. regular call to order, your invocation, your pledge, your adoption of the agenda.
+Citizen comments, consent agenda, Board of Supervisors comments, county officials, committee business, et cetera, et cetera, all the way down to adjourn.
+I just look correct from a perspective of what a typical regular Board of Supervisors meeting would look like.
+It does.
+Now this time of the year, we are typically starting with a work session at 530, which is, you know, I have been including on the agenda two meetings from one paper agenda copy.
+But it looks like now we can be running them as two separate meetings.
+We could do it either way. So what you could do is you could add a section.
+Okay.
+And under the section that puts it down here at the bottom and then you drag it to where you want it.
+So when we add an section, we could say this is a work session.
+Trying to remember what the.
+Well, that's why you see 7 p.m. for the regular startup because we would typically have a 530 call to order for a work session and then a 7 p.m.
+So if we had a 530 call to order work session and I save this section and then I just use here we have the edit to the pencil to edit the trash can to delete.
+And then this little icon here is what we call our drag drop icon.
+And then you can drag this to wherever you want this to be in your meeting.
+So there I even I should probably say work session call to order as opposed to call to order work session.
+There.
+That's a little better.
+So here we can do.
+So would you have would you have items that appear under the work session or is it just something like this where you have.
+For discussion items.
+For presentations by department heads and that sort of thing.
+So yeah.
+So would there be a section called like discussion items or.
+Or you know there might be a PowerPoint presented by the airport manager or something like that.
+So you could have potential bigger agenda items dropped in there.
+Okay.
+So there's one thing that we can do one is we can add in additional sections underneath the 530 work session.
+We could call it like discussion discussion items or what have you.
+And you can update what the actual.
+You know discussion item or discussion items.
+And you could even change if it's not discussion items its presentation or what have you.
+What this does is kind of the template is just kind of a place base to start by.
+And then what this does is it updates the template.
+So when you go to your meetings.
+So if I go to my meetings.
+And I go to let's say the March 13th meeting.
+It's waiting to update for me here.
+So it'll start to pull in those items and those sections into that meeting.
+Right. So now I have for my meetings upcoming 530 work session.
+I have a discussion item section now.
+And then I have my 7pm.
+And I can remove these.
+I can either on a meeting by meeting basis.
+If it's not discussion items, maybe it's presentation.
+Right.
+I can even change it on a meeting by meeting basis as to what the actual title of the item would be.
+And I can if I'm not having anything, what did I do wrong?
+If I'm not having anything.
+You know, what I can even remove.
+I can even remove it if we're not having or we're not having a work session at all.
+I can even delete that section and the presentation section for this particular meeting.
+So on a meeting by meeting basis, you can modify and change and adjust the order of things.
+But in administration, what we want to do is just kind of start off with what are the basic types of meetings.
+And then what do they, you know, kind of what do they look like from a work section.
+One.
+Does modifying those on a case by case basis?
+Does this affect the templates at all or does it create a new template if you change stuff around?
+Yes.
+So if you change the template, it will modify every meeting from today forward.
+It will not modify anything in the past if you change the template.
+If you change on an individual meeting basis, it will not affect other meetings.
+So when I, for example, that March 13th meeting, you know, I changed this to presentations.
+But if I went to the April 24th meeting, it'll say discussion items.
+Because that's what's in the template.
+And I guess our other option is if we wanted to have budget work session of a separate meeting, then we end up on that meeting calendar with two meetings at nine one at five thirty one seven.
+That's why today we've got three.
+Yeah.
+I have three.
+So I have a work session and a regular meeting.
+Yeah.
+So if you, if you prefer to set them up that way, you'd have the meeting body and then you'd have the meeting type.
+And then the meeting type, you'd have a work study, regular and a special.
+You'd have meetings five thirty six thirty and seven on the calendar.
+There'd be your regular meeting, your work session, and then your special or what have you.
+Okay.
+I'll make sense.
+A lot of flexible.
+Okay.
+It might be awesome.
+Real quick, this is Andrew.
+I just want to make a note.
+I'm more did right now and under meeting types.
+I only have managed meeting type and manage meeting the statuses.
+I don't have the manage agenda templates.
+And that's probably by design.
+The template is something that our designers work in.
+I think it's because I'm logged in as a super admin.
+That it gives me access to that.
+It's just the actual template of the agenda.
+Let me see if I can actually show you what it looks like.
+Yeah.
+It just gives you kind of a view of what the agenda looks like.
+It's just a kind of a view of the template.
+And our designers, if they're making any modifications or changes to it,
+they'll also go in and download it and then make changes that way.
+Gotcha.
+So no, you were just doing everything for the meeting type.
+Yep.
+So this is under the manage meeting types.
+If you wanted to create another meeting type, you would just create the title.
+For example, you could use work session.
+The archive folder.
+If you're going to be streaming it, where you want it to go.
+The agenda template that we set up for you.
+And then you just start in with your sections.
+So this, in this case, it'd be your.
+In this case, you know, it's your 530.
+Work session called to order.
+Is it numbered or not numbered?
+And is there any text you want underneath it?
+You know, for like public comments and things like that,
+you might put in something like if I put in here public comment.
+And, you know, you'd say something like, you know, each person has three minutes to address the board.
+And then what that does is it simply puts that text underneath that section.
+And then that would be displayed on the agenda.
+Gotcha.
+That makes sense?
+Okay.
+So you can create those meeting types.
+You just, and again, a lot of times the work session.
+It's going to be very simplistic, right?
+You're going to have the call to order.
+And you're going to have your discussion item or items.
+And then, you know, maybe, well, probably on a work session, you probably won't have public comment.
+And then you'll have, you know, a journey to regular meeting, probably.
+That's true.
+Is it, oh, you are in?
+Yeah.
+Okay.
+A journey to regular.
+My typing skills leave a lot to be desired.
+And my spelling is not very good either.
+So, so here you'd have your five thirty call to order.
+Then your discussion items.
+And then you're adjourned to regular meeting as far as your meeting types.
+So entirely up to you, whether you want to break it out.
+We've included it in here.
+So if you want to just create the one agenda, that's perfectly fine too.
+That's good.
+Thanks.
+All right.
+Meeting statuses.
+It's just basically two statuses, final and draft.
+This goes into play when you're actually dealing with meetings.
+So if I was to look at the meeting.
+There's a status up here that says draft and a status that says final.
+One of the main keys about that.
+And you'll see in the drafter email.
+It'll tell you a little bit about what a drafter's role is.
+So this role has the ability to create and manage everything to the agenda items and agenda items work flow.
+A drafter can also view agendas along with associated items and attachments.
+When those agendas have been assigned a final status.
+So by changing the status of an agenda from draft to final, you give some ability for the drafters to view things that they weren't able to view previously.
+That's essentially what that means.
+So that whole draft final meeting status type.
+That's all it simply means.
+You can also add statuses.
+Sometimes people will add an amended status or amended final.
+And that is also a final status.
+But it is something different from final.
+It's when something's been amended after the draft has been posted.
+But that's, you know, something that if you want and have additional statuses, you can have them.
+Typically, everybody I've worked with just pretty much draft and final is what they've been using.
+Okay.
+Next we have agenda items.
+And so under that we have what we call the first thing is our item types.
+So where these item types come into play.
+Again, under our items.
+If we go back to items.
+There is our item types.
+So we can sort by item types.
+Item types is also a required field when you create a new item.
+So item title, item type, you know, a meeting body.
+So what we want to do is make sure that the item types we have in here.
+When somebody is creating an item, are they going to be able to fit them in these buckets?
+Or are there different items that we want to create?
+Committee report, ordinance, resolution, planning, staff report.
+Are there any additional record types you want to add in here?
+Another example usually is minutes.
+So if you're approving or getting a set of minutes approved to go on to the agenda, that's usually another one.
+Well, I mean, often our agenda items will consist of a public hearing.
+Okay.
+Well, consideration of the item that's already been heard for a public hearing and is now coming back.
+I mean, we would probably just want kind of a generic catch all for odd ball items.
+Okay.
+Okay.
+It's up to you.
+We can put in some or we can, you know, if you want to think about it, then let me know.
+Or if you want to add them in yourself by all means.
+Sometimes it happens as we go through a game this and come up on another type.
+Or like you said, we end up with a miscellaneous type per the bucket of, we don't know what this really.
+Okay.
+It could be other.
+Yeah, because the type could be related to the section and it may not.
+So you might have, I'm just thinking you might have a report that might appear on consent.
+Or you might have a report that might appear somewhere else just as far as the sections go.
+So when we're thinking about.
+Often what happens with us is that the report itself is on the consent agenda.
+But any action items that are generated out of that report become actual agenda items separately.
+And I will link back to the committee report for the backup.
+But the action item itself becomes an agenda item.
+So it would have been out of the committee report.
+Got it.
+So in your case, the item would fall under consent and perhaps one of these other sections.
+The action item will not fall under consent.
+The report being given to the board is what is on the consent agenda.
+But if there is an action item, it will then come out and go under committee business.
+Gotcha.
+Okay.
+So like finance committee items that are appropriations, the report that finance committee had a meeting
+and they met on such and such a day and they did this.
+And this is what they decided.
+That goes on the consent agenda.
+But there might be ten appropriations coming out of that report that then go on the finance committee business section
+of the board agenda.
+Got it.
+Currently what I'm saying is that those agenda items back to the committee report.
+But it looks like they're going to be duplicated using this format.
+Got it.
+Okay.
+There is a way or a method.
+But it sounds like maybe it wouldn't be.
+I was just trying to think.
+I think it would be a way to actually handle that, but I guess you'd have the report which would go on consent.
+And then the item itself would go under what I was thinking was you can have an item appear in multiple sections.
+So I can have it appear in consent and I can also have it appear in committee business.
+So it will appear in both both sections.
+But you'd have the report which would appear in consent and then whatever the appropriations from finance would go under committee business.
+Right.
+And so what we need to figure out, like I know in the next, the March 13th agenda, I know I have a sheet that are 10 or 11 separate appropriations.
+Each one is going to be voted on individually.
+It's really a separate agenda item.
+Gotcha.
+So you really would have, this would be appropriation one, appropriation two, you know, from finance.
+And then you'd have another item which is just the finance report which would go on consent.
+Right.
+And we're going to have to work with our finance chairman because the board member who is the chair of the finance committee is very particular about how these items appear.
+And she wants the appropriations to appear in the same font and number style that they came out of committee on.
+So I have to duplicate that in the agenda.
+So we're going to really be trying to skin the cat here to have her happy with how this appears on the property.
+Gotcha.
+I'm wondering whether this is going to be one agenda item that has 10 pieces for voting.
+Or is this going to be 10 separate items?
+I would think if you're going to be voting on them separately, then there would be 10 separate items.
+It would be easier to handle in the live meeting when you're taking multiple votes and motions if they're separated out individually.
+Or is it out of these 10?
+She will, when she makes her motion, say four, five, and eight are going to be consent items.
+Or they voted on them and committing on consent.
+So I'm going to move on those three together.
+So it gets completely called up.
+It'll get a little complicated, but I think we can, I think we can work through it.
+I've done some more things with the other clients where they've proved certain items.
+Now, would you, and just about to get too far off track here, but would you know before the meeting starts,
+which items they actually took in committee and they're going to move to consent?
+Or is that something that they just bring up in the meeting and you kind of have to shoot from the hip at that point?
+I will know, I will know when I'm preparing the agenda, but, and she will often move then for those items, so like four, five, and eight.
+So when I, I know that she's going to do that ahead of time.
+So when I'm preparing my minutes, I know that I can put those three together in one motion.
+Gotcha.
+But there's a very short turnaround between when I get that information from the committee and have to drop it on my agenda.
+And then I'm not positive that she's going to move that way.
+I just have to leave it open ended enough to, to know that that's what's going to happen.
+I mean, I think she will work with me and be flexible, but we doubt it's not cut and dry yet.
+We've got a, we're going to have to bring her along on this.
+She's only I give you us committee and she's been part of this whole process.
+We've enough.
+I mean, we, so we have to work with it.
+So what my suggestion would be is if we create the 10 items, let's say there's 10 appropriations from finance and they all are under committee business.
+And then prior to the meeting, she'll say, hey, four, five, and eight are going to be consent items.
+Then what you can do is just change the section of the items that she wants to put on consent.
+And then the item, the other items will be under committee business.
+So when the agenda gets printed.
+I'm misspeaking, she's not going to add them to the board consent agenda.
+She's just going to make one motion for those three because her committee voted on them.
+Oh, okay.
+So.
+Gotcha.
+Okay.
+So we can do that for her.
+Yeah, she won't want the numbering changed.
+She's going to want, you know, so it's not nice and neat.
+I can't say these committee, these items are going to be one motion because they were consent on the committee.
+She wants to leave the numbering the way it was.
+It's just grouping.
+Yeah.
+Understood.
+Understood.
+We'll go through that.
+And actually, I'm just making a note of myself to do that.
+Okay.
+Or, you know, some combined.
+So when we go into the live manager piece, we'll take a couple of those items.
+I'll put in some sample appropriation items.
+And then we'll walk through the process of, you know, if all 10 are voted on separately.
+Or if, like you said, four, five, and six are all voted on together, how will actually do that?
+Okay.
+Four, five, and six.
+So I'm just making a note.
+So I bring that up in the live meeting process.
+So we can practice that.
+Happening.
+Let's see.
+So meeting types.
+We looked at meeting statuses agenda items.
+So the item types.
+So again, just kind of think about what those might be.
+You know, if you want to have a miscellaneous, we certainly could have, you know, just probably miscellaneous.
+Okay.
+Yes.
+If you could spell miscellaneous, that's usually helpful.
+There we go.
+So miscellaneous.
+Item IDs.
+I try to keep this pretty simple.
+This is just, think of this as just the database for every item you create.
+It gives it a sequence number.
+Some clients will put in the year as a prefix or the year as a suffix so they can categorize items created in 2018 versus 2019 versus 2020.
+I try to keep it simple.
+This number is really used for nothing except perhaps searching.
+But most people that are searching for items are going to be using a keyword search or a department or an item type search rather than actually searching for the number three or the number one.
+Those are just think of them as just sequence numbers.
+But again, you're, you know, feel free to, if you want to change this and have a suffix of 2019 and or excuse me, a prefix or a suffix of the year by all means, you can do that.
+Item templates.
+Let me, let me just ask real quick, those numbers are there.
+What, what, what does setting this manage item IDs? What does that do?
+So if I said, yeah, let's just say I, so if I said we're going to set the prefix to be 2019.
+The next item I create will have an item ID when I save it, the item ID itself will be 2019 dash 004 or 001 or what have you.
+So this number, which is the sequence number, basically there's been three, three items created in the system.
+And it's all it's saying is the next item, the next ID will be number four.
+And if I wanted to put a prefix or something on it, I could.
+So is that, is that what's actually going to appear on the agenda?
+No, no, no, it doesn't, yeah, it doesn't, that's what I'm saying.
+It doesn't appear anywhere.
+So it's kind of a, yes, kind of.
+Like I said, I guess the only thing I could think of is that if they're categorizing things like, hey, we, we did, I don't know.
+2000 item long 2019.
+And then when 2020 comes around, they can change the prefix to 2020, you know, that sort of thing.
+I haven't really seen a lot of use with it.
+Well, like you said, we don't, we don't really have users that will, will search a database like I would search a database.
+They're going to use keywords, you know, bring up, she's saying about the landfill type in landfill.
+But for the nerds in the room, we might find that beneficial at some point.
+But again, you can change it at any time.
+So if you want to start using in 2020, you want to use a prefix of 2020 and have it started, you know, 001, you know, whatever you want to put it in as.
+So in terms of, yeah.
+Yeah, so it's think of your database query, I guess, would be the best way to look at that.
+What this is referring to is when you create an item, so like when I go up to create new and I select agenda item, I'm presented with this template, you know, item title suggested action item type.
+As I mentioned, title type and meeting body are all required, but you can also choose additional fields to be required.
+So if you want the department to be required field, if you want suggested action, if you want the meeting date to be required.
+And the section to be required.
+So if I'm creating an item and I'm sending it over to Anne for approval, do I want to make sure I have the meeting date in there in the section.
+Required fields are not.
+And then in addition to those fields, depending on what you want to make required, what I do is just kind of a rule.
+If the people that are draft in the items are going to know this information, at least 80% sure, then I make it a required field, because that's less work for Anne on the backend.
+You're just validating as opposed to selecting and choosing.
+If your, if your drafters are not going to know this information at all, like I'll never know what section this is going to be in and I'll never know exactly what meeting date this is supposed to be for.
+Then I would leave them as not required fields, because you want them to be able to create the form.
+And if it's a required field and they don't know what to put, that could cause some, just some frustration on their part.
+So just think about that, nothing you have to do right now.
+A drafter, I usually make a required field just because the drafter that logs in will always have their name, but we always want to have somebody associated with the item.
+In addition to the fields that are here, we can also create what we call custom fields.
+So if you recall, just kind of looking at the cover sheet, we have a standard cover sheet.
+Let me go to my items list here real quick so I can just give you a quick review of what we were talking about.
+So I have my sample resolution here, and when I went to do my item packet.
+So when I went to do my item packet here, let's see if I can get my download to show up here real quick.
+We have what's called the cover page. So the cover page has some of that information already in it, you know, suggested action subject.
+If you want additional fields to display from that packet or on that packet, you could add fields into that item template.
+So for example, if I said I wanted to put in a text area field, you know, 55,000 characters, I want the label to be background.
+And then the placeholder I can put in this is the background of the item.
+Okay, and I can save that and I can actually add that to my template.
+So if I went back to my item templates, and I want to add a field, I could add a background as the field.
+I can make it required so that when somebody fills out an item, they'll actually be required to fill out the background as well.
+And this information or the custom fields that you create can be implemented to go on to your cover sheet.
+So if you wanted to have a section here called background, you under the subject suggested action, then you'd have background, then your attachments, you could do that on the cover sheet.
+Any thoughts on custom fields. So again, if I created this and saved it, if I went to create a new item, I would have in addition to the fields, I'm supposed to fill out already.
+I also have this background field I need to fill out as well.
+And this would just appear on that cover sheet, but would not appear on the agenda sheet template that you've created that has all the cat, the agenda item.
+That is correct. Yes. The custom fields can show on the cover page.
+We don't know, I think we're limited on what we can pull from the custom fields and put on to the actual agenda, but that might be something.
+If there's something you want to have added there, we can look and see if we can do that.
+But typically, it's just usually on the cover sheet.
+And again, you don't have to, I just, that was just an idea. Sometimes I'll give you a couple of other examples that popped up fiscal impact.
+So if you have an item that is outside of a budgeted cycle, you might say that this has a fiscal impact of yes, kind of a yes no box.
+And then that usually flags the finance director or the treasurer or something like that that we've got an out of budget item or something that wasn't budgeted.
+That would be, that would be handled by our finance committee items where they're voting individually.
+And there's a, there's already a criteria of whether local funds are required or not.
+That would be stressed at the through the finance committee. That would not ever come directly to the board. I don't think.
+Okay. Just again, just a couple of words. We're always wanting to know the fiscal impact based on the programmatic based budgeting.
+We had to put what quartile that particular new service or endeavor would, you know, fall into the county one through four.
+Yeah, it was.
+A lot of what we get to.
+So again, we can create whatever those custom fields are. And if you want them to display or not display, you know, a lot of times clients use these custom fields just during the approval process or during the creation process.
+But those fields don't show up. You know, I had one where a client actually wanted a custom field called county manager, county administrator comments.
+And there was just a section where the county administrator can fill in comments on the item. And it didn't go on to the agenda or the cover sheet.
+It was simply just attached to the item for historical purposes.
+And you went back and searched it. The commissioner, excuse me, the county administrators comments were tied to that item.
+So adding an additional field doesn't necessarily mean it has to display anywhere except it can be just a field that someone fills out information.
+So just an FYI, managing approvals.
+So we talked a little bit about this. We're probably not going to be setting this up, but a pretty standard approval what we'd want to set up.
+Now you can do it by user. You can do it by department or you can do it as a global. And I think right now we just want to do the global approval.
+So I'll just call it SCVA approval.
+And then this would be agenda posting, perhaps, you know, you can call the phase whatever you want it to be. And this would go to Anne.
+So what this means is when someone drafts an item. So for example, my go to my items, sorry, save my changes.
+If I went to my items, there's my sample resolution.
+And I want to get my item approved. I would select the workflow. And then I would use the workflow.
+And then I would initialize it. And what that will do is that will change the status of the item from draft to in review.
+It will send Anne an email so that she can approve it. So it's really more or less, I've created the item.
+It's got all the stuff I want. I'm going to send it to Anne to make sure it's good to go so she can validate it and approve it.
+So when we go to our meetings list, either from our dashboard, we'll have a list of items scheduled and a list of items approved.
+So once Anne approves that item, you can see this circle is recorder screen. Once she approves that final item, my full circle.
+And I'll know that all of my agenda items for February 28 are ready to go.
+Okay, clear as mud. So that's just a standard approval.
+Managing cover pages. This is kind of like the, you probably don't see this. It's probably like managing agenda templates.
+If we need to upload or change a cover page, we can do that. And then our peak configuration.
+This is kind of the standard.
+Do we want to include cover pages on our packets and item page numbers in our packets by default?
+Do we want to include cover pages on our item packets and page numbers by default?
+Do we want to publish cover pages with I legislate? That's also helpful if they have a cover page.
+They can view any of that information.
+They can publish any of that information, and then they can view that via I legislate.
+And then some other kind of general settings here.
+And having the ability to set an item to approved, that's usually again only agenda coordinators and above.
+And we also have the ability, and I'll show you this a little bit more tomorrow about overriding the agenda,
+and item deadlines and adding new workflows.
+I've set those at agenda coordinator and above, meaning anybody who's a draft or doesn't have the ability to do these things.
+And I'll explain it a little bit more in our next session on Friday when we get into really kind of the meetings,
+agendas, and moving items around and such.
+But any questions for me, we're kind of coming right up to the end of it here.
+There'll be plenty, I'm sure later on.
+Okay, well great.
+So, what are all the New York Tech detires and such and feel it, I'm sure?
+Yep.
+Oh.
+Okay, absolutely.
+So, what I'm going to do is what I typically do is I'll send a recap email at the probably closer to the midday today, end of the day,
+which puts the end of the day for you all.
+It'll just have what we covered today, what our next steps are, kind of what we're going to cover on Friday,
+and it'll have a link to the video recording from today's session.
+And then again, as questions come up, feel free to get in there and play around in the system,
+whether it's adding users or adding those item types, anything that you want through that administration area,
+adding new meeting bodies.
+Just get in there and play around a bit, and I'm sure questions will come out from that.
+And then we'll take, during the first part of Friday session, we'll take any questions that you have from this week.
+And then we'll dive right into kind of the publishing aspects of the meeting.
+So, we'll really dive into the meetings portion on Friday.
+And Mike, could we maybe start, and it will, the group wants to,
+could we start off Friday session with reviewing the templates that you all completed for us?
+I know we got the email, but it might help to have it up on the big screen, just review it, make sure,
+because now would be the time we're all together.
+We actually got Michael home the phone.
+He might have some insight that tweets we might need them to make.
+Thought it might be a good start off Friday session.
+If y'all want to do that, that sounds good.
+Sounds good to me.
+And I think now that we know a little bit more about Pete,
+that'll make looking at that agenda a little better to go our end.
+Okay, sounds good.
+All right, well then, again, look for that email.
+If you out here before close the business today, and then we'll review the template on Friday,
+and then any questions that you have on what we covered today.
+And then we'll dive into the meeting piece.
+And then probably in session three, we'll take that mock meeting information,
+and we'll put it to play in our live environment or pseudo live environment during our mock meeting
+and going in and putting in motions and votes and those sort of things.
+I vote for Karen to buy everybody lunch.
+That's good.
+All right, well you all have a great rest of your day, and look forward to talking to y'all on Friday.
+Thank you very much.
+Bye.
+All right.
+Thank you.
+Bye-bye.
